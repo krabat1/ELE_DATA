@@ -1,0 +1,35 @@
+name: Sync Data from GAS
+on:
+  schedule:
+    - cron: '0 0 * * *' # Naponta egyszer, éjfélkor fut le (átírható pl. '0 * * * *'-ra óránkéntihoz)
+  workflow_dispatch:      # Ez ad egy "Run workflow" gombot a felületen a kézi indításhoz
+
+jobs:
+  update-json:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fetch and process JSON
+        run: |
+          # Letöltés, a 'data' kulcs kiszedése és minifikálás
+          curl -L "${{ secrets.GAS_URL }}" | jq -c '.data' > data.json
+          
+          # Hash és verzió infó generálása
+          HASH=$(sha256sum data.json | awk '{print $1}')
+          TIMESTAMP=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
+          echo "{\"fullHash\": \"$HASH\", \"lastUpdated\": \"$TIMESTAMP\"}" > version.json
+
+      - name: Commit and Push if changed
+        run: |
+          git config --global user.name "DataUpdateBot"
+          git config --global user.email "actions@github.com"
+          git add data.json version.json
+          # Csak akkor pushol, ha tényleg változott az adat
+          if git diff --staged --quiet; then
+            echo "Nincs változás az adatokban."
+          else
+            git commit -m "Auto-update data: $(date +'%Y-%m-%d %H:%M')"
+            git push
+          fi
