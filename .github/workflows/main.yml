@@ -14,7 +14,7 @@ jobs:
       - name: Fetch and process JSON
         run: |
           # Letöltés, a 'data' kulcs kiszedése és minifikálás
-          curl -L "${{ secrets.GAS_URL }}" | jq -c '.data' > data.json
+          curl -L "${{ secrets.GAS_URL }}" | jq -r '.data' > data.json
           
           # Hash és verzió infó generálása
           HASH=$(sha256sum data.json | awk '{print $1}')
