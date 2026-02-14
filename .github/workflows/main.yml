@@ -21,15 +21,21 @@ jobs:
           TIMESTAMP=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
           echo "{\"fullHash\": \"$HASH\", \"lastUpdated\": \"$TIMESTAMP\"}" > version.json
 
-      - name: Commit and Push if changed
+      - name: Commit and Push changes
         run: |
-          git config --global user.name "DataUpdateBot"
-          git config --global user.email "actions@github.com"
+          # 1. Beállítjuk a bot "személyazonosságát"
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+
+          # 2. Hozzáadjuk MINDKÉT fájlt a feltöltendő csomaghoz (Staging)
           git add data.json version.json
-          # Csak akkor pushol, ha tényleg változott az adat
-          if git diff --staged --quiet; then
-            echo "Nincs változás az adatokban."
-          else
-            git commit -m "Auto-update data: $(date +'%Y-%m-%d %H:%M')"
+
+          # 3. Ellenőrizzük, hogy van-e egyáltalán változás a tegnapihoz képest
+          if ! git diff --cached --exit-code; then
+            # Ha volt változás, EGYETLEN commitban elmentjük mindkettőt
+            git commit -m "Auto-update data and version (Atomic): $(date +'%Y-%m-%d %H:%M')"
             git push
+          else
+            # Ha nem volt változás a táblázatban, nem szemeteljük tele a repót
+            echo "Nincs új adat, a fájlok megegyeznek a korábbival. Nem szükséges commit."
           fi
