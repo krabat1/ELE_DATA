@@ -19,7 +19,7 @@ jobs:
           # Hash és verzió infó generálása
           HASH=$(sha256sum data.json | awk '{print $1}')
           TIMESTAMP=$(date -u +"%Y-%m-%dT%H:%M:%SZ")
-          echo "{\"fullHash\": \"$HASH\", \"lastUpdated\": \"$TIMESTAMP\"}" > version.json
+          echo "{\"fullHash\": \"$HASH\"}" > version.json
 
       - name: Commit and Push changes
         run: |
