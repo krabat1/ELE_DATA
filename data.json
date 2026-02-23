@@ -2010,7 +2010,7 @@
     {
       "slug": "mozgas_video",
       "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEhy1OCRiTnnH149fySdFOVpdUlZk9fo0cmQxRPK-fzzeAlFpYw8A7tGmznjslOvV4CuToYRn1VIabyvjW1Z1DMCQCwCjAu76ZVubF6j9z4FcCn9hgN5bZgGQzgDLL4b7VfJ2N6OwynJ2JH4RJGP9tI5dFb04C_626i3mN3zLkmv7DZvl-ZfoGe_LMAEgOdo",
-      "niceText": "Kézzel-lábbal ~ mozgásvideók - hamarosan érkezik",
+      "niceText": "Kézzel-lábbal ~ agyserkentő mozgásvideók ",
       "descLink": "",
       "tags": "figyelem, koncentráció, ráhangolódás, agyfélteke, agytorna",
       "cards": [
@@ -2189,6 +2189,7 @@
         {
           "internalID": 40008,
           "day": 1,
+          "dayName": "Fókusz-hétfő",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEj9vKQY1ZSy5JAA87PFWQMTg2e85ZsWzzUPBT-cqyxMjTCxTFVukkXnbT1Qu_jg4mvZ9oog_Xm8gyMEDc4ZFs4z4_B0ikCY0034u84DifjMG3MsikjZcmE-yfRWvTrVtrF0nItV8vUtrQ4dXdZuBNt5tHpxqDhky_2Hru4UD9WqHcPSOiBowtUSRuBSYLY4",
           "title": "Lépés-szám",
           "tags": "mozgás, figyelem, koncentráció",
@@ -2199,6 +2200,7 @@
         {
           "internalID": 70009,
           "day": 1,
+          "dayName": "Fókusz-hétfő",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEhFjB-iSdINuUVqYPd6cFbRlaJ0OKj8QYouMItw3jbQ_uNIsaw-XEccvhdZV_FSyYqpXNALbDwpx8Xb_42LKeSX-QoRKiuNpIOg1uPfHdv8bL9U799X6H5SZl27EyL3vDok663HX9QwXM5PQGaNAN3mEMCpp2PaO5T-j3_GVYarbS-9roRfewp7hJZSJ4JV",
           "title": "Mutirajz - bal",
           "tags": "agytorna, agyfélteke",
@@ -2209,6 +2211,7 @@
         {
           "internalID": 70010,
           "day": 1,
+          "dayName": "Fókusz-hétfő",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEiGiVCnz3sj6fCdzI1H6E8fv1QtYRgwB6ND1yzI5qLHWbAZum4wFsMGAiXSeSgOFdFDcHxUYtGSOukVZriu3g6cM1auIlc83w6qLhtVSzWiJALAf21yM1gQc3vh46Sqy5At3Bt5GUOZrTpIOfUODBuRlwEZLvLWKqLzNK4Qp_gK8CRepHMNVZNgKYwDPqg9",
           "title": "Mutirazjz - jobb",
           "tags": "agytorna, agyfélteke",
@@ -2219,6 +2222,7 @@
         {
           "internalID": 130001,
           "day": 1,
+          "dayName": "Fókusz-hétfő",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEiR-2Jowbzzj6wKHSzikldcrN1TN7tpfHJd0Nofsimk93TeEcsl51sZtuuXA-tRqpjC8q2zj2iM6cEe4YnXn5WsKm-1GUjsvsEWlhxs8N2CITTxgvjcFl2EL_4wAPVrspqoG8bYTNl-5l4jAIkdofRy178Nv-bYGk84Wf0rXRoLUyrwYMSrBcdmVh5g9iat",
           "title": "Nyugi-kutyi",
           "tags": "figyelem, fókusz, koncentráció, meditáció, stresszleküzdés",
@@ -2227,8 +2231,20 @@
           "mediaTitle": ""
         },
         {
+          "internalID": 150018,
+          "day": 1,
+          "dayName": "Fókusz-hétfő",
+          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEjFhgV9lzd--NHiKj7DzE8qKO8XQBT26PV6AU8mJVQKTn73Ji8VWPQXbcnf_B9UKQknf66bM4d2KTO33GAyck2KzximPvWqA1XQn5blfIDA5fuqkF15GCf1P5WxzeT1Oa4675gkGN421AXCLMIg2t_MoxblgTzpTWfopoi6LNdxlhCpnoHF9pql_4a-_Z6a",
+          "title": "Pocaksimi",
+          "tags": "agyfélteke, kéztorna, mozgásvideo, agytorna, ráhangolódás",
+          "level": 2,
+          "mediaID": "rHC3YBah9Dc",
+          "mediaTitle": "Pocaksimi"
+        },
+        {
           "internalID": 50002,
           "day": 1,
+          "dayName": "Fókusz-hétfő",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEj0BYg8n-3ihDcuyV-VMJzxA7sghhTtUGS2kLQyQLA2tGxaBmQIOyO-Zc4r0wXP424mUKgUwBn_tOJ2JCGiGp48bnhHLCxxUaVhsj1RkC5Q1S-9p-S1bVc3KKg1NcyWgAhnoESzjIzNMWaF1f3XlSq7Nu75vQhoQq8dzqMq5mAfryCcIP_XOcwAzqFmRecj",
           "title": "Fordított nap",
           "tags": "agytorna, szóbeli memória, szókincs, figyelem, nyár, emlékezet",
@@ -2239,6 +2255,7 @@
         {
           "internalID": 40018,
           "day": 1,
+          "dayName": "Fókusz-hétfő",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEjE19Ou_Fp037a3w2nAPrbU2aur_KPrwmhNeikvbwMW1-jnxH4IhaDCf8B93qwz3r83jehCONyvANvmfzIMp6bjN8VTqRCytJdpSc92S5pc2sYUyaFmK3jN6f3-Kai0HhKSQcZ-d1tINT7GoZWEiW87A3t66DIf4n4OqH8G5LC4Ez0PybJtCuWZfEZ9p05v",
           "title": "Fevő 8-as",
           "tags": "mozgás, figyelem, koncentráció, agyfélteke, kézmozgás",
@@ -2249,6 +2266,7 @@
         {
           "internalID": 70003,
           "day": 1,
+          "dayName": "Fókusz-hétfő",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEhs0RCUF3cGzZA0_DiAVWrYmYTE8XGhwZI7tB_c318z7YCI8z8z_OWGfIfzREMJSp61Rd1W02eEUcEGVTIRgg0uwZbJFsG_Jv7ny24A5F6yVr2P88LQKIqsErHgmhXJtTW4Y7Q0-ZxC6md9vBRYdKs-oSWftOF5PxhnDK9bPvVtUS-v8MfidBRAX50DSynD",
           "title": "Taps-mozgás",
           "tags": "agytorna, agyfélteke",
@@ -2259,6 +2277,7 @@
         {
           "internalID": 150015,
           "day": 1,
+          "dayName": "Fókusz-hétfő",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEjpwidxCYVNjH7yB8xVwEIvOm7CGQOo8o26SY1_DShmOb2DUcpS989tFBiOlMEAscb03HYetSSfes4-N7vOlANVI5pPBgYFnX5Vuw9BFC2NKLTuupg9HwRzWf0OL5TnZPTgDgP5bTvuhZc-K-Si7fALdnPvJ9ZG_HO6pAukaktowu9vIH16pNEj7U5ZSqHO",
           "title": "Kéztorna levegőben",
           "tags": "agyfélteke, kéztorna, mozgásvideo, agytorna, ráhangolódás",
@@ -2269,6 +2288,7 @@
         {
           "internalID": 70016,
           "day": 1,
+          "dayName": "Fókusz-hétfő",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgu3KLBdmwZRzmiFF3flhAmoABlNwN0FqsYbQ-Pn_wRkqyEwKCHglyRfa0n3xyWg_FCNMp5K1BcQ8eynHF9viP8TTPQRXqwG8fNgoYKJtEw5o1nyL2hHl0fVyHsFQ5KO--dJ6uEDtfxpKZ5hWcIZ8mVqDmnim9XATO-IbHUmd2Zfo8RltFVIN-Kp3fvwzEb",
           "title": "Kétujj-ábra",
           "tags": "agytorna, agyfélteke",
@@ -2279,6 +2299,7 @@
         {
           "internalID": 30009,
           "day": 1,
+          "dayName": "Fókusz-hétfő",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgkZXl9An8UTqm6v5xvG9VoXsNDnu64h7Suej5zZgrqb9WL7VBF2_RmmE4qZMXImwAwSGpju-Rkfp5riMRQHCgZZewBfpVDHOybCnbksuH-gVSdBQm3UPGUf31SOq96GJ8gqPZE4vmPfgQfAPN3jmGKv0Ks8VPczgrpLz_o1o_uyALPMQ-TLWEE7BwjjvHB",
           "title": "5 ujj légzés",
           "tags": "légzésgyakorlat, stresszoldás",
@@ -2289,6 +2310,7 @@
         {
           "internalID": 40003,
           "day": 2,
+          "dayName": "Laza kedd",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEhCaOu8GZCf8QQK8xB0QG-9kOjULYWMA89TV2BgXcm_H-BuUeoRjGNbkbPFVp1KsF3szk87vCaXdxb1RjAaa97FXcSyGUq5aKUkez8nQioLb_gN7-wklUyhMz1lAnq5cBpse8bVvLiZFcXAdSbiYgCkwziJ6QYVNHVfeBoygyXjcFEPiu9rT7yq3sQOwNbn",
           "title": "Jobbra-balra",
           "tags": "mozgás, figyelem, koncentráció",
@@ -2299,6 +2321,7 @@
         {
           "internalID": 40016,
           "day": 2,
+          "dayName": "Laza kedd",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgJ1u80d5ZnWlOFBwehsYhm0SfvAUtsbRHQ5H6Xy3zlod1Q3WEBNolhufTTqQdRhXDHljiXDb0NECRvx97lSMCeuAXcPVHioZ8t7_8H8zaTtdQltTd18DpSrf1AbkJQdOrFzwaqNtUaC4Z7JOn4Dk_2IuJIXRl-XYyOeiXAQ_VUY4ceYg7euSSxVr1rJMv3",
           "title": "Tükörmozgás",
           "tags": "mozgás, figyelem, koncentráció, agyfélteke, kézmozgás",
@@ -2309,6 +2332,7 @@
         {
           "internalID": 40011,
           "day": 2,
+          "dayName": "Laza kedd",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEjyXmijlBvLdqXacwUUU0IJMRC-jH2pDSyenR883-UXFNxQZb5Rtd_zZ8CaFfwhbDZz_thpmTgOsAZdnBgBcsqQyImcXLqAqjOm4PZJSITnjJynMaIQmwqlnKLxMT8997ANdT5IM_DfAayj6FxddzzIfgKEeAxzD817w_r5fPpFblXh-MtcWs30Bu3viNyG",
           "title": "Ugrálókártya",
           "tags": "mozgás, figyelem, koncentráció",
@@ -2319,6 +2343,7 @@
         {
           "internalID": 150004,
           "day": 2,
+          "dayName": "Laza kedd",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgl4QFgLUF6fCXEAJN69SbujGgDbekRsx-3nWFutm5-nGRswOBDR8JSHf2kPwR7zC18qh7Qk_8KUBuX_IqA-DkIlze7QDsy-pbhxkF7Wr4EDS8ksRfQUSwYJZbMtxfIhJ6na4Xfqk7jxLfUCGNiEQgb6-my1hziw1igbr6HG-jpgSTAIy9DpbDoRao9CBVf",
           "title": "Ujjtorna 1",
           "tags": "agyfélteke, kéztorna, mozgásvideo, agytorna, ráhangolódás",
@@ -2329,6 +2354,7 @@
         {
           "internalID": 150008,
           "day": 2,
+          "dayName": "Laza kedd",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEjRtwsAuVz_k9WHfVm-mWam4nUh8Rmkk5CVRdHv2lnlbM0eCd4DAq0Y6hmZA6MKBJEcToPQYiUgPzOlKaVjHTtKGT3kL-EoQqBZk8u20CDxFHwCFVWKovWAFVy0TgculdIRU7t-3qUAs2GB9baD3cRc7H0rgfChsQ4K1g2WxGk6JW3GLXcPWvIrSPFJFjEQ",
           "title": "Taps-ritmus",
           "tags": "agyfélteke, kéztorna, mozgásvideo, agytorna, ráhangolódás",
@@ -2339,6 +2365,7 @@
         {
           "internalID": 50003,
           "day": 2,
+          "dayName": "Laza kedd",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEhZ8emtShZlBVovX0Pj1HRlYDS1gVVYHvTIyKoT3AuypfT4zDb8lVxoyaj8TJQdRU7mBb7LR8_OZVYkEJ8KMPMZyoC9Se8hEGxucVtSA6R-09-cfJUtjEHG5XtoecDDrVkZX0vMgfn4zprcJOSsEpLACJpoazVFIE7zAiOVPr1cckFdHIOtciWzbsEdjHzp",
           "title": "Nyári hagnok",
           "tags": "szóbeli memória, szókincs, figyelem, nyár, emlékezet",
@@ -2349,6 +2376,7 @@
         {
           "internalID": 30003,
           "day": 2,
+          "dayName": "Laza kedd",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgv9O9zShgmLVe6UsqphLR4607LLnt7JJChsvM0xRc_GVsg0PGp2B-IGSbEAEFSRv8BuvH-1_CkWu5NfcK_tMeKSOuhs_qbBDV0gd_TsjuHgYdLxHwqVhY-Jd4fz983HtW2N_5oMxE2PIQ_BDxNIjX2Pm2PVIqpOFiBYb537EzRxUutXBbpKai2SjE_YGi0",
           "title": "Buborékfújás",
           "tags": "légzésgyakorlat, stresszoldás",
@@ -2359,6 +2387,7 @@
         {
           "internalID": 40001,
           "day": 3,
+          "dayName": "Agytorna szerda",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEiTWdBel4YB3etVqO7Bg_ANobKD_pOyNECiRcTDRE490q5vUZ7W_pijDE0T3CRYhSuziGZW--F5dyqlA2BfJcteqaF2ITlDer_vUwUchCJDtUffCsxrlzDGKzMyqQzXNNB1HVsDKiBjl9JHq8o-OWIjUwvMJFFaxKLsdWVZBI7MEn9yoZ84Zh1HbUOrRwYd",
           "title": "Trükkös menet",
           "tags": "mozgás, figyelem, koncentráció",
@@ -2369,6 +2398,7 @@
         {
           "internalID": 70011,
           "day": 3,
+          "dayName": "Agytorna szerda",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEib8h7yTcimruIylFWxeyRiJcRPI7QxJe-eS6YMDwIClepm1PoIWkz_dicf0Q8xgfUV-NCjU8WTxCck11PboLt-Y7F8parPnREQGGKh_mmAufcU-U2elJw46rFNWMd13nrUtadVmJayAi2YVwamC-q96k7-Me8KDW2bo0x6F4KUC2KV_dWjn1YWW_zfbmPm",
           "title": "Tükör-maci",
           "tags": "agytorna, agyfélteke",
@@ -2379,6 +2409,7 @@
         {
           "internalID": 70004,
           "day": 3,
+          "dayName": "Agytorna szerda",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEiD3Ee50JvUI19rrD2tKIg0msv2ubUANVq5dOGmmSKAlTq6IdjL59FH1J6zu7DGrqk_TSLFCgw7RDB915yGdrdnK76cebKkqGcDeU6mDqhswSSh8bpOGHP0Ua3-nB-rI8oIDRo5mEfAQk4x2MkJox8JrRl-tjuj-yYLkDGpbzliGhV5QsDk3nMjxTQOObI-",
           "title": "Színlátás - alap",
           "tags": "agytorna, agyfélteke",
@@ -2389,6 +2420,7 @@
         {
           "internalID": 130003,
           "day": 3,
+          "dayName": "Agytorna szerda",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEg4BMhIA9hyAbm0MfxNJwxS5sNUSx1wa4pw5Tff5PbeAU3KKGiX8f_pKBAEyEepYmX9fcRz62nFLDH30vnDlzA2_Y0nSOwwQ2s2p8GQTDGrrwHC0exmwkfSYFs-lPYxhSJGAhBvU7W5ugRX1RUMl3z98N9-d90fnijqaBz4RUmK_dyFohe9fAUTnzN-9Yek",
           "title": "Kígyózás",
           "tags": "figyelem, fókusz, koncentráció, meditáció, stresszleküzdés",
@@ -2399,6 +2431,7 @@
         {
           "internalID": 40015,
           "day": 3,
+          "dayName": "Agytorna szerda",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEh0caYRfSuYhyWz-UWE1vz9tCOj-fgH35D65x3xvY_P1KpbkIAQCrpcApfZZ_WeQubmctpdZbQZPr03e04hJAhUNJlXbsNits6nkH8z3kI_Gxis2d1YfG-tN0R2Y4JfhnN0apA02a-CtHUunlzKpDOmhPqb1Jk793bKJknBMzGYCtgvtr4uC9S9LY3mtGeH",
           "title": "Flamingó-lap",
           "tags": "mozgás, figyelem, koncentráció",
@@ -2409,6 +2442,7 @@
         {
           "internalID": 20001,
           "day": 3,
+          "dayName": "Agytorna szerda",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEiWD4RiSupFf4fMWztz9K-mCveHLermjooNt-a9uCUJYQos_mFIE1hETZpaKXrt9OVofDsxHWny7elaWU-7FeBYarPR8rqn6UijNeoDYogEQNe7Br8UKzagroRUFM79m17Z42-VXnyUtbq2s4xDvyzPy2jhCjGKfxC8xVnfWhO-M1L_1a1pJkDB8H-SzoXv",
           "title": "Szólegó",
           "tags": "agytorna, nyelvi gondolkodás, mondatalkotás, játék",
@@ -2419,6 +2453,7 @@
         {
           "internalID": 150002,
           "day": 3,
+          "dayName": "Agytorna szerda",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEjpOnJEWC75V9BO3NOmRbhDxcbLOPY2S4vb2XHFpbJnpb5AkSZ1AR6jJsUTGXalreBWKZ6a_mxNuSXPDBJ4XILZlW2mZcWWCiSxZ5rDEvxFTtPfWCt0nJH7oNWNJrgNlbTPDSuQ81xFhbcfWqOYf4PQXAjhIP2E_e-gy5LMzPfnefQd3oHFdV0JyNXaPRWo",
           "title": "Muti kéztorna",
           "tags": "agyfélteke, kéztorna, mozgásvideo, agytorna, ráhangolódás",
@@ -2429,6 +2464,7 @@
         {
           "internalID": 70014,
           "day": 3,
+          "dayName": "Agytorna szerda",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEj1OZTWEcWVP9v99iIFeileXRj6nyl1XURxmVlvn4YPUH_Z944AdCvK-9o2aG-ZBe_KLZkN93fMpdNUZyWBsB_TRlEV2tFxHWuGu1-dK7M9gymsOMQoWjNkPq0AFeOYYB_S5X3yQzIWK2PKkMw717s1-zL_SgSp-Ks2RCxSc11qoJKcULY48JxqlzOTrGc0",
           "title": "Hamis-tükör",
           "tags": "agytorna, agyfélteke",
@@ -2439,6 +2475,7 @@
         {
           "internalID": 40019,
           "day": 3,
+          "dayName": "Agytorna szerda",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEhiaXyq2MVyopNvz3HA7g0ArGfQhUYC0209EngAFBAVAO3swUY9zMKxcTgaLZ9XmZgnNjwYSTbyZXP-l6dn3UAd8O0Gz5ulq2d2huypPiEgu4E-jbPu2Wqvn3WCZc4kOLh8D30euC41kE7GKr0vdT1yUsCXyY_wgD1fcdbMXKV90K-PJDF8qVPoMxlhOsM8",
           "title": "Dupla nyolcas",
           "tags": "mozgás, figyelem, koncentráció, agyfélteke, kézmozgás",
@@ -2449,6 +2486,7 @@
         {
           "internalID": 30004,
           "day": 3,
+          "dayName": "Agytorna szerda",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEigb4ITFj7aC6moqwnNWsHsaBBKVcr7lwX7ywvD0AD9E8KrHdROgoMSnUpo9-p33tVNLln3mTjQrTbEBmLXV9PxNrE8XFgai2YHofabKcNGY_-soRjjhXsNxx3ItYSJm_XEB3zWgRSP405Duf-PUiptEKC3vc05-RPQV1otzx9gAEm8YaGei0rOWJv9Wy2O",
           "title": "4x4 Légzés",
           "tags": "légzésgyakorlat, stresszoldás",
@@ -2459,6 +2497,7 @@
         {
           "internalID": 40004,
           "day": 4,
+          "dayName": "Nyugi-csütörtök",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEj8z-WjOv1DJS8q8Og6pnlWQeZU087ihvLz4Yt66pKHltatUhT4X9WxCcAlHTdUX5uQI44qb_EMySzmZEkUMbeB1P_rf_VnrULxA40VjJR06hfjFAoQjoanMYU6OUp5F856xhvMGqmNc_At7ULi1G-cjq5PaQ6Kme5H8Le3F-F4a_DqOnrJ5kd8g4M4tgQc",
           "title": "Lassú ölelés",
           "tags": "mozgás, figyelem, koncentráció",
@@ -2469,6 +2508,7 @@
         {
           "internalID": 40010,
           "day": 4,
+          "dayName": "Nyugi-csütörtök",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEjmCBMiFhljJoxT6NFwRN6F2MRQQxCvFeQKkJvgQAk3aa3yEU-Q3ZR4QXqBdxQMFofRIcsGOQhRgvaAB1Xcqm2GE51iLyzPgynnITdFZIXDEz4vhwmH62fK5NMx_bggSAgk3nqu8tI05DkWA4LwYWt1CNsU_48AuG5UPkmW7hPi3dv65qS1hSGKAJR-19ND",
           "title": "Tempó-váltó",
           "tags": "mozgás, figyelem, koncentráció",
@@ -2479,6 +2519,7 @@
         {
           "internalID": 140001,
           "day": 4,
+          "dayName": "Nyugi-csütörtök",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgYWrD_5yq1R_THK4dtDAKCMBBZ5qnzhZ_7lw0zKTYW7MS-1fcxGYMZCfv2nRJaQQjt1gpkiHQ00Sf1pzwD9EtkjHNSgeS4HWG8qeOYPDg-XGe6Qt_sFYOtOfrrDb54Pdb2DIIPvp54W-SBb5cg0Tx3UyiJ-f8cpkz_uRJR-7thSYnQKpFJBP2qasRCLQRu",
           "title": "Csendkártya",
           "tags": "figyelem, koncentráció, meditáció, stresszleküzdés",
@@ -2489,6 +2530,7 @@
         {
           "internalID": 130002,
           "day": 4,
+          "dayName": "Nyugi-csütörtök",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEhE24BElubJ3XOF4ZDuuq7JoX_Cq_it-FaEkkUhmbKRbvcuDvNcqgTIMMK5HcY1Kucvq64NC407dp1gjOzHUBD-idCm4PJIVsVTsMvty2t1milD9SOoQ8rpVb_3tGtx_WubwoSZyKrrkqxmWjTmgwXYS2-pVwlyHjAHhnAy9niNy6PL57BP6i2L_tKL4zYu",
           "title": "Teve-trapp",
           "tags": "figyelem, fókusz, koncentráció, meditáció, stresszleküzdés",
@@ -2499,6 +2541,7 @@
         {
           "internalID": 120005,
           "day": 4,
+          "dayName": "Nyugi-csütörtök",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgWAuHqk9wsx8GDV-LyM86JRgu6qQRo0RQw3pL1n5Osqpk6zFo02_RgQycGVGdY64Rw6JcCEdpk8haUoE8XdMOSJZ5oOTNpGD7kroFGS4qXV4WJ9jVAjhbfAlMqhz5mWerTIs8v7zbuTtAL_JVTey1FERjJEuYnFqXnWUDyyOaMNrUiQXuRcp9yD-L4Ks8A",
           "title": "Külső",
           "tags": "érzéskártya, önismeret, önreflexió",
@@ -2509,6 +2552,7 @@
         {
           "internalID": 150003,
           "day": 4,
+          "dayName": "Nyugi-csütörtök",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgBqkGhQ0E-bLG6NRbFrtNrR8Ruiho4ceWnnZZAl0vztqns6Ps6P8Q9xnYWtnN0eOZS2VLPaRsk49eC__77nnW5Kksadbl5pEEiDmCwGnenun3lZ6_orOejp7HHtr5cCyzCNhPJ4wPzheQ1dZ24X7cAEVm2nDpVE32kCu1vpLDLmSLsAKLJakHqZZMaR-1U",
           "title": "Muti számok",
           "tags": "agyfélteke, kéztorna, mozgásvideo, agytorna, ráhangolódás",
@@ -2519,6 +2563,7 @@
         {
           "internalID": 50001,
           "day": 4,
+          "dayName": "Nyugi-csütörtök",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgBkipQ4pCAUbc98lkheNvpozriLHO2eshclro6sjo4LOBfbFmPC9RENHGmk99MXswwuZ0G7Moa_lbDbPjkOIzxDtR4-xcqW6N5Q7PJpZZQBQQOoQnEr_hfo21-FMKPJBdJxasIe9JycMSxWOmAiVdc7lf89EC82ijtIRCRz7sRf4u6zT3xna3NH-XBpjHK",
           "title": "Emlék-képben",
           "tags": "szóbeli memória, szókincs, figyelem, nyár, emlékezet",
@@ -2529,6 +2574,7 @@
         {
           "internalID": 130008,
           "day": 4,
+          "dayName": "Nyugi-csütörtök",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEiGsBW4xra2pAc1naU42pY9dl1amlQ8fbHpUgOWsq67hQcRHPBRZkEI_7BcHSKkjleBjHh5pPrsitYXtAudliPQM4YCHzd-6tlot4iNTOk7AJX_W1g9SCUvFNibwr4kqCRGSYfqDygQLz-ll_8imlqffKLQtzC6t6lNxbnlyN2M9OPvA9kfkfHpSf8GkDJA",
           "title": "Megszámolom",
           "tags": "figyelem, fókusz, koncentráció, ",
@@ -2539,6 +2585,7 @@
         {
           "internalID": 40012,
           "day": 4,
+          "dayName": "Nyugi-csütörtök",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEjRiKV67_WGEyOM_bq9_ZZnvEfK95CVSsVZLdfj8uDbwj6wCoaKqs7V2dATyXyWxGXOQoNEozwWIzLDRmjK5yiVh3YXJ5IVViLrPgT_LPQiXpPUhqYrIKhQV7b78K0nZTySA8IxtYJQ-Q17PRNzrs2Ni9eMAqIbCdcjfPzV39-oAIiXkCPO6veLTSZtIfF_",
           "title": "Lufi-mozgás",
           "tags": "mozgás, figyelem, koncentráció, stresszleküzdés",
@@ -2549,6 +2596,7 @@
         {
           "internalID": 30002,
           "day": 4,
+          "dayName": "Nyugi-csütörtök",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgN2PRPF33JuZTpvq751mG7EatAgC5gvopy3934G3px47TB2kpu_n2neS_unNWPn0gOou55p7JwlRAEf8X_IsZet2oaKJ7_zF_D9JdDsuEW8mh1Nq7oCLKMCJxPsQUZX2aUK1MdB7f84c5KPyR06yeyLTaddt307PUpoPh8VRji9m-J5GwaZYspWcHBdjSi",
           "title": "Kígyó-sziszegés",
           "tags": "légzésgyakorlat, stresszoldás",
@@ -2559,6 +2607,7 @@
         {
           "internalID": 150018,
           "day": 5,
+          "dayName": "Játék-péntek",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEjFhgV9lzd--NHiKj7DzE8qKO8XQBT26PV6AU8mJVQKTn73Ji8VWPQXbcnf_B9UKQknf66bM4d2KTO33GAyck2KzximPvWqA1XQn5blfIDA5fuqkF15GCf1P5WxzeT1Oa4675gkGN421AXCLMIg2t_MoxblgTzpTWfopoi6LNdxlhCpnoHF9pql_4a-_Z6a",
           "title": "Pocaksimi",
           "tags": "agyfélteke, kéztorna, mozgásvideo, agytorna, ráhangolódás",
@@ -2569,6 +2618,7 @@
         {
           "internalID": 150006,
           "day": 5,
+          "dayName": "Játék-péntek",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEhd9WvGt0AOhhLxdgKPW7u786swQI98IqlDwPHkwTGQg8NGkuOLHv141Nt-kuH3NrMXpBIULj7EUyEe5cvy0wYnzrMw4TqfPgsWSpFPEJ3bx9osy_LV42qvesWtWW1qLHSlUo-0jCaNRHyWKeCx1FDVF_wjCL7intDLu8pconIwtxdqK6DST0SpZ0VRWFvM",
           "title": "Csapd le! játék",
           "tags": "agyfélteke, kéztorna, mozgásvideo, agytorna, ráhangolódás",
@@ -2579,6 +2629,7 @@
         {
           "internalID": 60001,
           "day": 5,
+          "dayName": "Játék-péntek",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEjqKhUivwI-y2lGyT52KEDq-fKNKCz0W31YjKaZocxHIghSyEUYp5kmZCy8z6J8sHy2mRsrbNA8lvzqqqHQwJ7MzFxDgP3oB43Z0u5ZHSWnvpJs8__OjwP1_jfEkxJFQixDW41Af-wEJF-wc9ren4dH1XVundpj4JzfFmJnxzypbTCncBQB3YH8vrMbH6w4",
           "title": "Ugri-Bugri",
           "tags": "játék, mozgás, stresszlevezetés",
@@ -2589,6 +2640,7 @@
         {
           "internalID": 30008,
           "day": 5,
+          "dayName": "Játék-péntek",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEjJA0_xteXR4Hg-PN0GpepfFvjUdAPyimKKGLt7OGZ8vm1Uur-nin0ofghtIjlY4jqLdN0hno_x1PJEGYCwlnJeq73pky6bKW5uG-V7iJnLn17TYghcZLCT-mD-rClrXZXs0lOUYSu3_jdzD6eraRndU98qEWmg1yIuzn7q51sPBr_vm5RopwBRF2rhbHab",
           "title": "Nyuszi-légzés",
           "tags": "légzésgyakorlat, stresszoldás",
@@ -2599,6 +2651,7 @@
         {
           "internalID": 40002,
           "day": 5,
+          "dayName": "Játék-péntek",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEjYXxLEaIdzxNVXpdN8Rng68MDh91mj98BlPbVuBgwg_yBmkrOATa-Pxy0R2KR0RqycUySFDNoZiUEMRgSZN8vsV9OuWn4teRybovLV4EmGi0pKNpG4YYM6GSiRpoERSrZCR6TjEU0iK2vAwCFbRPZx30zMMPOo4lRM4H7htLOyjo9FJW4mRxrupmLQPBhg",
           "title": "Orr-fül tapi",
           "tags": "mozgás, figyelem, koncentráció",
@@ -2609,6 +2662,7 @@
         {
           "internalID": 40021,
           "day": 5,
+          "dayName": "Játék-péntek",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgizvUqmO0SavaksvcnIskDxf3qvwXN25F6bsxHCSG1cLpI8ALG3Zt87fYtQS8kBet6xGESZmHuycjBGzZoV4j8Oh70TILf-98Xr06lLVT9CBnn9pO8n31VGSlk-HUl9jjP6UOTvSKLQqmll1NV8n_NH1NSuFi4rxMHBiv-RvmXk59vfl0-5vAYzVJHLiyw",
           "title": "Karaktertánc",
           "tags": "mozgás, figyelem, koncentráció, agyfélteke, kézmozgás",
@@ -2619,6 +2673,7 @@
         {
           "internalID": 60005,
           "day": 5,
+          "dayName": "Játék-péntek",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEj0bFY5JrzRaNuyxAlyIgwh114lBDBLSzZOr8yvIF6MJ2ixd5O7PHzysGLA573FWoi7HNcy0h1rPTfW9g-lDO6gOxv9FTPEdfOYR9VEbUwPldyNxZWOHEXuLG-vO3-UUax_2vdk-IWIYcyV88baEwR0GyZkkU3rLFpez0X-iKDnH_XcVZpjHY-0gBTlYV0R",
           "title": "Pacsi-sorozat",
           "tags": "játék, baráttal, kreatív, mozgás",
@@ -2629,6 +2684,7 @@
         {
           "internalID": 40005,
           "day": 6,
+          "dayName": "Fókusz-hétfő",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgSTz1jk4KPyj2k0at8fr-6m3bRoRfg3hLmvaVP5gKXnfu9PikndAvdYyJvqvok-ZmcVLOl3D2AKYbvPSo6xBPy_TtEzJ86vj74u0_eIgLgs9gHeDFdhWxMi1mpoYbo8b9aYtkX7SNeOd9O21J_ub4AhGazXqZ-Hk8-wzV6w9uTBwObHK8F2Njhwe5upu6p",
           "title": "Fent-lent taps",
           "tags": "mozgás, figyelem, koncentráció",
@@ -2639,6 +2695,7 @@
         {
           "internalID": 120009,
           "day": 6,
+          "dayName": "Fókusz-hétfő",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgebQgykWEpOcMu19p0iljnoWoee4Q95NZj0pveoSC0PGQxd2VIeA93q9jCNbOVQ7bNwY5Fc5mEC_YIQamdTlEESVSTCUjNJJ7ueafYU5BawsND1BE-ZRODUwxhO1DMzbuFbClYKSFBfQwLKmhy9xgsWyvsLG4tuH7dWreIOwJwmrF8EP0oikFya4UW0q-N",
           "title": "Belső",
           "tags": "érzéskártya, önismeret, önreflexió",
@@ -2649,6 +2706,7 @@
         {
           "internalID": 70006,
           "day": 6,
+          "dayName": "Fókusz-hétfő",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEjAMtrbTQB5HJQHzaLiwflbvu3n7ZSi9zMjg3hzbwnILQIVzId-QYubKNMeevoSX9JKsPoCgCdVDXrY_zU3Ue3ij8IilGCMiPQTe25FFW-6d33jlmADAQugrxJ4BLzzqJdBSQ1ygNCgTURpTS71VLkxKAz2EeM6VpuqNMNw2bgfboc2w5YTwwi8hnxc7Ifl",
           "title": "Jobb mutat - bal szín",
           "tags": "agytorna, agyfélteke",
@@ -2659,6 +2717,7 @@
         {
           "internalID": 70007,
           "day": 6,
+          "dayName": "Fókusz-hétfő",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEhYqSF8bF8uov2OvJdlknQrvHt5JeaYspGvwgUQbyfl8N-BOzJ07_zFBYNxbNvTfERO17RV0zj9GIBB56-0gwDYnc4sNiQ0iwDfECOZH9MqB1yGn-6RroiGIJXncG_g_gEF4g71ZfiO4VW9g4a5cD_on0__4BUSQqjCSXaPtAhm6ZPPwf6hw2DqE1sy_r4o",
           "title": "Bal mutat - jobb szín",
           "tags": "agytorna, agyfélteke",
@@ -2669,6 +2728,7 @@
         {
           "internalID": 130004,
           "day": 6,
+          "dayName": "Fókusz-hétfő",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEi4st8nVNzb-9AOujUvStqvrLb-Fr7dkLpTTBFhun7l0BqnlkbTkW8-U4JIG95Puupfron91THlIz4FUzzifBnE_ucqobitfarcP9lv1zuX9a6hjRIqqzOfrYUS8K7kP0rtCtm06xFevdQDeBVkbBs97gX9GGdO_gTJ0Zu1DxJjBlqGO6TmBe9y0bE7nrGF",
           "title": "Mókus-futam",
           "tags": "figyelem, fókusz, koncentráció, ",
@@ -2679,6 +2739,7 @@
         {
           "internalID": 70002,
           "day": 6,
+          "dayName": "Fókusz-hétfő",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEjjnQCPwvHbRVYtOggkcpRDaOuNxs89iJS8eRIObmD0kWCZFS4nB0Yb50L-Sa14I1Kr3nN9_Sdd742D6t2mmMZ_y1cc9hYKL-4WLWANqu6EDHttFACgPOsjPZ115E1mtMDVgMwfEf5LZxn_VCepQCYNdxVksDyhfLLi6E4Aj-jMvd2wZavvkzn8FYPS3qyG",
           "title": "Hátraarc",
           "tags": "agytorna, agyfélteke",
@@ -2689,6 +2750,7 @@
         {
           "internalID": 70008,
           "day": 6,
+          "dayName": "Fókusz-hétfő",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgN9GYNaV_VfxApC4IvS1G4WwUBD98CMbH9WPUVA-8DI25tzzGVtLLJx2KFVQ3hk9dQtOr0ncvpHlbfG0nQ-DSG3sNVn2_d5YsLWez4E28-IGSoGHCk_6RdrSywURYpCyjweMG-HA2SBDeOCDYvZFkPkSDRoUs5lm9CXtrsET1BZ5WE64yN9kg9IeSGJfwr",
           "title": "Kézkód",
           "tags": "agytorna, agyfélteke",
@@ -2699,6 +2761,7 @@
         {
           "internalID": 150009,
           "day": 6,
+          "dayName": "Fókusz-hétfő",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgkwO02Kfzdi3l6ZTXWTkhkck59GD7dL_j4tj_zzFPdOcZLTcXQbRyYU28M8PN2ZoMe_tLfxS-ANi7IGd1JVOtMZiHA-zHSuba_PwG_Utm0jguTce-b9SEe4NkjH8b-3S4gR9V2-OW-CCDgjAafb_AsQurPZbzH-FOLFV66GMw2k_gQnFBB9rAyyw0kGHCL",
           "title": "Visszhangkártya",
           "tags": "agyfélteke, kéztorna, mozgásvideo, agytorna, ráhangolódás",
@@ -2709,6 +2772,7 @@
         {
           "internalID": 70020,
           "day": 6,
+          "dayName": "Fókusz-hétfő",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgelYju7eXDpwNBcfUzKU8AqV_GiBXvrRRVQyVWGv5yJxyDrOgCmvKaUo8yt2iZzQUI11qFepftisZ9mlXcxRG9PWRNGL3RJhmx7H8gNXgyFUXOv8Np-Powq8n6L3JuHqrHYJJffVJG_vYqp-5DEYirB6qFv0yi-jL8DPGYrwlcZlGwq8C9NkfGdXkP93HJ",
           "title": "Taps-meccs",
           "tags": "agytorna, agyfélteke",
@@ -2719,6 +2783,7 @@
         {
           "internalID": 130012,
           "day": 6,
+          "dayName": "Fókusz-hétfő",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgnS3G_MXE_cJXjRj_hxvbvR4hG1L0OrGC4Ujbs5xN5uud3Rtinbh729DSE0Y6KE6Qb8L0IMrLF0T99ZH8vIJZpNZ8_AfQECmScrUTj4d6St57WLp4q28-fAuvNPALZ2nwwAahVj5wEveJBShazBWGvRX0Y_4okcLqfesIMsSWGj07rZd3sOxCK-peQNj0M",
           "title": "Távcső-játék",
           "tags": "figyelem, fókusz, koncentráció, ",
@@ -2729,6 +2794,7 @@
         {
           "internalID": 30006,
           "day": 6,
+          "dayName": "Fókusz-hétfő",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEivgJOkZ_93_7Ova_MRl51ERgJffy8Epo3umkZTGjyZJ3uLUZO7H-erV-HR_ywKYbe6QtfIFRqjzZU45KWEr_JotdDnxCwwwNlbfFbwThmkoUPqgyk-QDWlPmV-HZz05TOf-Rgtt2G55XdTz8IyDTf0I9SucN8ZpTRI7X7I-VJ4BQGPJ8fOAsaJ7kJOqBTo",
           "title": "Légzéskártya",
           "tags": "légzésgyakorlat, stresszoldás",
@@ -2739,6 +2805,7 @@
         {
           "internalID": 150010,
           "day": 7,
+          "dayName": "Laza kedd",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEh5Uo3hEYKLoe3QRW2mEKYEj5_csOXO_V8wM666y0XyEnGJNZNZ9xdDa0UGWYSeFQNMDJkVip9hogmZvy6hulS4wl73_58UZdx3uXxvXdQhYDH1urcDa2F1nSLSW55bZLjvTOvYOsHhnfHp4v-a3sLmMHcfWq9ux9B5qsyAVERl_JAYK8O87NBp7AyYCv2w",
           "title": "Vissza-ritmus",
           "tags": "agyfélteke, kéztorna, mozgásvideo, agytorna, ráhangolódás",
@@ -2749,6 +2816,7 @@
         {
           "internalID": 70012,
           "day": 7,
+          "dayName": "Laza kedd",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEhpVMuOe8afz_x1igUFBGRpmnI1zDd5EQuxsKiv-Gqs4uRhothu_fRdkKj29d4RVV_hawv06cAJBTDcovas7gDEBfWD8UENW5agrN5pXXwTIzcs8PYHF_O_zbdJvwLXQNSQhKSpT0wLQ0s2Z4MSHZo2VUVzcGF0JDDWxuBruQHcfVDJoVzLMQyLp2qTenG6",
           "title": "Tükkörrajz",
           "tags": "agytorna, agyfélteke",
@@ -2759,6 +2827,7 @@
         {
           "internalID": 40016,
           "day": 7,
+          "dayName": "Laza kedd",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgJ1u80d5ZnWlOFBwehsYhm0SfvAUtsbRHQ5H6Xy3zlod1Q3WEBNolhufTTqQdRhXDHljiXDb0NECRvx97lSMCeuAXcPVHioZ8t7_8H8zaTtdQltTd18DpSrf1AbkJQdOrFzwaqNtUaC4Z7JOn4Dk_2IuJIXRl-XYyOeiXAQ_VUY4ceYg7euSSxVr1rJMv3",
           "title": "Tükörmozgás",
           "tags": "mozgás, figyelem, koncentráció, agyfélteke, kézmozgás",
@@ -2769,6 +2838,7 @@
         {
           "internalID": 40017,
           "day": 7,
+          "dayName": "Laza kedd",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEhDd6p6MXZlfakvFutfJY9yrGyQ_1q_ENTe3TDffN1LGV8LOFzrQGZdPCWiqNI8NYQFjuadyP4OMYxJbfMU3uhnudCBGeWRDfnP17-xuU7v84fGHmF0agSQypVRSE4XyaF0FobW6VFPN1esI9bjmfEc8xurro3oJkxLMy-QF1p1Trp6R-wWxoyPlf0yZgwa",
           "title": "Nemtükör",
           "tags": "mozgás, figyelem, koncentráció, agyfélteke, kézmozgás",
@@ -2779,6 +2849,7 @@
         {
           "internalID": 130006,
           "day": 7,
+          "dayName": "Laza kedd",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgoDf745D7_b-uRrO38-_2lteN9OkT8JkhOp5BylDCoVG-n9Nl01Pl_-BH501jNQLQx-JPPPLIAL9Jy9V7YdMOmlLmyfNQURPEctF2450WcKIB2aD4YGdGDHPmL6ZEwzNekIVEGTRo_07UJOCWRBdZsgphibfcHwgmztUkmyxRnm7fbaC6PgnT6GB0Gflpt",
           "title": "Flamingó-vonal",
           "tags": "figyelem, fókusz, koncentráció, ",
@@ -2789,6 +2860,7 @@
         {
           "internalID": 150017,
           "day": 7,
+          "dayName": "Laza kedd",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEhDUSCnFF1CzPGcvOJGYDoO8P-xWFRIrmTSo0o2iH9qCohkc_FffHNadJ5jLoe5peB3UBcA65bgKLWd2kWdvHwrVV9fheALoop_AIRnJ5YEKcF5S_3fsq_Z7BQDJI4pSJQxjMUNZMnYTh2-z-M7KIsLU4eC0DLqzRItTb7s5GDfMaHdL0pFycScL5yI3BNR",
           "title": "Orr-fül-áll-homlok",
           "tags": "agyfélteke, kéztorna, mozgásvideo, agytorna, ráhangolódás",
@@ -2799,6 +2871,7 @@
         {
           "internalID": 20008,
           "day": 7,
+          "dayName": "Laza kedd",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEj0kSXl-NTt4clboNN9MtXcM6T7w-c0ogMptHGLML3qUGJ68DLZven1bP9wWZ9sXun9rHXNOanbE6ZdRiN6m0Q-cqtyGY2FUAksskjAhd8P9UH1D_gfUmmHOLtwJispSwRzePI00qvIrbox4UPbtU4N-GSoxEvaz_AEBq7i-6qxn5-zyw9KWo9EKZANiKUn",
           "title": "Bevillanó cica",
           "tags": "gondolkodás, kreativitás, agytorna",
@@ -2809,6 +2882,7 @@
         {
           "internalID": 60002,
           "day": 7,
+          "dayName": "Laza kedd",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEiLh16V0sl5m7SyT5_LZQAoI7IczP8gwlNLuaR5r8KKi-Ez661ZIY_GseLGL8vYdpm86QrSMKUrleEKE7ii75agV6D-cLtow398dNKFkHIdNoEJnWG-MP9_m2i_AUnw25j6MDxkx25Y35KrzzgRnWcm6xBbQrTuBwyBN6zm_L3cJDYdEobidApM-TL0tcAc",
           "title": "Néma szinkron",
           "tags": "játék, hangulat, baráttal",
@@ -2819,6 +2893,7 @@
         {
           "internalID": 30001,
           "day": 7,
+          "dayName": "Laza kedd",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgvtpIEsIC525gCr1-5dzzp8WWMRIwgDRFM7hJGa1kqle_ZKrPmKTL0z_g5yM5oauIjizY3-xFup2THEakrMYhhDJIzz8FMNyDLXKjzLi1MF2kVqPplHGRJgn1OvYEQHgyBXJYTgfkXW8Ojorz-29Dp52ePPSUGqnkH-jf9rw5bPFx2_9lfE3JDCPYXiJGd",
           "title": "Lufi-légzés",
           "tags": "légzésgyakorlat, stresszoldás",
@@ -2829,6 +2904,7 @@
         {
           "internalID": 120004,
           "day": 7,
+          "dayName": "Laza kedd",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEhI913akmuLs5_v4Xlm0995zWjDMfafQgKr3XZ_SyjWBgOiB3Z9hs9RTBRFYYCvNo3dCTFrdewxmMUN3SCP-pErm3x58XfXOBdhK7yK1Ls0o0Su66nvKDIEa4uJZRxb_EgDfnJqnopPEDeoVf0ThfHd6AE4iuHM5H8zS8RpMLSagbpTudTI1rNhzScPhd4S",
           "title": "Jó volt",
           "tags": "érzéskártya, önismeret, önreflexió",
@@ -2839,6 +2915,7 @@
         {
           "internalID": 40007,
           "day": 8,
+          "dayName": "Agytorna szerda",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEjN4erMe0Zy4e5Z3_AWns3W0fMLA3RXnSLpg_gC6_1nIyl0mubkylY9lJF9eiiSlOkOJYi-TqT5rNxNPi1rpITruExhV8Eqh3uIBjkX1z0hEI5IvZP1Dz6mext3ZHT2H2iHAS-iWMEi_o1uKuqd6786P9IjxdqefPJBJV0gSbStXE2LfJjYMrKL1EGw_FZQ",
           "title": "Bohóc-labda",
           "tags": "mozgás, figyelem, koncentráció",
@@ -2849,6 +2926,7 @@
         {
           "internalID": 70005,
           "day": 8,
+          "dayName": "Agytorna szerda",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEh7h5pRKWy6baAWzDMmW-jrNlQ1pPSxymW6A932yUZYih0U5zxydleDe1AEyQ0XW0Jr4-bUvJb8O5Z_GmxtLwGTGR8EytBFD2Ky-mzcCDCpvQX_GJeUtqJSVNJp_L88SpcS0E-YBBD6xlHnMlSzKDsqtI1yRCBGKFGz7YZ_ivI8alfo18SE0wV7L6Jep2nU",
           "title": "Színlátás - extra",
           "tags": "agytorna, agyfélteke",
@@ -2859,6 +2937,7 @@
         {
           "internalID": 150005,
           "day": 8,
+          "dayName": "Agytorna szerda",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgPnRojMVuYbUax9gVT3uaUiimrv1iJdemvIt_GZNT1UoexMOwjU5nNmgvsmH97B3OxooTvQEyJBsPAVtadNlMttNIMRHDOvwAqWKUZnVBusxd-d0ajN4cLlNpyJmoHcvc-W9St_MCKVOTsdOW630T3gb4mwcCyCRvAhiyXql-d92Ls4ZmMoVN-fP4burY-",
           "title": "Ujjtrona 2",
           "tags": "agyfélteke, kéztorna, mozgásvideo, agytorna, ráhangolódás",
@@ -2869,6 +2948,7 @@
         {
           "internalID": 130005,
           "day": 8,
+          "dayName": "Agytorna szerda",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEhUbKg0fQiGF1pMcFHzcIYppeNFvz0QMnK5-FhQOHTigHnGcRPUlDPts-tYVOkMCBFE6UHQYYMOjzX9IAXodjT844lagGnZf2SqOhYdTXs3Szc62lhMLfvW8OV8TcSctlPWIcuvRpDMKl871637sJ2zFn10Xabv7EUyzJkPPLK_oiSJO8Ul2A64XEbcRCKv",
           "title": "Szarvas-nyomon",
           "tags": "figyelem, fókusz, koncentráció,",
@@ -2879,6 +2959,7 @@
         {
           "internalID": 130009,
           "day": 8,
+          "dayName": "Agytorna szerda",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEiLwZ2Q67v-i_XcvLR93coSHkNGn3QwgReJoY8S0Gmm4RhZ-VUosA613WlHa-54ZPbqIPWZhfTwh3jb8AkNGE0ogyeeOCC6lENXUh1SGcPks5gguLb9h7lXSlI4q8UQyD5dPcOmQ8H9YR6DsQiBR-Szygerf3Xjqonumz9twgLyv4kuXno7sMkAl915kRLI",
           "title": "Összegyűjtöm",
           "tags": "figyelem, fókusz, koncentráció, ",
@@ -2889,17 +2970,18 @@
         {
           "internalID": 40019,
           "day": 8,
-          "imageUrl": "",
-          "title": "",
-          "tags": "",
-          "level": "",
+          "dayName": "Agytorna szerda",
+          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEhiaXyq2MVyopNvz3HA7g0ArGfQhUYC0209EngAFBAVAO3swUY9zMKxcTgaLZ9XmZgnNjwYSTbyZXP-l6dn3UAd8O0Gz5ulq2d2huypPiEgu4E-jbPu2Wqvn3WCZc4kOLh8D30euC41kE7GKr0vdT1yUsCXyY_wgD1fcdbMXKV90K-PJDF8qVPoMxlhOsM8",
+          "title": "Dupla nyolcas",
+          "tags": "mozgás, figyelem, koncentráció, agyfélteke, kézmozgás",
+          "level": 1,
           "mediaID": "",
-          "mediaTitle": "",
-          "_error": "Card not found in DecksData"
+          "mediaTitle": ""
         },
         {
           "internalID": 150007,
           "day": 8,
+          "dayName": "Agytorna szerda",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgDFOnPWo4kSZGfopiF9NzPAbR1_vdDxdhylHJySllwapVcPt6n75caPAy4avk4FbPHKWA_5O-O326k_vb-r2OiX6IVjrjPi_rt9n9Ey7cwrvsxWZM5GbgsC294IznhmhUzsLafFRPl7CRWjuIK4V8uF9nMRM_8UV_6bigKO2t6B9I5e-924gbVH6WnOOvR",
           "title": "Irányváltás",
           "tags": "agyfélteke, kéztorna, mozgásvideo, agytorna, ráhangolódás",
@@ -2910,6 +2992,7 @@
         {
           "internalID": 70013,
           "day": 8,
+          "dayName": "Agytorna szerda",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgMxwZoiohxtErRWKElywkC0-sdmgjloU0kl2qxMYPcKE3nkBnSjiXvzfza8bI2UjBixccqLdeg5Vo-9RZtNGfRwMqadmi83ZEn4WBv34Chu3GkobPrWHRZGDF4H_BKPldf73_dRDAI0XQq77xbIj-gCbiDuAc9oapRdIYheFu8BLHKgM0BTRJtLbivHrXf",
           "title": "Kétujj-béka",
           "tags": "agytorna, agyfélteke",
@@ -2920,6 +3003,7 @@
         {
           "internalID": 70001,
           "day": 8,
+          "dayName": "Agytorna szerda",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEhwhWNb4GQ2G56_eU41eBpntbpa3v4qtXn3HpFmjtAH40yq38yBguI90C4e8lNMdYhTSFlzaJcvOA8cv9FGh---JnPi8-al_2uT4F4UIanfIgPgfofUvC2_YK5Km55U_w-cGfCtabYDPrdZplCyMGak3pIhcqg5zjGl5K8Hkgmky-xhW_jDWqA8O28pHx0g",
           "title": "Kétkezes rajz",
           "tags": "agytorna, agyfélteke",
@@ -2930,6 +3014,7 @@
         {
           "internalID": 20002,
           "day": 8,
+          "dayName": "Agytorna szerda",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEi-FkZtlGZ3UNW1jZdHo0UK16sr23YGy7q12ugo6F2yECkx5KO5Qe7I9iEBrNPBSS_1UAqcIIppZFGRYZJ-XTzemHsdJ_t7VHve9mUIVXDVyFgk6arR071E2bnEOQE4W4vGwbRpcg_RVf3EEGMxSE3Cx3ZJhKsOcD1qt8oiyGqHLxVnaWfF_srpGREkp-I_",
           "title": "Betűlegó",
           "tags": "agytorna, nyelvi gondolkodás, szóalkotás, játék",
@@ -2940,6 +3025,7 @@
         {
           "internalID": 30005,
           "day": 8,
+          "dayName": "Agytorna szerda",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEibCRv4wratgQdJwjRGDK5MhIJRP9m7VhDDLtdV-0tI20u2-7H3YTp7x7PcvkHCrxAnJEE5M-jFmwrIEtP0Q1BZzvPO9pMYCT-oU2HU5HofjGY8dY-77ECg6QyU-P6hcKYw5zXI9oH6DNpErfbjDBefrpTD3zPW5fDiw4aut66coiFwjkJpNpNdQl9dxAWB",
           "title": "Csillag-légzés",
           "tags": "légzésgyakorlat, stresszoldás",
@@ -2950,6 +3036,7 @@
         {
           "internalID": 40004,
           "day": 9,
+          "dayName": "Nyugi-csütörtök",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEj8z-WjOv1DJS8q8Og6pnlWQeZU087ihvLz4Yt66pKHltatUhT4X9WxCcAlHTdUX5uQI44qb_EMySzmZEkUMbeB1P_rf_VnrULxA40VjJR06hfjFAoQjoanMYU6OUp5F856xhvMGqmNc_At7ULi1G-cjq5PaQ6Kme5H8Le3F-F4a_DqOnrJ5kd8g4M4tgQc",
           "title": "Lassú ölelés",
           "tags": "mozgás, figyelem, koncentráció",
@@ -2960,6 +3047,7 @@
         {
           "internalID": 40009,
           "day": 9,
+          "dayName": "Nyugi-csütörtök",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEiZfO3E7mb50E-zbTuSIRJlwtT2DsZnoxKmZkGSUmscuyKUR3dcdc7-Snlv8ebYUdqR2vCLTs0foMaTCSQI4OzYElL1vnDYDwIc6DKAi7BJR6boI5btPAv2jNmc9cStJGf1P0Z3iakmigzOQFyr5Zt_aETKtimZ4Syp-4ppfrTjJU8sm6nDuq9YjE7hZbOL",
           "title": "Tipegő-lap",
           "tags": "mozgás, figyelem, koncentráció",
@@ -2970,6 +3058,7 @@
         {
           "internalID": 30012,
           "day": 9,
+          "dayName": "Nyugi-csütörtök",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgpjf0XYBB6_naPK1VdbzSJeudNQCC7wHXPBIkfaXriKc_NqzXYpVVrLWW4xVKzvedhMjYlvTwFc1sEpBshF9kBM1jpacYxpGxZBze2CmDATyv1YlfzKjCcGrcEmc9a0aCU5AsX2zuMmd5WTv-F-v-2wcsjnGQfvKgwlzASmwPx7p7Y4igP-GdBSOSn-zN-",
           "title": "Szimat-minta",
           "tags": "légzésgyakorlat, stresszoldás, figyelem, koncentráció",
@@ -2980,6 +3069,7 @@
         {
           "internalID": 130010,
           "day": 9,
+          "dayName": "Nyugi-csütörtök",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgirelEMSUrdxOBDup4ISG2F4CDQm1BdApC1wlcIwb8z1Cpyv3qH7QOapBljITX5LQBWU-2-pYyWZFgP4WKH_Y8PAybB8Hn42CAMeagiUfVNsNcXiOCvMu0YBomlD6f1_4ZFTjxscNpLRN1Lf_X38TFSwhD89kda7_gU4eBFsPgCw95qrszC56mRTNNsUDt",
           "title": "Mandala-lap",
           "tags": "figyelem, fókusz, koncentráció, ",
@@ -2990,6 +3080,7 @@
         {
           "internalID": 130007,
           "day": 9,
+          "dayName": "Nyugi-csütörtök",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEiOoUQrbCidPMiHPlWrgHShNz_1qAN8BM8nV9BsiNpCKp-BKixNzaGTh8mejB924jLR5BvUlkcB26wUoKa4lL8dPsqROdfI5UaNqbS8Oz93j9S7f2o2IeKh_LQam-n3qRh--4s6XhII0gAvNoQSbG6LGZXv4rq1-Wn6xhULgT_IeV_NRdU5LsfAWomksuFs",
           "title": "Órakukkoló",
           "tags": "figyelem, fókusz, koncentráció, ",
@@ -3000,6 +3091,7 @@
         {
           "internalID": 120002,
           "day": 9,
+          "dayName": "Nyugi-csütörtök",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEjI2cBUFZpXmXxBmvoI3WH0-o0qB5B6RdH8vYjvw5Ce9HkmMk4yeKZae-gTpKZiKZqv9cpzRnlND_UAIDCyPBfg1NnmtLKMhrhAS3vqVV63vkYtkieipgK6fVG4IvT4a8UYr7R0PJFNTIoBHmAfPhIeUtEp1LaQQiPsrpYeMTV-HD8P3nX-EtuTqzXSpAHI",
           "title": "Érzések - test",
           "tags": "érzéskártya, önismeret, önreflexió",
@@ -3010,6 +3102,7 @@
         {
           "internalID": 140003,
           "day": 9,
+          "dayName": "Nyugi-csütörtök",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEh-n8dbHgmIqeEKVjIEhIV-ZzJVvoueYI5_A0g8NFEpPR9CizCl8ae1dDU_5r-Asd29eVJ45IrV4WYM1LaN5KqhPHLF0n6YpadVGQ79ymZ3qq96mZ06nzr4bTSU_7jeQdQaN5T4DvM7gLdqDCn1uI6U-bYIrai9hWv66Ic1c73blDvD9MwgZXJxJ8oCRMFs",
           "title": "Észreveszem",
           "tags": "figyelem, koncentráció, meditáció, stresszleküzdés",
@@ -3020,6 +3113,7 @@
         {
           "internalID": 40012,
           "day": 9,
+          "dayName": "Nyugi-csütörtök",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEjRiKV67_WGEyOM_bq9_ZZnvEfK95CVSsVZLdfj8uDbwj6wCoaKqs7V2dATyXyWxGXOQoNEozwWIzLDRmjK5yiVh3YXJ5IVViLrPgT_LPQiXpPUhqYrIKhQV7b78K0nZTySA8IxtYJQ-Q17PRNzrs2Ni9eMAqIbCdcjfPzV39-oAIiXkCPO6veLTSZtIfF_",
           "title": "Lufi-mozgás",
           "tags": "mozgás, figyelem, koncentráció, stresszleküzdés",
@@ -3030,6 +3124,7 @@
         {
           "internalID": 60009,
           "day": 10,
+          "dayName": "Játék-péntek",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEhVbp2uYY_1RNkBy2Ejo7mFa1c3EjRqCxg5mgEfVJZO4LFgGuGp-tRejCYzWCmezfHgzzWHEqp0kM4H2zy4IawwRPyd1oV_MMvM3FzMSddAx_ipjoXrNSlHTYL5qSnMJ10_3VJB9hcKV1d5UksPpx7lE0XY-V2X2eAkkhxbF1Dq9qoDqqABhnw8L3BXnkzu",
           "title": "Lábujjhegyen",
           "tags": "játék, hangulat, mozgás, stresszlevezetés",
@@ -3040,6 +3135,7 @@
         {
           "internalID": 150001,
           "day": 10,
+          "dayName": "Játék-péntek",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEiBBD40NQiJ7E6TlPU74RWzG17-NiQ7J8S9M-V5p0i1FDOxwQIhwjPLwjL8To5Re4eOoU7j-7GdEahjnbpLqFmE31Ne6mazH5_rZ2KRo0F0KwUzlkSySwYJ17loWkME2zbGkP_ppfYWbe9NJtdfatiscxFqognzI8_g-5YD_WIOwiiaEvasIEZVA59e2hRN",
           "title": "Kő-papír-olló",
           "tags": "agyfélteke, kéztorna, mozgásvideo, agytorna, ráhangolódás",
@@ -3050,6 +3146,7 @@
         {
           "internalID": 30007,
           "day": 10,
+          "dayName": "Játék-péntek",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEhDoO50FB4VIhwCX163ogez_gJExpec38eFcph-FsCJLwGS-o14sV5iS53ndn3fkHbjDrFJW9HiqRd7Z2PlGgQjHUeJZtoDuoBXVwZPggnowHQH2lCO0oAX4KL4VOH05nzfBYXb3U_c_v-KNzG4gO8bv_r2OcOnDywLJPuXSZJqcUYSs_qlca2pB0Pjl5ir",
           "title": "Sellő-légzés",
           "tags": "légzésgyakorlat, stresszoldás",
@@ -3060,6 +3157,7 @@
         {
           "internalID": 40020,
           "day": 10,
+          "dayName": "Játék-péntek",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEhkOerPyNaegnUdI44tOLmN0kFKm4QUCBffFjLtrJS_4AX_m29E6mHZmQp_-7SOaqqcoxmfp3bMiVwBPMv1_BE_aj8DbvFtX70esFLe3iUygVjKg_HGR6la9HJ-Msf4mcvn3oA7WIeI91uWwbEPvMJRAkPt5FHeS52_92iqzrcCx1K5ibhppJk5QnwYeaGn",
           "title": "Fókusztánc",
           "tags": "mozgás, figyelem, koncentráció, agyfélteke, kézmozgás",
@@ -3070,6 +3168,7 @@
         {
           "internalID": 60008,
           "day": 10,
+          "dayName": "Játék-péntek",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEhji6CVkSGRqJ_Uf7lFGClnD8AVJhiqEK2DQjCUvzBhIhBTaLxMD49hfiZIzq6sq4cqMGG2la5H91jEFTvjv4UOfuh6jLddA94Rkt2O2yBujd-UzC8NOv_P7vmAR42iJBvzPqTs02YWRXQ84-3kUn6tBZq-694CRdePfaru5GuiZDI36lP7MmuJykj4uRwq",
           "title": "Vicces felolvasás",
           "tags": "játék, hangular, kommunikció",
@@ -3080,6 +3179,7 @@
         {
           "internalID": 20012,
           "day": 10,
+          "dayName": "Játék-péntek",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEj92VbBqy6MTKr4NS5QkwMPYvmpakJSzDRp5-4sUClRtWrc7kEsyrGLawumCKDTSDCoCXHUakl48wXbcpVS8OAFMZ2pbRgc5c7U0Nn2kYRk-zQDMKPyIpK0jqKs6SvdVVb-tFarNGpgzU9ddMEj9ewTASpwEIyKwrJxw0wv2nQPiKqu6fGIONIP8iro7p8E",
           "title": "Zsaroló-lap",
           "tags": "gondolkodás, kreativitás, agytorna, koncentráció, figyelem",
@@ -3090,6 +3190,7 @@
         {
           "internalID": 30013,
           "day": 10,
+          "dayName": "Játék-péntek",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgHM_fbpY40skjfIFf_d1Ck74GnVSTlFCmkhMWZYFLCr_JaBO1ehmf0jt0W_KDwcrL7CLO9xmTFy2rN_w0OKa1wFubKAxFGLy599vvvFg0Omxqk6-yUKc2RCZBU6f-amh6p0PSurOpjmCMVOkuScVagl6GYmYutS9lC6vgh6ihgFzg8BWakJDeOzyvyG_bg",
           "title": "Golyó-fújás",
           "tags": "légzésgyakorlat, stresszoldás, figyelem, koncentráció",
@@ -3100,6 +3201,7 @@
         {
           "internalID": 40001,
           "day": 11,
+          "dayName": "Fókusz-hétfő",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEiTWdBel4YB3etVqO7Bg_ANobKD_pOyNECiRcTDRE490q5vUZ7W_pijDE0T3CRYhSuziGZW--F5dyqlA2BfJcteqaF2ITlDer_vUwUchCJDtUffCsxrlzDGKzMyqQzXNNB1HVsDKiBjl9JHq8o-OWIjUwvMJFFaxKLsdWVZBI7MEn9yoZ84Zh1HbUOrRwYd",
           "title": "Trükkös menet",
           "tags": "mozgás, figyelem, koncentráció",
@@ -3110,6 +3212,7 @@
         {
           "internalID": 70018,
           "day": 11,
+          "dayName": "Fókusz-hétfő",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEiirk7qVJj60W67L_AtcNtNXTDM646JsKmY3x7Rsw6bqviZc674-MuZheTdC5PWPWmlS9PKrMlG3DGsNghrL-Lx8FSSze5Fi8EJVHvQbs1Qtz75CrgZpdM4uHdNWs3rR1KUaUgy7slTaVgxboWOcOsE1WDUA4ZspxqFWlW8WjVuWGs276aibbmOoB-1Q0ky",
           "title": "Színek-formák",
           "tags": "agytorna, agyfélteke",
@@ -3120,6 +3223,7 @@
         {
           "internalID": 70001,
           "day": 11,
+          "dayName": "Fókusz-hétfő",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEhwhWNb4GQ2G56_eU41eBpntbpa3v4qtXn3HpFmjtAH40yq38yBguI90C4e8lNMdYhTSFlzaJcvOA8cv9FGh---JnPi8-al_2uT4F4UIanfIgPgfofUvC2_YK5Km55U_w-cGfCtabYDPrdZplCyMGak3pIhcqg5zjGl5K8Hkgmky-xhW_jDWqA8O28pHx0g",
           "title": "Kétkezes rajz",
           "tags": "agytorna, agyfélteke",
@@ -3130,6 +3234,7 @@
         {
           "internalID": 70014,
           "day": 11,
+          "dayName": "Fókusz-hétfő",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEj1OZTWEcWVP9v99iIFeileXRj6nyl1XURxmVlvn4YPUH_Z944AdCvK-9o2aG-ZBe_KLZkN93fMpdNUZyWBsB_TRlEV2tFxHWuGu1-dK7M9gymsOMQoWjNkPq0AFeOYYB_S5X3yQzIWK2PKkMw717s1-zL_SgSp-Ks2RCxSc11qoJKcULY48JxqlzOTrGc0",
           "title": "Hamis-tükör",
           "tags": "agytorna, agyfélteke",
@@ -3140,6 +3245,7 @@
         {
           "internalID": 70003,
           "day": 11,
+          "dayName": "Fókusz-hétfő",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEhs0RCUF3cGzZA0_DiAVWrYmYTE8XGhwZI7tB_c318z7YCI8z8z_OWGfIfzREMJSp61Rd1W02eEUcEGVTIRgg0uwZbJFsG_Jv7ny24A5F6yVr2P88LQKIqsErHgmhXJtTW4Y7Q0-ZxC6md9vBRYdKs-oSWftOF5PxhnDK9bPvVtUS-v8MfidBRAX50DSynD",
           "title": "Taps-mozgás",
           "tags": "agytorna, agyfélteke",
@@ -3150,6 +3256,7 @@
         {
           "internalID": 130011,
           "day": 11,
+          "dayName": "Fókusz-hétfő",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEi3OOGNQKVT570tE2T4Ch6gJKBz8XSRsiRqCKlDVHFWuah3yi5LqsCpr9-KZL92Dg6bV4gqfz_nkonu5sBoQQkYxPNyI8VqP5pj6TEPfg0Z3orQzKN6tzw5R0qYKNbs9pq0oGSxnVsXoivdE0WfaBGqtqQsoi1hsIQRgO12k_S9z9hSdjBDdRVRgNrOGO6T",
           "title": "Leskelődés",
           "tags": "figyelem, fókusz, koncentráció, ",
@@ -3160,6 +3267,7 @@
         {
           "internalID": 20007,
           "day": 11,
+          "dayName": "Fókusz-hétfő",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEhpjXjSf6ksljkwVBeg8E_7Lf9gHB88CYJ1nCI8ryVo49zrUc02iV1VuAEYa8ZUiVfpgiJa3GP334YPkkiayRj1kprFaGTP2rlI5RbY2-GBtUPW0syVFybxRYJr8mdNAO8Sm2F5pXigv97yWAks_GpNziOFSRBUAeqLJF_AMXdDl1JosiykAXkxLmuSoKuN",
           "title": "Kis Hamis",
           "tags": "gondolkodás, kreativitás, agytorna",
@@ -3170,6 +3278,7 @@
         {
           "internalID": 40013,
           "day": 11,
+          "dayName": "Fókusz-hétfő",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEjL4kjVkyXe_9NfeUZqViojcXbehxa39XYo91zl9nkBJ9eDC8pLbl_KClQCl8e_-P5VOX_Ru1HrM-h3V7nzSAxzuqmW78Qz19PKR9RJkoQSTttfSzHK4MVfcfzxe4v8bmf7bE5Gfn7H-e4wn1R-cg3K1zWpE5gDZUDnOVwqilpPtDBcmEg8Glu1G29Zj7Py",
           "title": "Csendes ninja",
           "tags": "mozgás, figyelem, koncentráció",
@@ -3180,6 +3289,7 @@
         {
           "internalID": 150002,
           "day": 11,
+          "dayName": "Fókusz-hétfő",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEjpOnJEWC75V9BO3NOmRbhDxcbLOPY2S4vb2XHFpbJnpb5AkSZ1AR6jJsUTGXalreBWKZ6a_mxNuSXPDBJ4XILZlW2mZcWWCiSxZ5rDEvxFTtPfWCt0nJH7oNWNJrgNlbTPDSuQ81xFhbcfWqOYf4PQXAjhIP2E_e-gy5LMzPfnefQd3oHFdV0JyNXaPRWo",
           "title": "Muti kéztorna",
           "tags": "agyfélteke, kéztorna, mozgásvideo, agytorna, ráhangolódás",
@@ -3190,6 +3300,7 @@
         {
           "internalID": 20009,
           "day": 11,
+          "dayName": "Fókusz-hétfő",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgqFhDmrdsMqU5KMOaTziy70mRBMWIkolCZzv38GN7G6ywBXcd_ExUL_DISIMWrjA-h99NcJhz-QWsEhK4x8PJiFVuGb7GmFCxfxy-PI7ZfUtM9w0uGG-9GyAtvsVULke5zifhjwX-MRAb_oDkwZ4QWwOktbUWx127awRE3fRBwSIenR_97eRqH_49fcdP_",
           "title": "Betűvadász",
           "tags": "gondolkodás, kreativitás, agytorna",
@@ -3200,6 +3311,7 @@
         {
           "internalID": 130004,
           "day": 11,
+          "dayName": "Fókusz-hétfő",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEi4st8nVNzb-9AOujUvStqvrLb-Fr7dkLpTTBFhun7l0BqnlkbTkW8-U4JIG95Puupfron91THlIz4FUzzifBnE_ucqobitfarcP9lv1zuX9a6hjRIqqzOfrYUS8K7kP0rtCtm06xFevdQDeBVkbBs97gX9GGdO_gTJ0Zu1DxJjBlqGO6TmBe9y0bE7nrGF",
           "title": "Mókus-futam",
           "tags": "figyelem, fókusz, koncentráció, ",
@@ -3210,6 +3322,7 @@
         {
           "internalID": 20005,
           "day": 11,
+          "dayName": "Fókusz-hétfő",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEiEic1C_adWJLbQ7ERKkwV0EjIguI3wS4xU1WtVIuJjOB_Q-K29Hk0lb1NAa2I7NPnMpP1jpUJ8rEnfNhJgqwTtTPyK0wnVaUkWhjz8WhysydSAPwCEKe9wnRAvd4oM53-xhjb-n1BY4wykpbzGwV2oYouQo0_wgVrP135yRH-L59W-wQvUMNH2lxVR9cwH",
           "title": "Kódolt matek",
           "tags": "gondolkodás, logika, algebra",
@@ -3220,6 +3333,7 @@
         {
           "internalID": 120007,
           "day": 11,
+          "dayName": "Fókusz-hétfő",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEhzl2iGQv456TEqS3nyp2zqIWzjjwoHD3K1wDCLzqGHLFgG7AVG4N7sGgbRR_J_dmX-BhDSPSP-QXkAW6d7yyg-6ggu5--hLqUgGat97pYhuFyHqKGlHhNCKcBxOOFEuMwJS-DWPn7tOPeyw3voRb5fe-ppGEX2tn_O0K5sR4GF6LO9cSRWW6BR5AgSfhmh",
           "title": "így sikerült",
           "tags": "érzéskártya, önismeret, önreflexió",
@@ -3230,6 +3344,7 @@
         {
           "internalID": 120008,
           "day": 11,
+          "dayName": "Fókusz-hétfő",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEhCv5K644dJ2uozAoHoY7dv0HG4dHvYsoBFbNzN1kVPXba-Dw1Kl-UrqOb4GizgEhmzYXHIOfWh-QHwHPnurg62S8yEvxYHB1yvanhhyGB4oHnXnQJhxALsluuZPZzyLom5FzE-Nm_iUzkjdSvTheBcqaF0aszYUUWSqSjfIy3JcsW_rwVqutHBmmqvAEGh",
           "title": "Érzés-feladat",
           "tags": "érzéskártya, önismeret, önreflexió",
@@ -3240,6 +3355,7 @@
         {
           "internalID": 40008,
           "day": 12,
+          "dayName": "Laza kedd",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEj9vKQY1ZSy5JAA87PFWQMTg2e85ZsWzzUPBT-cqyxMjTCxTFVukkXnbT1Qu_jg4mvZ9oog_Xm8gyMEDc4ZFs4z4_B0ikCY0034u84DifjMG3MsikjZcmE-yfRWvTrVtrF0nItV8vUtrQ4dXdZuBNt5tHpxqDhky_2Hru4UD9WqHcPSOiBowtUSRuBSYLY4",
           "title": "Lépés-szám",
           "tags": "mozgás, figyelem, koncentráció",
@@ -3250,6 +3366,7 @@
         {
           "internalID": 150012,
           "day": 12,
+          "dayName": "Laza kedd",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgWpblKSBl5XICvUfgVifPwapHLk9uwVnRpBL7kjaZdW0cJxlg-7QFvvFsc7VizLr3WIRstvdIFHwBxdOkcCIwpPDjfbhPeXVm9ywnp8vB8Llo2J_d-3Fjtf0K8XCY1FRUIVdyBU7GLN2_68a1reuIcIgm_YoU5BQWepYlS3n-S9nRHCZgBtoLG2MORUzQ8",
           "title": "Dupla ritmus",
           "tags": "agyfélteke, kéztorna, mozgásvideo, agytorna, ráhangolódás",
@@ -3260,6 +3377,7 @@
         {
           "internalID": 70019,
           "day": 12,
+          "dayName": "Laza kedd",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEhSUGKWpsaG4vZJlXobR4mUfjo2bcBQG6jrE_ZzeaFI6j_zfCq6epTPalIY1Hp3WUhzs_IXn8O2ROTvcdlEPdxo-3Fl1imDjLpp86zQoT0oYR7mRUvqOjQW0UazyKezGWE5KrTIf2E6YuSfADiSfes-SCBEaYBw_l7GV8QONEajcA_nPdZCqHSaYQcwf1wm",
           "title": "Muti-kocka",
           "tags": "agytorna, agyfélteke",
@@ -3270,6 +3388,7 @@
         {
           "internalID": 40019,
           "day": 12,
+          "dayName": "Laza kedd",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEhiaXyq2MVyopNvz3HA7g0ArGfQhUYC0209EngAFBAVAO3swUY9zMKxcTgaLZ9XmZgnNjwYSTbyZXP-l6dn3UAd8O0Gz5ulq2d2huypPiEgu4E-jbPu2Wqvn3WCZc4kOLh8D30euC41kE7GKr0vdT1yUsCXyY_wgD1fcdbMXKV90K-PJDF8qVPoMxlhOsM8",
           "title": "Dupla nyolcas",
           "tags": "mozgás, figyelem, koncentráció, agyfélteke, kézmozgás",
@@ -3280,6 +3399,7 @@
         {
           "internalID": 60003,
           "day": 12,
+          "dayName": "Laza kedd",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEimnsgphHrS_8gmwet5Di_iLZMfzrD4CNC28sKs4UpDm6LVYpFnDoig4JHree5p5oBT1Ltoe5gNdcGUZ5AliTrD7xJS1JRNCSdyn2QlVTKT0fVTEOBUsNnXvjtQP41W0nSaCH8ly-hTHNsPrbFN3TDWBLmA9VDTV-ibC0kK81aZ794Uqq8aLM6ef7d3X940",
           "title": "Tánclépés",
           "tags": "játék, mozgás, kreatív, hangulat, stresszlevezetés",
@@ -3290,6 +3410,7 @@
         {
           "internalID": 130015,
           "day": 12,
+          "dayName": "Laza kedd",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEjSEMVVhtodpOnNfI9OtOrYlo3F6AWuXvIIHNasFbnaCZpEYYdbVfOrlkDIpgFvyP1UIDPdzUY1z7STSsFhb-4LdGRdp8572f8Ghljl7nvJmefdJ2bIXU64AGQwas8Dle0gfJiU2tnsgcmUGCh2dEhxiCf0WDBskSHhHC1bTOqWo92vk2V4o-xDfJfOo6-r",
           "title": "Titkos ügynök",
           "tags": "figyelem, fókusz, koncentráció, ",
@@ -3300,6 +3421,7 @@
         {
           "internalID": 150018,
           "day": 12,
+          "dayName": "Laza kedd",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEjFhgV9lzd--NHiKj7DzE8qKO8XQBT26PV6AU8mJVQKTn73Ji8VWPQXbcnf_B9UKQknf66bM4d2KTO33GAyck2KzximPvWqA1XQn5blfIDA5fuqkF15GCf1P5WxzeT1Oa4675gkGN421AXCLMIg2t_MoxblgTzpTWfopoi6LNdxlhCpnoHF9pql_4a-_Z6a",
           "title": "Pocaksimi",
           "tags": "agyfélteke, kéztorna, mozgásvideo, agytorna, ráhangolódás",
@@ -3310,6 +3432,7 @@
         {
           "internalID": 150014,
           "day": 12,
+          "dayName": "Laza kedd",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEjtPCnYMpJdueiF6Sn0Q_17SKZXiMuBbOqZVAAow_z9QaRMgsyW1jasAvCMP9sAaS8nGgIO-AlIlIj2K0hbM2I339RD2klifnhfs4QhnyJiGD1SKgZTusim4lV8RrUMnFESeg9JeDStjY4JmCxJPeWwNf0iZjp0FyIlho0JISjB0UN8X4tO2FZcS2xrdrv4",
           "title": "Fagyasztó játék",
           "tags": "agyfélteke, kéztorna, mozgásvideo, agytorna, ráhangolódás",
@@ -3320,6 +3443,7 @@
         {
           "internalID": 60006,
           "day": 12,
+          "dayName": "Laza kedd",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEhrGkhE6UkOwyYjDvUELfrvkoipFZbenv5b1lCh2LHTxgfTF8LpqkKCl0BsOk2ov5DxIJkqlZ_3gGTVvLK9XYfiWRo9ZlqoGBjhe06XGo1ccAFHWnmzBqXYa64Ibvtn2kNGwtGumsSKy2-oV-Fw1rywIWoNLXTENu1tKF_qXDCE4OG9JQ2v-rnSmIjIiHPD",
           "title": "Sztori-hajlítás",
           "tags": "játék, kommunikáció, hangulat",
@@ -3330,6 +3454,7 @@
         {
           "internalID": 60013,
           "day": 12,
+          "dayName": "Laza kedd",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgftZzPByA-n7Ea4x9ukTPFa9YIs4KGbC_xh26YW9Bg3V_P-BcN3I1NsoZIdbSMetKONJJz7-Sl2yDaxahmhB-cJHr-RGHUpHtHDGOMsXdgJWQzaAVs4XBnB1Oc58b5I6I3GUXBkG5F-Znd7bMtTkq4tmXfgF-8-BYjBmT9DNTGwY-ATDpsI3LiivaZFFya",
           "title": "Elmeürítés",
           "tags": "játék, hangulat, stresszlevezetés, meditációs, légzőgyakorlat",
@@ -3340,6 +3465,7 @@
         {
           "internalID": 40007,
           "day": 13,
+          "dayName": "Agytorna szerda",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEjN4erMe0Zy4e5Z3_AWns3W0fMLA3RXnSLpg_gC6_1nIyl0mubkylY9lJF9eiiSlOkOJYi-TqT5rNxNPi1rpITruExhV8Eqh3uIBjkX1z0hEI5IvZP1Dz6mext3ZHT2H2iHAS-iWMEi_o1uKuqd6786P9IjxdqefPJBJV0gSbStXE2LfJjYMrKL1EGw_FZQ",
           "title": "Bohóc-labda",
           "tags": "mozgás, figyelem, koncentráció",
@@ -3350,6 +3476,7 @@
         {
           "internalID": 150016,
           "day": 13,
+          "dayName": "Agytorna szerda",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEhcyaczxLfosvc8WbQE2FAv4igCZhr0Ksr0PF1AdJc8lDBQ3Nmy3giDx7tq2BMNJBMGK2ZLWZWYV3bllzQESCQvWMwbfHyV6UacnFwqBwSlXq7fTMOqmUx4OKC66QgPFl486FJiLEWj4WTki0wLBCeyp005_IFCRrXud9EgTFx6lBcL_Nw2mdPdrP_PFNyQ",
           "title": "Keresztbe-torna",
           "tags": "agyfélteke, kéztorna, mozgásvideo, agytorna, ráhangolódás",
@@ -3360,6 +3487,7 @@
         {
           "internalID": 150003,
           "day": 13,
+          "dayName": "Agytorna szerda",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgBqkGhQ0E-bLG6NRbFrtNrR8Ruiho4ceWnnZZAl0vztqns6Ps6P8Q9xnYWtnN0eOZS2VLPaRsk49eC__77nnW5Kksadbl5pEEiDmCwGnenun3lZ6_orOejp7HHtr5cCyzCNhPJ4wPzheQ1dZ24X7cAEVm2nDpVE32kCu1vpLDLmSLsAKLJakHqZZMaR-1U",
           "title": "Muti számok",
           "tags": "agyfélteke, kéztorna, mozgásvideo, agytorna, ráhangolódás",
@@ -3370,6 +3498,7 @@
         {
           "internalID": 70005,
           "day": 13,
+          "dayName": "Agytorna szerda",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEh7h5pRKWy6baAWzDMmW-jrNlQ1pPSxymW6A932yUZYih0U5zxydleDe1AEyQ0XW0Jr4-bUvJb8O5Z_GmxtLwGTGR8EytBFD2Ky-mzcCDCpvQX_GJeUtqJSVNJp_L88SpcS0E-YBBD6xlHnMlSzKDsqtI1yRCBGKFGz7YZ_ivI8alfo18SE0wV7L6Jep2nU",
           "title": "Színlátás - extra",
           "tags": "agytorna, agyfélteke",
@@ -3380,6 +3509,7 @@
         {
           "internalID": 40017,
           "day": 13,
+          "dayName": "Agytorna szerda",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEhDd6p6MXZlfakvFutfJY9yrGyQ_1q_ENTe3TDffN1LGV8LOFzrQGZdPCWiqNI8NYQFjuadyP4OMYxJbfMU3uhnudCBGeWRDfnP17-xuU7v84fGHmF0agSQypVRSE4XyaF0FobW6VFPN1esI9bjmfEc8xurro3oJkxLMy-QF1p1Trp6R-wWxoyPlf0yZgwa",
           "title": "Nemtükör",
           "tags": "mozgás, figyelem, koncentráció, agyfélteke, kézmozgás",
@@ -3390,6 +3520,7 @@
         {
           "internalID": 20011,
           "day": 13,
+          "dayName": "Agytorna szerda",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgp3AIIGhm2QSgx_OP_cWYfYjxKMRAt1kEtSq3t1tRN0AN-fKo-3EaQUo3-F3wbU4nZT30QDgQ9PzyyN7YzMbXwIfCeV1g6uZBYN03-KzjQZLhw3tg3x6UzJLIBGINA1lJ0HC2KOGeE3WQ1yyUnpeXVuYEogGKxbUIeEiTJNpEYyfsfCJi4RfJfL43QP-Zd",
           "title": "Sasszem",
           "tags": "gondolkodás, kreativitás, agytorna",
@@ -3400,6 +3531,7 @@
         {
           "internalID": 70017,
           "day": 13,
+          "dayName": "Agytorna szerda",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgGjC1eo7hv2MpFEQ8ha0aZbjSQ6ElOF7S6ZaIGDmi9KwB3p85IEgM2UyovneD5NGwzT2UXKNxDyQZbRv1KEcrYNCFl7xmCNyk744cYAs7CTC3kkxMDBZ_tuWvtns61C8w7Q4FtGPHYEqmh0jPju6FUwzI_jb984PLiltd7fBn4qE2mT8WH-1z86wI4FK7Z",
           "title": "Színek-számok",
           "tags": "agytorna, agyfélteke",
@@ -3410,6 +3542,7 @@
         {
           "internalID": 40019,
           "day": 13,
+          "dayName": "Agytorna szerda",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEhiaXyq2MVyopNvz3HA7g0ArGfQhUYC0209EngAFBAVAO3swUY9zMKxcTgaLZ9XmZgnNjwYSTbyZXP-l6dn3UAd8O0Gz5ulq2d2huypPiEgu4E-jbPu2Wqvn3WCZc4kOLh8D30euC41kE7GKr0vdT1yUsCXyY_wgD1fcdbMXKV90K-PJDF8qVPoMxlhOsM8",
           "title": "Dupla nyolcas",
           "tags": "mozgás, figyelem, koncentráció, agyfélteke, kézmozgás",
@@ -3420,6 +3553,7 @@
         {
           "internalID": 20004,
           "day": 13,
+          "dayName": "Agytorna szerda",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEi-_L0S7DtbMqaOu4nVnl3nYyKAhz8r_rSHyhTh6WvP3SF8dwsTLqTsQgWTePgU_qzTlVW4FOB8cya__DhGnlWvFv9nNwuhTN79RnLfePto7cWOw_eyQfjrQAf4zMFGoFd8jXLDBKwdNs6SLlhHvWK1pY9NWjQi3PXclxEcynvRUvH9zpFwYMvtpXT1D8RI",
           "title": "Mint a villám",
           "tags": "agytorna, memória, gondolkodás",
@@ -3430,6 +3564,7 @@
         {
           "internalID": 130013,
           "day": 13,
+          "dayName": "Agytorna szerda",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEjgEbUw0mVxZe1aMgyDxBfV7uxE5C8JBedkKKtRrSrffhnkV9Sa4XoHjV-qHqyBvl5sF4IysQgwHkhd4h8NpaI_7j_QpICLEJa2jCtAMBE0D6y3dPhJBEOLinNrB5H6byRmUooxBH0D04D68CM9CaMkibOnxo0hEo03zb0lx2tQFPier07lcyGcBHMKcM50",
           "title": "Formavadászat",
           "tags": "figyelem, fókusz, koncentráció, ",
@@ -3440,6 +3575,7 @@
         {
           "internalID": 30011,
           "day": 13,
+          "dayName": "Agytorna szerda",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEhXRV4qQTNwIavlaXUGvC4gL6dXiaLFxjamE9gBLuwp-V7JvQTFZEAE-FfVrSG1fdWncGXYHQphcoABooPf9tVPSY37ZpzyR1_Ex0g_UhVDZPs8sRYyswBGtHZRXCFqNnK8jhGY_7G5FmK6BLgprq_Bvqwf7bMNs3X3mZVby9WOBBn2gsULjMJAwKtqAcud",
           "title": "Nap-hold légzés",
           "tags": "légzésgyakorlat, stresszoldás",
@@ -3450,6 +3586,7 @@
         {
           "internalID": 30001,
           "day": 14,
+          "dayName": "Nyugi-csütörtök",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgvtpIEsIC525gCr1-5dzzp8WWMRIwgDRFM7hJGa1kqle_ZKrPmKTL0z_g5yM5oauIjizY3-xFup2THEakrMYhhDJIzz8FMNyDLXKjzLi1MF2kVqPplHGRJgn1OvYEQHgyBXJYTgfkXW8Ojorz-29Dp52ePPSUGqnkH-jf9rw5bPFx2_9lfE3JDCPYXiJGd",
           "title": "Lufi-légzés",
           "tags": "légzésgyakorlat, stresszoldás",
@@ -3460,6 +3597,7 @@
         {
           "internalID": 130005,
           "day": 14,
+          "dayName": "Nyugi-csütörtök",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEhUbKg0fQiGF1pMcFHzcIYppeNFvz0QMnK5-FhQOHTigHnGcRPUlDPts-tYVOkMCBFE6UHQYYMOjzX9IAXodjT844lagGnZf2SqOhYdTXs3Szc62lhMLfvW8OV8TcSctlPWIcuvRpDMKl871637sJ2zFn10Xabv7EUyzJkPPLK_oiSJO8Ul2A64XEbcRCKv",
           "title": "Szarvas-nyomon",
           "tags": "figyelem, fókusz, koncentráció,",
@@ -3470,6 +3608,7 @@
         {
           "internalID": 150011,
           "day": 14,
+          "dayName": "Nyugi-csütörtök",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEiS5JcwCT2gwRkJaOt481BuHrpZWB_Tu_CtDBYtVIwwOctIbZHD8BdWkvlKYxZCZYjAaOKPsXQD_fix-RZhtSlWGwBMLmOZS_92Zqp9zWijjxi9-oqz-7t0VxZq9iH8MA3v7RxlyekWlY_CBSam0Q0OrxnuZo5a1ATXsW8QuoEAqSkNwPdBR5w5z54xisGH",
           "title": "Csendes taps",
           "tags": "agyfélteke, kéztorna, mozgásvideo, agytorna, ráhangolódás",
@@ -3480,6 +3619,7 @@
         {
           "internalID": 30014,
           "day": 14,
+          "dayName": "Nyugi-csütörtök",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEhjcXPjIAGe5MONtUHS0qIL5rHXUpVUPJm9oRK9P6ps7cGEcStS8doQ7ftgD3d-ZO2R_wsjbLXtLHmCaMeTFlik6Ahaz_uGL-Lyk4EMbxtDtY2_qDi3YqUaep6FvA0LeUMmiEAh5zGM6WSKfrFb1S2d8CD8s5M76exOBVJl0umL6GInEakRy_DJEQ6DV3qb",
           "title": "Lepke-reptetés",
           "tags": "légzésgyakorlat, stresszoldás, figyelem, koncentráció",
@@ -3490,6 +3630,7 @@
         {
           "internalID": 140004,
           "day": 14,
+          "dayName": "Nyugi-csütörtök",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEhuyzq0zD3KO14CF0bFZOh36glpL3_mU_CJCLfaOX_eAqwHV2PiKhVU84huOnz9oF4Gd8tZQT5hSi9GB6KCV4KDuqPXvRktlGlT0rZryzRfUHHlRInteBzP-7oYs9ajfK-gLPXILUXYWxCMfjK1tz5qeV9GYQ0rFGWbLqDzz3pefKw0kq0I-cUDXgb6FgII",
           "title": "Mini-pihi",
           "tags": "figyelem, koncentráció, meditáció, stresszleküzdés",
@@ -3500,6 +3641,7 @@
         {
           "internalID": 140002,
           "day": 14,
+          "dayName": "Nyugi-csütörtök",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEj2DA46Ru-w1kgWyFmNcyySn1Fb1CucB4hr_qAgJ5GkklGG7lfMN191n9olZlvYoygYynW89ooibzLT5DXptEct4XPaqc4DIs-f-ZoZDkotySjBYfBXY-eZDyAKbqae5LcYSynsBIWsMI34PhrAQjE2ZnZorTfZrf5XBhdOr-nLhARQ2wRHwlEeBRGJ9lYN",
           "title": "5 érzék kártya",
           "tags": "figyelem, koncentráció, meditáció, stresszleküzdés",
@@ -3510,6 +3652,7 @@
         {
           "internalID": 120001,
           "day": 14,
+          "dayName": "Nyugi-csütörtök",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEjdV5nHREdP1t0KEhuG-nu5pm04Ne6ieXtUC6I1M9BS24sshsfmbpEeBxd55BlesOih3PzNxg4V0q97XeS2lhsOC5gtdVT37vjVrQX9uT8GqkKywKcArgkftr8x2p2lXRBjTc2FtyBQX6sBENZJlsnSNiOfq1Sjt_Feprft8c5R_nPA_fvZwO6z6_3MLrvS",
           "title": "Érzések - lélek",
           "tags": "érzéskártya, önismeret, önreflexió",
@@ -3520,6 +3663,7 @@
         {
           "internalID": 120019,
           "day": 14,
+          "dayName": "Nyugi-csütörtök",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEiHjCFoXTKtPjlQzW1V6q12Cn_h2ioQPPGjnDHCi9Roh6iBwVVwjgLkGp8Ua78Wj8Rl1OCNNJ67gPP5mKXg0AJuwMVDjQS42FUrGSV9e-4Wp3Gze-KB22Kv7kUkxtXOG3M_DqwroopO9dr-qWc9dvNDQWY3bFlyYjrU0Xjv4skzUK2gYmwf2JAks8bfj7R6",
           "title": "kivánságkosár pozitív",
           "tags": "érzéskártya, önismeret, önreflexió",
@@ -3530,6 +3674,7 @@
         {
           "internalID": 120020,
           "day": 14,
+          "dayName": "Nyugi-csütörtök",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEhpmwFpWwD9zkUHNTzX72NuaEkvh65QRpx-bDBfC2YE40QshMHlnvrsV4DuBka4S6QEjoXex8YX-EKaP6eKv1IJvaBsi261yitViyzOrqRjmU2xtSZ4ONU6eeltSDFdSW9oN23EXagOtDSdwl1K7QC64FBCz4hCF8m_iIuuQ2Zv9NFN5HSrYtA17FBgEZ2H",
           "title": "kívánságkorás negatív",
           "tags": "érzéskártya, önismeret, önreflexió",
@@ -3540,6 +3685,7 @@
         {
           "internalID": 40006,
           "day": 14,
+          "dayName": "Nyugi-csütörtök",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEj_9x1MRM-8ycUKUdmXqHq4--H-crPkANgYMxMjBBz5GRiVrMq7JEWgCnQ-QPBbGT--QR97VWnN34cSk_OHJYT4GRVwx3eOB7zdvqVcbUomzuhFlwyBSu9oUpb-TtXxD7J-AC7pmjk9OyecYQA2pn2zHG0BGOSZRzHx6WVvN5rvuUBkIeKyiPmTgFW1EldR",
           "title": "Nyújtózás",
           "tags": "mozgás, figyelem, koncentráció",
@@ -3550,6 +3696,7 @@
         {
           "internalID": 30010,
           "day": 14,
+          "dayName": "Nyugi-csütörtök",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEhQSaoksJ23BGw9P1RaGihjmxTve3-J4Np_kbV1Mvw00gbppYhdaZo2MBMiCOpUH2KxZUDVQIlSE1AXG5kwW3P3rMYXgpfW7Kj0I080VSX-GTkeM4NGBQk39670OS0QCcOKPsGEvDwRXOa1eAJc_DA3Yke5pTboVi-55hYC8tBmrW3oSA0qFBJz3fEbqBou",
           "title": "Méhecske-zümm",
           "tags": "légzésgyakorlat, stresszoldás",
@@ -3560,6 +3707,7 @@
         {
           "internalID": 150013,
           "day": 15,
+          "dayName": "Játék-péntek",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEh56bQ3oxMN-2GzRmasxxyJl6jdoAt81f-uQ1j3oO3q7PjlGfE7ihbpy5b7QQA6ZSMKcDcFvIToHjTugyhiFBIsCUvKGF5ydmV9ODq1TH1z11L9LFuINnK7Ditey0XG1dwBdsSSroOSZB7f9sNCnIYk5zLakhnXAee_CXIBkxsNJ9rFRDI8SFXmqamQrLSk",
           "title": "Ritmus-mozgás",
           "tags": "agyfélteke, kéztorna, mozgásvideo, agytorna, ráhangolódás",
@@ -3570,6 +3718,7 @@
         {
           "internalID": 40014,
           "day": 15,
+          "dayName": "Játék-péntek",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgknrRccDiNBfchY7I9Zclx4K_iHFY8UZz4RqlTHTkCahI7Q89rGJAot2OFrb9mhyPBGQZdATUTPGMHwujSvqLnxfhmLq4Ld_Xl6RAXo24_G9fvAvuROjeoz4GyXOB37B49A0ULyQMrt6O5arcptBdykSytE83K9AQXn0z2eRjIF9-jJvhHWhHY8NhGVnMo",
           "title": "Vicces pózok",
           "tags": "mozgás, figyelem, koncentráció",
@@ -3580,6 +3729,7 @@
         {
           "internalID": 30008,
           "day": 15,
+          "dayName": "Játék-péntek",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEjJA0_xteXR4Hg-PN0GpepfFvjUdAPyimKKGLt7OGZ8vm1Uur-nin0ofghtIjlY4jqLdN0hno_x1PJEGYCwlnJeq73pky6bKW5uG-V7iJnLn17TYghcZLCT-mD-rClrXZXs0lOUYSu3_jdzD6eraRndU98qEWmg1yIuzn7q51sPBr_vm5RopwBRF2rhbHab",
           "title": "Nyuszi-légzés",
           "tags": "légzésgyakorlat, stresszoldás",
@@ -3590,6 +3740,7 @@
         {
           "internalID": 60011,
           "day": 15,
+          "dayName": "Játék-péntek",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEjkZzInz7e7mwewjaYF36ZHCc_de8O_mcrv0ZbEUDgo7691KFzbzKb5U8k_owNbnCydyDF8D-FYr9US9_0WNJjOBtx9BCmw8UqpLmvvuGNiNI51KilmrmzthRYh4x1v5HWZ6v7uEcYQ3oYxWNDeaB2lkN7eBlsbl1KEm-DhL6R-q-HrfGxaiDhtjQSEPzBj",
           "title": "Remekelek",
           "tags": "játék, hangulat, nyelvi készségek",
@@ -3600,6 +3751,7 @@
         {
           "internalID": 150017,
           "day": 15,
+          "dayName": "Játék-péntek",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEhDUSCnFF1CzPGcvOJGYDoO8P-xWFRIrmTSo0o2iH9qCohkc_FffHNadJ5jLoe5peB3UBcA65bgKLWd2kWdvHwrVV9fheALoop_AIRnJ5YEKcF5S_3fsq_Z7BQDJI4pSJQxjMUNZMnYTh2-z-M7KIsLU4eC0DLqzRItTb7s5GDfMaHdL0pFycScL5yI3BNR",
           "title": "Orr-fül-áll-homlok",
           "tags": "agyfélteke, kéztorna, mozgásvideo, agytorna, ráhangolódás",
@@ -3610,6 +3762,7 @@
         {
           "internalID": 130014,
           "day": 15,
+          "dayName": "Játék-péntek",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEhwy8-VRqRTrPaElWyl1RbPlp8-fqb-a0VQvz1nH-t1lNb67a-EGQNk3WlU7PDfyvt_o6eXC8Ze9cQrWcGYqOlpCB3AJE-YyhoCl-mz8ohrEnvnypgR_MH5PKDfu5Hx6A-vKUQu6TOSpB7jFAJ8TtCaTP1rvNy2PpiHXlBz1mULmcBhN9NdHl9SYo-OQC7o",
           "title": "Színvadászat",
           "tags": "figyelem, fókusz, koncentráció, ",
@@ -3620,6 +3773,7 @@
         {
           "internalID": 60004,
           "day": 15,
+          "dayName": "Játék-péntek",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgJA558TQOZxnsErRMo9z--6i6PL7mWjkzojlZqkJkB8Yfi5g8krL5RV74fsnVbV4NCOSupranKXYNhWgGGPHCvG7n3TLbau6qiFqPqkrht4Xn0oN2QJiuyVOpdd8abFydSFlgJjqcau2-0SO3f8J2XZe4IYhzkjHzA94aPk_HUus_qY5RVFglUeB76zwHf",
           "title": "Selfie-rajz",
           "tags": "játék, kreatív, rajz, hangulat, önreflexió",
@@ -3630,6 +3784,7 @@
         {
           "internalID": 120003,
           "day": 15,
+          "dayName": "Játék-péntek",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEj0EtZGJvBRQyy02sgUZvvqPIM_Z8u0ln2SaxnIOpoeOrGqYYRtfwjxsq5AEFWm16uz7FXI9lD_AzIGyVnTOpTSPKzC-OPXBEbhJEDjtLZtlCs1n4XjTPPh1RyHZp0OhGZunqbBaNA14gqMgb4Tg2bCc0YyHodT-Nx907ZKP6NWNCRFcYBYIKB-hB7QLllO",
           "title": "Hangulat",
           "tags": "érzéskártya, önismeret, önreflexió",
@@ -3640,6 +3795,7 @@
         {
           "internalID": 40022,
           "day": 15,
+          "dayName": "Játék-péntek",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgEB1aq2bFpXOhn4k5wn16LRw-ntYQ-JrGHmZvTdoJ3x4HiMg-xVSPV--JSmQWciEinX9wI3ys31D4MjoBmuZIKE-S3QADXQGcguAvHhXb_pFXz7sa9nVoyMfubFrhY1Pawq9ZZKWUybMfxFXFQY556ODe-ckgc3bTzKm6iYG4gU7LVpU6RxW1ro6VvfC2z",
           "title": "Örömtánc",
           "tags": "mozgás, figyelem, koncentráció, agyfélteke, kézmozgás",
