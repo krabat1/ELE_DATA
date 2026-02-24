@@ -1434,7 +1434,7 @@
     {
       "slug": "cel_eleres",
       "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkpOu5dSdhHfnNzWvc2kVp-NN2kfRAxsUQMjZlavfSDrACQ0OTwjORLk24o5jgp6yRzWUWjyCLb3pCnQd2QqtPhg5dhvjGAT75BQlvjTeWAFC2Lfg04nH-freb5mImVX09NYzA9Skawr0wmBrQN_-9EeT7R8o7q4Z28MLgNUwFC4slRjsQMyBlSMQat1T1/w204-h197/mot_pakli.jpg",
-      "niceText": "Célelérő Beszélgetőkártyák",
+      "niceText": "Célelérő Beszélgető&shy;kártyák",
       "descLink": "https://ele-kartyak.blogspot.com/2025/01/celelero-beszelgetokartyak.html",
       "tags": "motiváció, célelérés, beszélgetőkártya, szülő-gyerek",
       "cards": [
@@ -2550,17 +2550,6 @@
           "mediaTitle": ""
         },
         {
-          "internalID": 150003,
-          "day": 4,
-          "dayName": "Nyugi-csütörtök",
-          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgBqkGhQ0E-bLG6NRbFrtNrR8Ruiho4ceWnnZZAl0vztqns6Ps6P8Q9xnYWtnN0eOZS2VLPaRsk49eC__77nnW5Kksadbl5pEEiDmCwGnenun3lZ6_orOejp7HHtr5cCyzCNhPJ4wPzheQ1dZ24X7cAEVm2nDpVE32kCu1vpLDLmSLsAKLJakHqZZMaR-1U",
-          "title": "Muti számok",
-          "tags": "agyfélteke, kéztorna, mozgásvideo, agytorna, ráhangolódás",
-          "level": 3,
-          "mediaID": "gAJ_r5s1Yzc",
-          "mediaTitle": "Muti számok"
-        },
-        {
           "internalID": 50001,
           "day": 4,
           "dayName": "Nyugi-csütörtök",
@@ -2605,15 +2594,15 @@
           "mediaTitle": ""
         },
         {
-          "internalID": 150018,
+          "internalID": 150013,
           "day": 5,
           "dayName": "Játék-péntek",
-          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEjFhgV9lzd--NHiKj7DzE8qKO8XQBT26PV6AU8mJVQKTn73Ji8VWPQXbcnf_B9UKQknf66bM4d2KTO33GAyck2KzximPvWqA1XQn5blfIDA5fuqkF15GCf1P5WxzeT1Oa4675gkGN421AXCLMIg2t_MoxblgTzpTWfopoi6LNdxlhCpnoHF9pql_4a-_Z6a",
-          "title": "Pocaksimi",
+          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEh56bQ3oxMN-2GzRmasxxyJl6jdoAt81f-uQ1j3oO3q7PjlGfE7ihbpy5b7QQA6ZSMKcDcFvIToHjTugyhiFBIsCUvKGF5ydmV9ODq1TH1z11L9LFuINnK7Ditey0XG1dwBdsSSroOSZB7f9sNCnIYk5zLakhnXAee_CXIBkxsNJ9rFRDI8SFXmqamQrLSk",
+          "title": "Ritmus-mozgás",
           "tags": "agyfélteke, kéztorna, mozgásvideo, agytorna, ráhangolódás",
           "level": 2,
-          "mediaID": "rHC3YBah9Dc",
-          "mediaTitle": "Pocaksimi"
+          "mediaID": "1DudKsbXQOY",
+          "mediaTitle": "Ritmus-mozgás"
         },
         {
           "internalID": 150006,
@@ -2748,6 +2737,17 @@
           "mediaTitle": ""
         },
         {
+          "internalID": 40017,
+          "day": 6,
+          "dayName": "Fókusz-hétfő",
+          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEhDd6p6MXZlfakvFutfJY9yrGyQ_1q_ENTe3TDffN1LGV8LOFzrQGZdPCWiqNI8NYQFjuadyP4OMYxJbfMU3uhnudCBGeWRDfnP17-xuU7v84fGHmF0agSQypVRSE4XyaF0FobW6VFPN1esI9bjmfEc8xurro3oJkxLMy-QF1p1Trp6R-wWxoyPlf0yZgwa",
+          "title": "Nemtükör",
+          "tags": "mozgás, figyelem, koncentráció, agyfélteke, kézmozgás",
+          "level": 1,
+          "mediaID": "",
+          "mediaTitle": ""
+        },
+        {
           "internalID": 70008,
           "day": 6,
           "dayName": "Fókusz-hétfő",
@@ -2830,17 +2830,6 @@
           "dayName": "Laza kedd",
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgJ1u80d5ZnWlOFBwehsYhm0SfvAUtsbRHQ5H6Xy3zlod1Q3WEBNolhufTTqQdRhXDHljiXDb0NECRvx97lSMCeuAXcPVHioZ8t7_8H8zaTtdQltTd18DpSrf1AbkJQdOrFzwaqNtUaC4Z7JOn4Dk_2IuJIXRl-XYyOeiXAQ_VUY4ceYg7euSSxVr1rJMv3",
           "title": "Tükörmozgás",
-          "tags": "mozgás, figyelem, koncentráció, agyfélteke, kézmozgás",
-          "level": 1,
-          "mediaID": "",
-          "mediaTitle": ""
-        },
-        {
-          "internalID": 40017,
-          "day": 7,
-          "dayName": "Laza kedd",
-          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEhDd6p6MXZlfakvFutfJY9yrGyQ_1q_ENTe3TDffN1LGV8LOFzrQGZdPCWiqNI8NYQFjuadyP4OMYxJbfMU3uhnudCBGeWRDfnP17-xuU7v84fGHmF0agSQypVRSE4XyaF0FobW6VFPN1esI9bjmfEc8xurro3oJkxLMy-QF1p1Trp6R-wWxoyPlf0yZgwa",
-          "title": "Nemtükör",
           "tags": "mozgás, figyelem, koncentráció, agyfélteke, kézmozgás",
           "level": 1,
           "mediaID": "",
@@ -3287,15 +3276,15 @@
           "mediaTitle": ""
         },
         {
-          "internalID": 150002,
+          "internalID": 150003,
           "day": 11,
           "dayName": "Fókusz-hétfő",
-          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEjpOnJEWC75V9BO3NOmRbhDxcbLOPY2S4vb2XHFpbJnpb5AkSZ1AR6jJsUTGXalreBWKZ6a_mxNuSXPDBJ4XILZlW2mZcWWCiSxZ5rDEvxFTtPfWCt0nJH7oNWNJrgNlbTPDSuQ81xFhbcfWqOYf4PQXAjhIP2E_e-gy5LMzPfnefQd3oHFdV0JyNXaPRWo",
-          "title": "Muti kéztorna",
+          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgBqkGhQ0E-bLG6NRbFrtNrR8Ruiho4ceWnnZZAl0vztqns6Ps6P8Q9xnYWtnN0eOZS2VLPaRsk49eC__77nnW5Kksadbl5pEEiDmCwGnenun3lZ6_orOejp7HHtr5cCyzCNhPJ4wPzheQ1dZ24X7cAEVm2nDpVE32kCu1vpLDLmSLsAKLJakHqZZMaR-1U",
+          "title": "Muti számok",
           "tags": "agyfélteke, kéztorna, mozgásvideo, agytorna, ráhangolódás",
-          "level": 2,
-          "mediaID": "Fz8yZPmG7ew",
-          "mediaTitle": "Muti kéztorna"
+          "level": 3,
+          "mediaID": "gAJ_r5s1Yzc",
+          "mediaTitle": "Muti számok"
         },
         {
           "internalID": 20009,
@@ -3417,17 +3406,6 @@
           "level": 3,
           "mediaID": "",
           "mediaTitle": ""
-        },
-        {
-          "internalID": 150018,
-          "day": 12,
-          "dayName": "Laza kedd",
-          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEjFhgV9lzd--NHiKj7DzE8qKO8XQBT26PV6AU8mJVQKTn73Ji8VWPQXbcnf_B9UKQknf66bM4d2KTO33GAyck2KzximPvWqA1XQn5blfIDA5fuqkF15GCf1P5WxzeT1Oa4675gkGN421AXCLMIg2t_MoxblgTzpTWfopoi6LNdxlhCpnoHF9pql_4a-_Z6a",
-          "title": "Pocaksimi",
-          "tags": "agyfélteke, kéztorna, mozgásvideo, agytorna, ráhangolódás",
-          "level": 2,
-          "mediaID": "rHC3YBah9Dc",
-          "mediaTitle": "Pocaksimi"
         },
         {
           "internalID": 150014,
