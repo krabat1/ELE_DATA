@@ -621,36 +621,189 @@
       "cards": [
         {
           "internalID": 50001,
-          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgBkipQ4pCAUbc98lkheNvpozriLHO2eshclro6sjo4LOBfbFmPC9RENHGmk99MXswwuZ0G7Moa_lbDbPjkOIzxDtR4-xcqW6N5Q7PJpZZQBQQOoQnEr_hfo21-FMKPJBdJxasIe9JycMSxWOmAiVdc7lf89EC82ijtIRCRz7sRf4u6zT3xna3NH-XBpjHK",
+          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEivl_mwpKzIOibhtj7eh6B9t_PlZwPd0S0hqjtMl4bV51tZRooFQIhMoNGeNc7FaOao_BhjP9dO4kdkh8yQDQW7fwCV8si2fm12sZv7AyAt4MlVpNbhseDOYBd3p2BC1k217T6vQ3cOI62eOApCyOtfUyiqCxNcmLqAhOlU_pLJsMdtOjDRZCptF7j8VZBW",
           "title": "Emlék-képben",
-          "tags": "szóbeli memória, szókincs, figyelem, nyár, emlékezet",
+          "tags": "szóbeli memória, szókincs, figyelem, emlékezet",
+          "level": 2,
+          "mediaID": "",
+          "mediaTitle": ""
+        },
+        {
+          "internalID": 50005,
+          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgTwFTG0t1TpcWF6ce7kqWSFJz9f6XOXJwEk3cDPf4vMjTRJp1A_bWon5S3QwvOF1WDwk97ZghOXDhBxxCcrvzE3QBTjJtIKbzfUF1GayR2YjyiIP6Qy3_Cyetlfrv6v7yxWtDg9E-duKIgrsL2Dp5CyZVNKVizP-v1s6U9EVKOxwBjKKr3pxlUa-EAP_xL",
+          "title": "Ki mit csinál?",
+          "tags": "szóbeli memória, szókincs, figyelem, emlékezet",
+          "level": 2,
+          "mediaID": "",
+          "mediaTitle": ""
+        },
+        {
+          "internalID": 50007,
+          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEhElkDlAK4DM0sxm7ztAKLyt6hwg0WLx9uLROJ185X4bH-WSfxsBx3F0MULyXXJJUSc5NfNfgqXEbMQUQ0fWV64HBQwJBHU8ApiG5TFg_wPKmYyosZZUWLtuu9_VyISj26b-c0EpHh5In2f_x68jMpf3veFkgGAGYrGyctLG8TMk2mGKD6ALT8fcxNGj3nD",
+          "title": "3 Élmény ",
+          "tags": "szóbeli memória, szókincs, figyelem, emlékezet",
+          "level": 2,
+          "mediaID": "",
+          "mediaTitle": ""
+        },
+        {
+          "internalID": 50006,
+          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEjC9zC5ROhlTGdyE-7AVcWiZwHUzn3F4ow2LSAh1U0FXVpzF-QwwEwON4GYcfOIYd2aqCxt3D1wPnYHFdMtli7qe6pF5LDDnM19HQKrPPwVoLwpN3z6MpLOYGGsdPxwntjJ2p_Ch74tsDd-S4Y3qVRXMoV5g3JTo_5QVozx4lhPY4K7REz9pElbfgNGjyRr",
+          "title": "Napi sorrend",
+          "tags": "szóbeli memória, szókincs, figyelem, emlékezet",
           "level": 2,
           "mediaID": "",
           "mediaTitle": ""
         },
         {
           "internalID": 50002,
-          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEj0BYg8n-3ihDcuyV-VMJzxA7sghhTtUGS2kLQyQLA2tGxaBmQIOyO-Zc4r0wXP424mUKgUwBn_tOJ2JCGiGp48bnhHLCxxUaVhsj1RkC5Q1S-9p-S1bVc3KKg1NcyWgAhnoESzjIzNMWaF1f3XlSq7Nu75vQhoQq8dzqMq5mAfryCcIP_XOcwAzqFmRecj",
+          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgIjUfOnA7qa7mxRS-oxEBhIehH5nlPU9BPRIHvTbx3_mlcxPeWR_VRREnkzf1aKYKnMKjBXWBSOkUjMTRKiWA2EEMO5BlFagtKiPf8K8zM8NUDdy-TIJkCMD3jAfF_-pHwIhdmBJuWpLMcsny20E6kGrG0WNiZ9UwYPwHjdAwqQhv-GtAFUe17w9eT_6BS",
           "title": "Fordított nap",
           "tags": "agytorna, szóbeli memória, szókincs, figyelem, nyár, emlékezet",
-          "level": 3,
-          "mediaID": "",
-          "mediaTitle": ""
-        },
-        {
-          "internalID": 50003,
-          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEhZ8emtShZlBVovX0Pj1HRlYDS1gVVYHvTIyKoT3AuypfT4zDb8lVxoyaj8TJQdRU7mBb7LR8_OZVYkEJ8KMPMZyoC9Se8hEGxucVtSA6R-09-cfJUtjEHG5XtoecDDrVkZX0vMgfn4zprcJOSsEpLACJpoazVFIE7zAiOVPr1cckFdHIOtciWzbsEdjHzp",
-          "title": "Nyári hagnok",
-          "tags": "szóbeli memória, szókincs, figyelem, nyár, emlékezet",
-          "level": 1,
+          "level": 2,
           "mediaID": "",
           "mediaTitle": ""
         },
         {
           "internalID": 50004,
-          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEiMudgHI3bXueMdw0NYLo9S_FxvtMMz5jVi-VI0DXfO40RQuFJ-wk9VvN9FYxh-C8fwfjA8bqJ11maEKOC5AJqDBgnPjjTDs0fjYUEgfNh8CYrnu3UpA3m4eNt9qVExNYEYXberSUStmSEVERy1yvaBbTRy81yewG3g8dYi_yderPgSXPbKJ7zXXNm_zAnl",
+          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEicmdQmdKq9_OcXLyD_YPpfAqY46Cz3muzLT8YsWKtaSgKWzdSRxRjlYMDKyeWlOu1ok5sSQun6dtdwK1OAD87ipuv7_FhFJ8FNXyrXhigKeUo-KE4rRAZFZiK3d2YNgniCjh54P5PmFZNk8e_MaAJC91QmlaJ7E0KV3OgwxYftcP-z-kIPwYcTHc2pdwM7",
           "title": "Sztorilánc",
-          "tags": "szóbeli memória, szókincs, figyelem, nyár, kreativitás, emlékezet",
+          "tags": "szóbeli memória, szókincs, figyelem, emlékezet, kreativitás",
+          "level": 2,
+          "mediaID": "",
+          "mediaTitle": ""
+        },
+        {
+          "internalID": 50003,
+          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEjELSEBpK-IeyLI5_-6hZZjQEhm5hsaTgtZIBaPkUxZSuLiZOjUIapFa3tVs4iV-plNdMDAf54MkQ1bhlxj2cOepdsR3_pC0a8g4sZ3q2-jeZQuHyyrZOjEJCGDgNfyvpdzSTPjqwFnRudN0-OiInmZDDjHhBQ8KWX7ahf1k-i5nvJ6aDKQdzuPcJIZ4EBT",
+          "title": "Tavaszi hangok",
+          "tags": "szóbeli memória, szókincs, figyelem, emlékezet, tavasz",
+          "level": 2,
+          "mediaID": "",
+          "mediaTitle": ""
+        },
+        {
+          "internalID": 50008,
+          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEjYI-wwP7BAxvogxShVW5pzGJADby0ug_Nn0yemQBXX5TBUAAvA5JCC8amScv-pWfVJYo6k0Xi8p0_dOL0fquqsP_Jmwy5eGMZ77MHl8lug6vtT0hqC_WGpxLJrGdHuEkShVkHVaOsNvq-rJ7ORQKo9EIBdzVHS0gX-LGCkFukJTLgah7SASCvWhqVy97Sl",
+          "title": "Tavaszi programok",
+          "tags": "szóbeli memória, szókincs, figyelem, emlékezet, tavasz",
+          "level": 2,
+          "mediaID": "",
+          "mediaTitle": ""
+        },
+        {
+          "internalID": 50009,
+          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEj10SHt1nxY2hyr1ydHN2zSYu8z7Dldz7-g7l8W45pucNKhksYvcX9J4IB92zTCzvROv7dVowdpVi2IWNOyoxi5fiQYYAGtYKNnvhiW9tA7RfdJXupWENg6YP4AfPLo6YrIGvkzcPEJfoVIFEXBOwHkf2zJrxw-onuiVVp9CJ_bAjs9-BYyrGs2vzQU6ufQ",
+          "title": "Tavasi napsütés",
+          "tags": "szóbeli memória, szókincs, figyelem, emlékezet, tavasz",
+          "level": 2,
+          "mediaID": "",
+          "mediaTitle": ""
+        },
+        {
+          "internalID": 500010,
+          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgO6bi4Md1ElZR3DwzMLcvuwllSsHJ6cRAUVvkrGQq03-IiC1WSuQe-A__T1BD8J1xf9M0SiNz52Bv0nQYI-ydmb-Pf2TfBJnEAHG1cToPP5_t47vYO1Tup_SD0JL5EJVXuZB04mlz2da1DYmINB1BKj6a3xrklRrJmLCsoBqECQiFsvC7A_blupY0n-7iP",
+          "title": "Egy nyári nap",
+          "tags": "szóbeli memória, szókincs, figyelem, emlékezet, nyár",
+          "level": 2,
+          "mediaID": "",
+          "mediaTitle": ""
+        },
+        {
+          "internalID": 500011,
+          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEhbbS8GFlWzorAIoKs3oLA-HdzmskF-FXgfmN03J9V_dyQet3wT0ZvZbZszTh6HpPLXnTfTwGUUv8_JTp-kIkbfrDXoQs0EaMQppVj8irQrCEThDzvX2pSacb4Be51ZFvNaw4PaNfgBPvxYNmYJMkFlNCou6oSvnIB1nR6AsPY-2vLsT0o5vtmkopuLfW64",
+          "title": "Nyári programok",
+          "tags": "szóbeli memória, szókincs, figyelem, emlékezet, nyár",
+          "level": 2,
+          "mediaID": "",
+          "mediaTitle": ""
+        },
+        {
+          "internalID": 500012,
+          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEhVCnP6MdLLFgkgk1uX2E4Ujxa6y3YilenQs1vIX8hMAAu3iFci5C__MdoGkChhrmdFgYeXjxF2NieAFNMyRh2LFiacQsOiyaTQJF1hyWzddpIozG-hGwxBxF3HthlbcDhzcR_KaD09jfyuuwifHeDkdgSFLmO8xuhJ4peIdowFRU-AX0cthMiXLS_pjecl",
+          "title": "Ízek nyara",
+          "tags": "szóbeli memória, szókincs, figyelem, emlékezet, nyár",
+          "level": 2,
+          "mediaID": "",
+          "mediaTitle": ""
+        },
+        {
+          "internalID": 725013,
+          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEhrAggvd0taqrFrohVAEH7MFq-dN43aeV6Op8RXBu8aknRXzzOr17-9U-em0yG8CZsM158-p6Bh6JGG-huPsdyrk26kPBTYJGVwxyzXP1FKpeZeoRfwobxnCfZEPkVM29BpNJp1pdCHRVe20xQZcckTh5XUCO7WlOvIHIK_t4NgHHqumEa-Kvv3BIAPdK5O",
+          "title": "Őszi porgramok",
+          "tags": "szóbeli memória, szókincs, figyelem, emlékezet, ősz",
+          "level": 2,
+          "mediaID": "",
+          "mediaTitle": ""
+        },
+        {
+          "internalID": 860014,
+          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgtUWF6HjEgra24OCHynHVzbXIf7lUsDGJIci1tT9bSpFVH7C6JpbBCPi-ej8SM9fgozNvQpxYadZAyMrugH92iQ8Bv-uEI0BBGxwCsZH6EyplJ20fhk62wMOL1dJEoXVwo0JGbo4AymG-k0koNTbTWsv-KnXTycUn2yGUeZAyyMQyIPxKX7W2nFE_kvc8m",
+          "title": "Őszi színek",
+          "tags": "szóbeli memória, szókincs, figyelem, emlékezet, ősz",
+          "level": 2,
+          "mediaID": "",
+          "mediaTitle": ""
+        },
+        {
+          "internalID": 995015,
+          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEiwmpWxHJQl1T7I9oUkKGF4Ipt0sqrpxdlF1i4_J-kqSRltYb5BkAioGzzIihkt9VBTcQ6laI-WU7sk2nYB9Ds5lEY8tAM99Tb4KZgaMETuf5zCbHJ_MJce1KYKILyPnS4TvGg06uuvs5r8pAtqsmjc1EBMaZpS9fZrARzFGDmMr8E8Rx81_uH3E1L0qzc6",
+          "title": "Őszi erdők",
+          "tags": "szóbeli memória, szókincs, figyelem, emlékezet, ősz",
+          "level": 2,
+          "mediaID": "",
+          "mediaTitle": ""
+        },
+        {
+          "internalID": 1130016,
+          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEghB4ww_ywwIV-Mq6mmfcdbQXExS04BOKmi28YN0uFj42HQshdxaTqFEFI6k6jaY7ZyBgw4e2eSbx4vBQr1pcVgZGBbyYrSPQGqV771cyNfsNBNlygjc1wHxoUrvVTGZQiF5Vy3293jizbA5qPWSq6h4AVVhKXUMPz1DBCkbd48B46ceC61BQ9YAEU1KatU",
+          "title": "Téli illatok",
+          "tags": "szóbeli memória, szókincs, figyelem, emlékezet, tél",
+          "level": 2,
+          "mediaID": "",
+          "mediaTitle": ""
+        },
+        {
+          "internalID": 1265017,
+          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEiG_1atiw6gLKmmPpzNnFO-XqOglo7bdHpflI7V3_H81z0Nz_2DLVmQYBfhUboDH1zuYfOVIE_bkNlarJ4CUYTV8HONvECJ_BHlfESdnKDcoqVpyRZxIYDD3AqihontW2wVWDSCF-SXIXfrua7DVkD5Chwv1jf5lNXt43UOEUWmPbDh-IkOla17pkUHf3NW",
+          "title": "Téli programok",
+          "tags": "szóbeli memória, szókincs, figyelem, emlékezet, tél",
+          "level": 2,
+          "mediaID": "",
+          "mediaTitle": ""
+        },
+        {
+          "internalID": 1400018,
+          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEjMpaymANxTYFN0rcsEThZiWcEewyAf7GTg0929nHPfJSwvriRZTgLrOk8I3JCH6JbAjxHW3r5xn9Xmi2f3Gto2Hcs_jk78j_PK5wpaiffJ4sYsdiKMuKvAvEAlsanQdcHYywSB_-FJlgdXFxk1HIfImL2DLvNCGvWwt8EkPzjT_3Y8wpAXY9MGA0JeILdB",
+          "title": "Havas sportok",
+          "tags": "szóbeli memória, szókincs, figyelem, emlékezet, tél",
+          "level": 2,
+          "mediaID": "",
+          "mediaTitle": ""
+        },
+        {
+          "internalID": 1535019,
+          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEiz3MixV6FxlPdO3kLX5EZLnh5HHwf3FOnBg7DI7Sp8bn6XjDRqPs7xv-Mh2DLiFHjYaDXBW2mes29gECEoo8uyUaiGDyKls4I3JyR_QgEuWPvdbicy6SgCEQMYzFctKHC3-BNtN7TJLd5Mpgmd3xQZn7qAXCMo6YjPKAE1M8FNt-R3_8g0sdRGXLX9lu4w",
+          "title": "Hol jártam?",
+          "tags": "szóbeli memória, szókincs, figyelem, emlékezet",
+          "level": 2,
+          "mediaID": "",
+          "mediaTitle": ""
+        },
+        {
+          "internalID": 1670020,
+          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEhcaHpm92VHkTw6ZQ374E-cNJ9aXQB_UDgUYnyhySbmPYYGAb9jxqC2z3_obcu-BdrNG9ygOP-tOodAYpqO2S5tMSWWVvWrbJiOZkusSPZ64Rytl0M8Dwri8z5BtmNIvy8w6hLj2s2vTQv49nQvCab4nYMwsTx-zqQzZtcNghZh3cpCfXWi9RWIrj8rdPaV",
+          "title": "Bőröndözön",
+          "tags": "szóbeli memória, szókincs, figyelem, emlékezet",
+          "level": 2,
+          "mediaID": "",
+          "mediaTitle": ""
+        },
+        {
+          "internalID": 1805021,
+          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEh1lEJlwsfbRbojj1igP_u2o6RLhgFa4OiSErNCJh1XHYM7QVCGKq51o_NJSu3PS4cPfHy_igoSOnRbQKmZ5-CpZ9RmM396zghCMF6LujCJqXJeBNHkyEvTf5r3XDdLn3Y_83m9VR8vFdiWVYsMATTmdpIqyu7tcyu63BwTfgzLcqGhcTZFN-OjZUor9O20",
+          "title": "Álomutazás",
+          "tags": "szóbeli memória, szókincs, figyelem, emlékezet",
           "level": 2,
           "mediaID": "",
           "mediaTitle": ""
@@ -2749,10 +2902,10 @@
           "internalID": 50002,
           "day": 1,
           "dayName": "Fókusz-hétfő",
-          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEj0BYg8n-3ihDcuyV-VMJzxA7sghhTtUGS2kLQyQLA2tGxaBmQIOyO-Zc4r0wXP424mUKgUwBn_tOJ2JCGiGp48bnhHLCxxUaVhsj1RkC5Q1S-9p-S1bVc3KKg1NcyWgAhnoESzjIzNMWaF1f3XlSq7Nu75vQhoQq8dzqMq5mAfryCcIP_XOcwAzqFmRecj",
+          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgIjUfOnA7qa7mxRS-oxEBhIehH5nlPU9BPRIHvTbx3_mlcxPeWR_VRREnkzf1aKYKnMKjBXWBSOkUjMTRKiWA2EEMO5BlFagtKiPf8K8zM8NUDdy-TIJkCMD3jAfF_-pHwIhdmBJuWpLMcsny20E6kGrG0WNiZ9UwYPwHjdAwqQhv-GtAFUe17w9eT_6BS",
           "title": "Fordított nap",
           "tags": "agytorna, szóbeli memória, szókincs, figyelem, nyár, emlékezet",
-          "level": 3,
+          "level": 2,
           "mediaID": "",
           "mediaTitle": ""
         },
@@ -2870,10 +3023,10 @@
           "internalID": 50003,
           "day": 2,
           "dayName": "Laza kedd",
-          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEhZ8emtShZlBVovX0Pj1HRlYDS1gVVYHvTIyKoT3AuypfT4zDb8lVxoyaj8TJQdRU7mBb7LR8_OZVYkEJ8KMPMZyoC9Se8hEGxucVtSA6R-09-cfJUtjEHG5XtoecDDrVkZX0vMgfn4zprcJOSsEpLACJpoazVFIE7zAiOVPr1cckFdHIOtciWzbsEdjHzp",
-          "title": "Nyári hagnok",
-          "tags": "szóbeli memória, szókincs, figyelem, nyár, emlékezet",
-          "level": 1,
+          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEjELSEBpK-IeyLI5_-6hZZjQEhm5hsaTgtZIBaPkUxZSuLiZOjUIapFa3tVs4iV-plNdMDAf54MkQ1bhlxj2cOepdsR3_pC0a8g4sZ3q2-jeZQuHyyrZOjEJCGDgNfyvpdzSTPjqwFnRudN0-OiInmZDDjHhBQ8KWX7ahf1k-i5nvJ6aDKQdzuPcJIZ4EBT",
+          "title": "Tavaszi hangok",
+          "tags": "szóbeli memória, szókincs, figyelem, emlékezet, tavasz",
+          "level": 2,
           "mediaID": "",
           "mediaTitle": ""
         },
@@ -3057,9 +3210,9 @@
           "internalID": 50001,
           "day": 4,
           "dayName": "Nyugi-csütörtök",
-          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgBkipQ4pCAUbc98lkheNvpozriLHO2eshclro6sjo4LOBfbFmPC9RENHGmk99MXswwuZ0G7Moa_lbDbPjkOIzxDtR4-xcqW6N5Q7PJpZZQBQQOoQnEr_hfo21-FMKPJBdJxasIe9JycMSxWOmAiVdc7lf89EC82ijtIRCRz7sRf4u6zT3xna3NH-XBpjHK",
+          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEivl_mwpKzIOibhtj7eh6B9t_PlZwPd0S0hqjtMl4bV51tZRooFQIhMoNGeNc7FaOao_BhjP9dO4kdkh8yQDQW7fwCV8si2fm12sZv7AyAt4MlVpNbhseDOYBd3p2BC1k217T6vQ3cOI62eOApCyOtfUyiqCxNcmLqAhOlU_pLJsMdtOjDRZCptF7j8VZBW",
           "title": "Emlék-képben",
-          "tags": "szóbeli memória, szókincs, figyelem, nyár, emlékezet",
+          "tags": "szóbeli memória, szókincs, figyelem, emlékezet",
           "level": 2,
           "mediaID": "",
           "mediaTitle": ""
