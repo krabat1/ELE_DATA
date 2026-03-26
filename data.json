@@ -2798,28 +2798,19 @@
       "tags": "szorongásoldás, stresszkezelés, dühkezelés, lélektan, tipp, trükk",
       "cards": [
         {
-          "internalID": 110001,
-          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEidZkXJElkZzpoIiaCcSif8wjIIhdgR6W4SuQgwZznVG56i1TDhmaFHfQGF-JTpZyoPqkUxGUW8rWMMWhPDSO6djGgv5-h22Inll-LD_wO2_eHlzugxSQ2P9UwpBL4ya1SRFiB9kpdC6y2r4MVr8uq5LgRkwZfH6fW3p-Rk-xO-aR3zznUZPW0TKN3NK0-I",
-          "title": "Színes érzések",
-          "tags": "stressz, feszültség, szorongás, kreatív, érzelem, önismeret",
+          "internalID": 110006,
+          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgOfNuY62yIQgxSDdcQVQNLunB642GlQ35x20YFtDMXX3rvhkzBye7_gy4WDMSkE_FZddAZFDPp0ig1mkdfX0Pyx97ZzVtYeTpIQ4c6I7140eT7_H16Sfnm_571LIOt13-qhxkJIWvYQHQv_PA-nW5tEQHzWjY806JSyrY7PgAvAzQZ84sCFqITJGdrH-vs",
+          "title": "Stressztánc",
+          "tags": "stressz, feszültség, szorongás, mozgás",
           "level": 2,
           "mediaID": "",
           "mediaTitle": ""
         },
         {
-          "internalID": 110002,
-          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEjEY4qQsJ5VgGiH_OBRcTaYVS1dPae1Ti6H0eaBBhkA0rER812PPY8c65GnY4x64j5IauAOga51pmWTYzQTGXlsF0nnZGPe7_x39pxMVjNriN-WuHkyrdMUAe6AOmQiI4HKmO_aHbY00d26a8-s5n8xv1V2ya8OXvCaPhLcrjU-rGu3HDin-DBVluGuQAZ6",
-          "title": "Átformáló",
-          "tags": "stressz, feszültség, szorongás, kreatív",
-          "level": 2,
-          "mediaID": "",
-          "mediaTitle": ""
-        },
-        {
-          "internalID": 110003,
-          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgrWiBmIVNkx_N61EzM_6PHHHMLJ7ltSJas8J7_WZLM-P2rzmJiXBvL95ymPZxzPI6uJUX68AlE-0XZPBU3JH10KoeEMEO0DY-rim1H_g9nmVuxLNALQpg4Ilo_ZDbtWzxKrFI3zheaBRUS16WRiT6egSCVitdIwMFlMITKJqZ-b87ZaIDGIN480xSZJ-5O",
-          "title": "Falnyomás",
-          "tags": "stressz, feszültség, szorongás, erőkifejtés",
+          "internalID": 110005,
+          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEi2dfD_l3TlNhFjsegB2WD99m9woX5Mywwc2dRnCI9Q2GixPn65YjhQ1RzMmXqq3xULbOJNkk0v3ni0KvSmT6GTg3rQ6dEteMZCHNst3GBxjXw7rppGA2rksor5FacgxFt0DGD5d_DDeHYElb-H5plYlLOYyJ2ic4Od-QpC3yQw9NJhZeBi7XzgqTqXH_qJ",
+          "title": "Rongybaba",
+          "tags": "stressz, feszültség, szorongás, mozgás",
           "level": 2,
           "mediaID": "",
           "mediaTitle": ""
@@ -2834,19 +2825,28 @@
           "mediaTitle": ""
         },
         {
-          "internalID": 110005,
-          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEiO-an3vJVL2mrJ4AFzTpi4E3DaiBXvx5D_WsvchkPajaiRUmqJeClorcqc-aIKNgAwkUJ_lg9NgeDopYCEw5JzRjWPdFTS06e2iiXeeOnKNwX4iQam5IPmbTg8xo-sjEtUmnK2m28cPF9tRtCaFPW1hQjs62_mtdfLqIlU99d_U5PgpJ5VuHXh1E6czYwt",
-          "title": "Rongybaba",
-          "tags": "stressz, feszültség, szorongás, mozgás",
+          "internalID": 110003,
+          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgrWiBmIVNkx_N61EzM_6PHHHMLJ7ltSJas8J7_WZLM-P2rzmJiXBvL95ymPZxzPI6uJUX68AlE-0XZPBU3JH10KoeEMEO0DY-rim1H_g9nmVuxLNALQpg4Ilo_ZDbtWzxKrFI3zheaBRUS16WRiT6egSCVitdIwMFlMITKJqZ-b87ZaIDGIN480xSZJ-5O",
+          "title": "Falnyomás",
+          "tags": "stressz, feszültség, szorongás, erőkifejtés",
           "level": 2,
           "mediaID": "",
           "mediaTitle": ""
         },
         {
-          "internalID": 110006,
-          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgOfNuY62yIQgxSDdcQVQNLunB642GlQ35x20YFtDMXX3rvhkzBye7_gy4WDMSkE_FZddAZFDPp0ig1mkdfX0Pyx97ZzVtYeTpIQ4c6I7140eT7_H16Sfnm_571LIOt13-qhxkJIWvYQHQv_PA-nW5tEQHzWjY806JSyrY7PgAvAzQZ84sCFqITJGdrH-vs",
-          "title": "Stressztánc",
-          "tags": "stressz, feszültség, szorongás, mozgás",
+          "internalID": 110002,
+          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEjEY4qQsJ5VgGiH_OBRcTaYVS1dPae1Ti6H0eaBBhkA0rER812PPY8c65GnY4x64j5IauAOga51pmWTYzQTGXlsF0nnZGPe7_x39pxMVjNriN-WuHkyrdMUAe6AOmQiI4HKmO_aHbY00d26a8-s5n8xv1V2ya8OXvCaPhLcrjU-rGu3HDin-DBVluGuQAZ6",
+          "title": "Átformáló",
+          "tags": "stressz, feszültség, szorongás, kreatív",
+          "level": 2,
+          "mediaID": "",
+          "mediaTitle": ""
+        },
+        {
+          "internalID": 110001,
+          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEidZkXJElkZzpoIiaCcSif8wjIIhdgR6W4SuQgwZznVG56i1TDhmaFHfQGF-JTpZyoPqkUxGUW8rWMMWhPDSO6djGgv5-h22Inll-LD_wO2_eHlzugxSQ2P9UwpBL4ya1SRFiB9kpdC6y2r4MVr8uq5LgRkwZfH6fW3p-Rk-xO-aR3zznUZPW0TKN3NK0-I",
+          "title": "Színes érzések",
+          "tags": "stressz, feszültség, szorongás, kreatív, érzelem, önismeret",
           "level": 2,
           "mediaID": "",
           "mediaTitle": ""
