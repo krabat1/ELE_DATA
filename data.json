@@ -6,6 +6,9 @@
       "niceText": "MemoMester ~ Trükkös tanulókártyák memorizáláshoz",
       "descLink": "",
       "tags": "tipp, tanulás, memória, memorizálás, trükk",
+      "deckBack": "https://blogger.googleusercontent.com/img/a/AVvXsEi9ICYPbEa_YOrD4Ss97KGIkfJHPwxDSP1BCet2orFWEnCaCm8oiAUNW_DhYD0WGzTSqN0OKxEIGnHhqC_J6s2mOcq-Wsl5_yUAkhTmdH1v1yQa9WkO3WFL12Gb9dbv89tXPq0j0EH9RESFhOh7mNW-PCWIu1QR4kN1SgAix_xjV0ox7UU1dVucRCnLZloA",
+      "demo": 0,
+      "trial": 0,
       "cards": [
         {
           "internalID": 10001,
@@ -14,7 +17,10 @@
           "tags": "memorizálás, tipp",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 10002,
@@ -23,7 +29,10 @@
           "tags": "memorizálás, játék",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 10003,
@@ -32,7 +41,10 @@
           "tags": "memorizálás, tipp",
           "level": 3,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 10004,
@@ -41,7 +53,10 @@
           "tags": "memorizálás, tipp",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 10005,
@@ -50,7 +65,10 @@
           "tags": "memorizálás, tipp",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 10006,
@@ -59,7 +77,10 @@
           "tags": "memorizálás, tipp",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 10007,
@@ -68,7 +89,10 @@
           "tags": "memorizálás, tipp",
           "level": 3,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 10008,
@@ -77,7 +101,10 @@
           "tags": "memorizálás, tipp",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 10009,
@@ -86,7 +113,10 @@
           "tags": "memorizálás, tipp",
           "level": 3,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 10010,
@@ -95,7 +125,10 @@
           "tags": "memorizálás, tipp",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 10011,
@@ -104,7 +137,10 @@
           "tags": "memorizálás, tipp",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 10012,
@@ -113,7 +149,10 @@
           "tags": "memorizálás, tipp",
           "level": 3,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 10013,
@@ -122,7 +161,10 @@
           "tags": "memorizálás, tipp",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 10014,
@@ -131,7 +173,10 @@
           "tags": "memorizálás, tipp",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 10015,
@@ -140,7 +185,10 @@
           "tags": "memorizálás, tipp",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 10016,
@@ -149,7 +197,10 @@
           "tags": "memorizálás",
           "level": 3,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         }
       ]
     },
@@ -159,6 +210,9 @@
       "niceText": "Mini Agytorna ~ Gondolkodás játékosan ",
       "descLink": "",
       "tags": "agytorna, agy, gondolkodás, logika",
+      "deckBack": "https://blogger.googleusercontent.com/img/a/AVvXsEjy9ust2UVyJ6UUK5fdVLpnbbEVO1oI7c0BYK5bd4mZb89eT4s_W8XySndynE9t0fL9h5BtzY26HOS_gXeqaKDTG4W1lE-9loX602YT9UM_T7w-LNioM8Zmjsb_M_i78WYea62nLd57svFI2e0JjzXgKmzVlSSWd4DS13qXrsbRzNEkvrUh1tQEpAK4TYST",
+      "demo": 1,
+      "trial": 1,
       "cards": [
         {
           "internalID": 20001,
@@ -167,7 +221,10 @@
           "tags": "agytorna, nyelvi gondolkodás, mondatalkotás, játék",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 20002,
@@ -176,7 +233,10 @@
           "tags": "agytorna, nyelvi gondolkodás, szóalkotás, játék",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 20003,
@@ -185,7 +245,10 @@
           "tags": "agytorna, gondolkodás, logika",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 20004,
@@ -194,7 +257,10 @@
           "tags": "agytorna, memória, gondolkodás",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 20005,
@@ -203,7 +269,10 @@
           "tags": "gondolkodás, logika, algebra",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 20006,
@@ -212,7 +281,10 @@
           "tags": "gondolkodás, kreativitás, agytorna",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 20007,
@@ -221,7 +293,10 @@
           "tags": "gondolkodás, kreativitás, agytorna",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 20008,
@@ -230,7 +305,10 @@
           "tags": "gondolkodás, kreativitás, agytorna",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 20009,
@@ -239,7 +317,10 @@
           "tags": "gondolkodás, kreativitás, agytorna",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 20010,
@@ -248,7 +329,10 @@
           "tags": "gondolkodás, kreativitás, agytorna",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 20011,
@@ -257,7 +341,10 @@
           "tags": "gondolkodás, kreativitás, agytorna",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 20012,
@@ -266,7 +353,10 @@
           "tags": "gondolkodás, kreativitás, agytorna, koncentráció, figyelem",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         }
       ]
     },
@@ -276,6 +366,9 @@
       "niceText": "Nyugikártyák ~ Stresszkezelés légzőgyakorlatokkal",
       "descLink": "https://ele-kartyak.blogspot.com/2024/12/nyugikartyak-leiras.html",
       "tags": "nyugi, stressz, szorongás, légzés, légzőgyakorlat",
+      "deckBack": "https://blogger.googleusercontent.com/img/a/AVvXsEjAsxTwBmyT95ygh3jj4Y4uYx7S4EZG1djtQ_jT19ysXSXBiuoYU-Q8GFrOvUrP1egEG9KDg6kh8BX4gKceRpDlksUKdMW0R3ll3XlHP1NCDy2fAT0XRuI6Nrtykv7nFaKyuUEL1QX7fodEA06h2-k4T25DNCt6coHBenwNU4pGFkAZKtNZCZp815bVgJ2U",
+      "demo": 1,
+      "trial": 1,
       "cards": [
         {
           "internalID": 30001,
@@ -284,7 +377,10 @@
           "tags": "légzésgyakorlat, stresszoldás",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 30002,
@@ -293,7 +389,10 @@
           "tags": "légzésgyakorlat, stresszoldás",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 30003,
@@ -302,7 +401,10 @@
           "tags": "légzésgyakorlat, stresszoldás",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 30004,
@@ -311,7 +413,10 @@
           "tags": "légzésgyakorlat, stresszoldás",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 30005,
@@ -320,7 +425,10 @@
           "tags": "légzésgyakorlat, stresszoldás",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 30006,
@@ -329,7 +437,10 @@
           "tags": "légzésgyakorlat, stresszoldás",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 30007,
@@ -338,7 +449,10 @@
           "tags": "légzésgyakorlat, stresszoldás",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 30008,
@@ -347,7 +461,10 @@
           "tags": "légzésgyakorlat, stresszoldás",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 30009,
@@ -356,7 +473,10 @@
           "tags": "légzésgyakorlat, stresszoldás",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 30010,
@@ -365,7 +485,10 @@
           "tags": "légzésgyakorlat, stresszoldás",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 30011,
@@ -374,7 +497,10 @@
           "tags": "légzésgyakorlat, stresszoldás",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 30012,
@@ -383,7 +509,10 @@
           "tags": "légzésgyakorlat, stresszoldás, figyelem, koncentráció",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 30013,
@@ -392,7 +521,10 @@
           "tags": "légzésgyakorlat, stresszoldás, figyelem, koncentráció",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 30014,
@@ -401,7 +533,10 @@
           "tags": "légzésgyakorlat, stresszoldás, figyelem, koncentráció",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         }
       ]
     },
@@ -411,6 +546,9 @@
       "niceText": "Mozdulj meg! ~ Figyelemfejlesztő mozgáskártyák ",
       "descLink": "https://ele-kartyak.blogspot.com/2024/12/szunetkartyak-leiras.html",
       "tags": "mozgás, szünet, tanulás",
+      "deckBack": "https://blogger.googleusercontent.com/img/a/AVvXsEjXC0yBmihE1izO78pbPkQaWtDyF4aa3BDJqxE4sniGrCDE_Ov32n_DW2dE3Z85sdZScKxJJmogYY_xlkdmRRU5gU-34LZTkf58NZ7gUBROIx6eZCCoW6zMGoVsh1lcQgd8mYS--TEPecrVWzDrGz09XzmdHSobppknQfdh8mV1Oa5jw6fOPAv3jKnR2q_Y",
+      "demo": 1,
+      "trial": 1,
       "cards": [
         {
           "internalID": 40001,
@@ -419,7 +557,10 @@
           "tags": "mozgás, figyelem, koncentráció",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 40002,
@@ -428,7 +569,10 @@
           "tags": "mozgás, figyelem, koncentráció",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 40003,
@@ -437,7 +581,10 @@
           "tags": "mozgás, figyelem, koncentráció",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 40004,
@@ -446,7 +593,10 @@
           "tags": "mozgás, figyelem, koncentráció",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 40005,
@@ -455,7 +605,10 @@
           "tags": "mozgás, figyelem, koncentráció",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 40006,
@@ -464,7 +617,10 @@
           "tags": "mozgás, figyelem, koncentráció",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 40007,
@@ -473,7 +629,10 @@
           "tags": "mozgás, figyelem, koncentráció",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 40008,
@@ -482,7 +641,10 @@
           "tags": "mozgás, figyelem, koncentráció",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 40009,
@@ -491,7 +653,10 @@
           "tags": "mozgás, figyelem, koncentráció",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 40010,
@@ -500,7 +665,10 @@
           "tags": "mozgás, figyelem, koncentráció",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 40011,
@@ -509,7 +677,10 @@
           "tags": "mozgás, figyelem, koncentráció",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 40012,
@@ -518,7 +689,10 @@
           "tags": "mozgás, figyelem, koncentráció, stresszleküzdés",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 40013,
@@ -527,7 +701,10 @@
           "tags": "mozgás, figyelem, koncentráció",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 40014,
@@ -536,7 +713,10 @@
           "tags": "mozgás, figyelem, koncentráció",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 40015,
@@ -545,7 +725,10 @@
           "tags": "mozgás, figyelem, koncentráció",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 40016,
@@ -554,7 +737,10 @@
           "tags": "mozgás, figyelem, koncentráció, agyfélteke, kézmozgás",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 40017,
@@ -563,7 +749,10 @@
           "tags": "mozgás, figyelem, koncentráció, agyfélteke, kézmozgás",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 40018,
@@ -572,7 +761,10 @@
           "tags": "mozgás, figyelem, koncentráció, agyfélteke, kézmozgás",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 40019,
@@ -581,7 +773,10 @@
           "tags": "mozgás, figyelem, koncentráció, agyfélteke, kézmozgás",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 40020,
@@ -590,7 +785,10 @@
           "tags": "mozgás, figyelem, koncentráció, agyfélteke, kézmozgás",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 40021,
@@ -599,7 +797,10 @@
           "tags": "mozgás, figyelem, koncentráció, agyfélteke, kézmozgás",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 40022,
@@ -608,7 +809,10 @@
           "tags": "mozgás, figyelem, koncentráció, agyfélteke, kézmozgás",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         }
       ]
     },
@@ -618,6 +822,9 @@
       "niceText": "EmlékMese ~ Élmények szóban",
       "descLink": "",
       "tags": "szóbeli memória, szókincs, emlék, nyár, mese",
+      "deckBack": "https://blogger.googleusercontent.com/img/a/AVvXsEiTDjdxD4YrIz33_SY0Q4g0GxRAjN80xCIK9xlsMSaccGqMPwawMeTSIJ1DWXsBkRXuneewM1bchm1vwtuZyA4OnXp7LAGtb-LMBMb_3BYx04dkUEtQZiIrPCM820HJcjhQe3asxi-neGv6KQTzVKtRhxNlaw_QlO4eyrTXspuBgdFnbC_QPD6jx3Qj_4VI",
+      "demo": 1,
+      "trial": 1,
       "cards": [
         {
           "internalID": 50001,
@@ -626,7 +833,10 @@
           "tags": "szóbeli memória, szókincs, figyelem, emlékezet",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 1,
+          "trial": 1,
+          "cardDesc": 0
         },
         {
           "internalID": 50005,
@@ -635,7 +845,10 @@
           "tags": "szóbeli memória, szókincs, figyelem, emlékezet",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 1,
+          "cardDesc": 0
         },
         {
           "internalID": 50007,
@@ -644,7 +857,10 @@
           "tags": "szóbeli memória, szókincs, figyelem, emlékezet",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 1,
+          "cardDesc": 0
         },
         {
           "internalID": 50006,
@@ -653,7 +869,10 @@
           "tags": "szóbeli memória, szókincs, figyelem, emlékezet",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 1,
+          "cardDesc": 0
         },
         {
           "internalID": 50002,
@@ -662,7 +881,10 @@
           "tags": "agytorna, szóbeli memória, szókincs, figyelem, nyár, emlékezet",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 1,
+          "cardDesc": 0
         },
         {
           "internalID": 50004,
@@ -671,7 +893,10 @@
           "tags": "szóbeli memória, szókincs, figyelem, emlékezet, kreativitás",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 1,
+          "cardDesc": 0
         },
         {
           "internalID": 50003,
@@ -680,7 +905,10 @@
           "tags": "szóbeli memória, szókincs, figyelem, emlékezet, tavasz",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 1,
+          "cardDesc": 0
         },
         {
           "internalID": 50008,
@@ -689,7 +917,10 @@
           "tags": "szóbeli memória, szókincs, figyelem, emlékezet, tavasz",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 50009,
@@ -698,7 +929,10 @@
           "tags": "szóbeli memória, szókincs, figyelem, emlékezet, tavasz",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 500010,
@@ -707,7 +941,10 @@
           "tags": "szóbeli memória, szókincs, figyelem, emlékezet, nyár",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 500011,
@@ -716,7 +953,10 @@
           "tags": "szóbeli memória, szókincs, figyelem, emlékezet, nyár",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 500012,
@@ -725,7 +965,10 @@
           "tags": "szóbeli memória, szókincs, figyelem, emlékezet, nyár",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 725013,
@@ -734,7 +977,10 @@
           "tags": "szóbeli memória, szókincs, figyelem, emlékezet, ősz",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 860014,
@@ -743,7 +989,10 @@
           "tags": "szóbeli memória, szókincs, figyelem, emlékezet, ősz",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 995015,
@@ -752,7 +1001,10 @@
           "tags": "szóbeli memória, szókincs, figyelem, emlékezet, ősz",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 1130016,
@@ -761,7 +1013,10 @@
           "tags": "szóbeli memória, szókincs, figyelem, emlékezet, tél",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 1265017,
@@ -770,7 +1025,10 @@
           "tags": "szóbeli memória, szókincs, figyelem, emlékezet, tél",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 1400018,
@@ -779,7 +1037,10 @@
           "tags": "szóbeli memória, szókincs, figyelem, emlékezet, tél",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 1535019,
@@ -788,7 +1049,10 @@
           "tags": "szóbeli memória, szókincs, figyelem, emlékezet",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 1670020,
@@ -797,7 +1061,10 @@
           "tags": "szóbeli memória, szókincs, figyelem, emlékezet",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 1805021,
@@ -806,7 +1073,10 @@
           "tags": "szóbeli memória, szókincs, figyelem, emlékezet",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         }
       ]
     },
@@ -816,6 +1086,9 @@
       "niceText": "Hangulatmentő csomag ~ Pár perces játékok",
       "descLink": "",
       "tags": "játék, szünet, hangulat,",
+      "deckBack": "https://blogger.googleusercontent.com/img/a/AVvXsEgDBefqkBdrRZf5Z0cv5A_hw2hc8C7v7I1sUurAX8fdYvdhEsJ1ZW1Elo63xxpmCstH4WUtZj6kERt6JCka_cOCPkCXftDF6qns4Q3YIdF1LWP__qZKRornPgsCnnhY-eZfZp-1GP_0Iu-AOa95Fy-iz3EPwWF6AMAp4tMgSKj_bqUvabNzyksE-G33m2gF",
+      "demo": 1,
+      "trial": 1,
       "cards": [
         {
           "internalID": 60001,
@@ -824,7 +1097,10 @@
           "tags": "játék, mozgás, stresszlevezetés",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 60002,
@@ -833,7 +1109,10 @@
           "tags": "játék, hangulat, baráttal",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 60003,
@@ -842,7 +1121,10 @@
           "tags": "játék, mozgás, kreatív, hangulat, stresszlevezetés",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 60004,
@@ -851,7 +1133,10 @@
           "tags": "játék, kreatív, rajz, hangulat, önreflexió",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 60005,
@@ -860,7 +1145,10 @@
           "tags": "játék, baráttal, kreatív, mozgás",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 60006,
@@ -869,7 +1157,10 @@
           "tags": "játék, kommunikáció, hangulat",
           "level": 3,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 60007,
@@ -878,7 +1169,10 @@
           "tags": "játék, hangulat, kreatív",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 60008,
@@ -887,7 +1181,10 @@
           "tags": "játék, hangular, kommunikció",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 60009,
@@ -896,7 +1193,10 @@
           "tags": "játék, hangulat, mozgás, stresszlevezetés",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 60010,
@@ -905,7 +1205,10 @@
           "tags": "játék, hangulat, agytorna",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 60011,
@@ -914,7 +1217,10 @@
           "tags": "játék, hangulat, nyelvi készségek",
           "level": 3,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 60012,
@@ -923,7 +1229,10 @@
           "tags": "játék, hangulat, stresszlevezetés, meditáció",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 60013,
@@ -932,7 +1241,10 @@
           "tags": "játék, hangulat, stresszlevezetés, meditációs, légzőgyakorlat",
           "level": 3,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         }
       ]
     },
@@ -942,6 +1254,9 @@
       "niceText": "Hangoljuk össze! ~ Jobb-bal agyfélteke gyakorlatok ",
       "descLink": "",
       "tags": "agy, agyfélteke, agytorna, figyelem, koncentráció",
+      "deckBack": "https://blogger.googleusercontent.com/img/a/AVvXsEiVpeEZQxzL74NFG6lv1wdZIY8t46kA9TRuUvskC2sZk0WoHS33hp5GYvAZkZLUAEObCHF5KQAX6rsCweALQonxrOzq3gIILen3oDV8T7qa0QwiujY1cveCcfTMT-YxU3G050DkbyorMDCIEsK3bFlJ15iRJ-wUMkqwR3WdXT0dT9GHvO4au5zDf-I5f00G",
+      "demo": 1,
+      "trial": 1,
       "cards": [
         {
           "internalID": 70001,
@@ -950,7 +1265,10 @@
           "tags": "agytorna, agyfélteke",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 1,
+          "trial": "",
+          "cardDesc": 0
         },
         {
           "internalID": 70002,
@@ -959,7 +1277,10 @@
           "tags": "agytorna, agyfélteke",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": "",
+          "cardDesc": 0
         },
         {
           "internalID": 70003,
@@ -968,7 +1289,10 @@
           "tags": "agytorna, agyfélteke",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": "",
+          "cardDesc": 0
         },
         {
           "internalID": 70004,
@@ -977,7 +1301,10 @@
           "tags": "agytorna, agyfélteke",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": "",
+          "cardDesc": 0
         },
         {
           "internalID": 70005,
@@ -986,7 +1313,10 @@
           "tags": "agytorna, agyfélteke",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": "",
+          "cardDesc": 0
         },
         {
           "internalID": 70006,
@@ -995,7 +1325,10 @@
           "tags": "agytorna, agyfélteke",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": "",
+          "cardDesc": 0
         },
         {
           "internalID": 70007,
@@ -1004,7 +1337,10 @@
           "tags": "agytorna, agyfélteke",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": "",
+          "cardDesc": 0
         },
         {
           "internalID": 70008,
@@ -1013,7 +1349,10 @@
           "tags": "agytorna, agyfélteke",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": "",
+          "cardDesc": 0
         },
         {
           "internalID": 70009,
@@ -1022,7 +1361,10 @@
           "tags": "agytorna, agyfélteke",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": "",
+          "cardDesc": 0
         },
         {
           "internalID": 70010,
@@ -1031,7 +1373,10 @@
           "tags": "agytorna, agyfélteke",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": "",
+          "cardDesc": 0
         },
         {
           "internalID": 70011,
@@ -1040,7 +1385,10 @@
           "tags": "agytorna, agyfélteke",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": "",
+          "cardDesc": 0
         },
         {
           "internalID": 70012,
@@ -1049,7 +1397,10 @@
           "tags": "agytorna, agyfélteke",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": "",
+          "cardDesc": 0
         },
         {
           "internalID": 70013,
@@ -1058,7 +1409,10 @@
           "tags": "agytorna, agyfélteke",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": "",
+          "cardDesc": 0
         },
         {
           "internalID": 70014,
@@ -1067,7 +1421,10 @@
           "tags": "agytorna, agyfélteke",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": "",
+          "cardDesc": 0
         },
         {
           "internalID": 70015,
@@ -1076,7 +1433,10 @@
           "tags": "agytorna, agyfélteke",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": "",
+          "cardDesc": 0
         },
         {
           "internalID": 70016,
@@ -1085,7 +1445,10 @@
           "tags": "agytorna, agyfélteke",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": "",
+          "cardDesc": 0
         },
         {
           "internalID": 70017,
@@ -1094,7 +1457,10 @@
           "tags": "agytorna, agyfélteke",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": "",
+          "cardDesc": 0
         },
         {
           "internalID": 70018,
@@ -1103,7 +1469,10 @@
           "tags": "agytorna, agyfélteke",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": "",
+          "cardDesc": 0
         },
         {
           "internalID": 70019,
@@ -1112,7 +1481,10 @@
           "tags": "agytorna, agyfélteke",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": "",
+          "cardDesc": 0
         },
         {
           "internalID": 70020,
@@ -1121,7 +1493,10 @@
           "tags": "agytorna, agyfélteke",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": "",
+          "cardDesc": 0
         }
       ]
     },
@@ -1131,6 +1506,9 @@
       "niceText": "Kép-történet ~ Sztoriépítő játék",
       "descLink": "https://ele-kartyak.blogspot.com/2025/12/kep-tortenet-jatekleiras.html",
       "tags": "játék, történet, történetalkotás, sztori, mese, kommunikáció",
+      "deckBack": "https://blogger.googleusercontent.com/img/a/AVvXsEg79xe8FvDOG0KgleZtiXkTHBOQ0TU1XgjwdldAY2Sd3kFwd2H0tWuP0wfFuDBuxtZCIckQXCDxDCB6Vlqbphp3OLE6Bi1Py_3DRPdJPn8M91iTWAUPPfleGV8-KBjYEQ7N2_V6XVTr1HKNQ6zKNouauUX2naZY20ysBRUyBk3oNi86-kRzEo2MNwNXTdwr",
+      "demo": 1,
+      "trial": 1,
       "cards": [
         {
           "internalID": 80001,
@@ -1139,7 +1517,10 @@
           "tags": "kreativitás, történetépítés, gondolkodás",
           "level": "",
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 1,
+          "trial": 1,
+          "cardDesc": 0
         },
         {
           "internalID": 80002,
@@ -1148,7 +1529,10 @@
           "tags": "kreativitás, történetépítés, gondolkodás",
           "level": "",
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 1,
+          "cardDesc": 0
         },
         {
           "internalID": 80003,
@@ -1157,7 +1541,10 @@
           "tags": "kreativitás, történetépítés, gondolkodás",
           "level": "",
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 1,
+          "cardDesc": 0
         },
         {
           "internalID": 80004,
@@ -1166,7 +1553,10 @@
           "tags": "kreativitás, történetépítés, gondolkodás",
           "level": "",
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 1,
+          "cardDesc": 0
         },
         {
           "internalID": 80005,
@@ -1175,7 +1565,10 @@
           "tags": "kreativitás, történetépítés, gondolkodás",
           "level": "",
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 1,
+          "cardDesc": 0
         },
         {
           "internalID": 80006,
@@ -1184,7 +1577,10 @@
           "tags": "kreativitás, történetépítés, gondolkodás",
           "level": "",
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 1,
+          "cardDesc": 0
         },
         {
           "internalID": 80007,
@@ -1193,7 +1589,10 @@
           "tags": "kreativitás, történetépítés, gondolkodás",
           "level": "",
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 1,
+          "cardDesc": 0
         },
         {
           "internalID": 80008,
@@ -1202,7 +1601,10 @@
           "tags": "kreativitás, történetépítés, gondolkodás",
           "level": "",
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 1,
+          "cardDesc": 0
         },
         {
           "internalID": 80009,
@@ -1211,7 +1613,10 @@
           "tags": "kreativitás, történetépítés, gondolkodás",
           "level": "",
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 1,
+          "cardDesc": 0
         },
         {
           "internalID": 80010,
@@ -1220,7 +1625,10 @@
           "tags": "kreativitás, történetépítés, gondolkodás",
           "level": "",
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 1,
+          "cardDesc": 0
         },
         {
           "internalID": 80011,
@@ -1229,7 +1637,10 @@
           "tags": "kreativitás, történetépítés, gondolkodás",
           "level": "",
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 80012,
@@ -1238,7 +1649,10 @@
           "tags": "kreativitás, történetépítés, gondolkodás",
           "level": "",
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 80013,
@@ -1247,7 +1661,10 @@
           "tags": "kreativitás, történetépítés, gondolkodás",
           "level": "",
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 80014,
@@ -1256,7 +1673,10 @@
           "tags": "kreativitás, történetépítés, gondolkodás",
           "level": "",
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 80015,
@@ -1265,7 +1685,10 @@
           "tags": "kreativitás, történetépítés, gondolkodás",
           "level": "",
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 80016,
@@ -1274,7 +1697,10 @@
           "tags": "kreativitás, történetépítés, gondolkodás",
           "level": "",
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 80017,
@@ -1283,7 +1709,10 @@
           "tags": "kreativitás, történetépítés, gondolkodás",
           "level": "",
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 80018,
@@ -1292,7 +1721,10 @@
           "tags": "kreativitás, történetépítés, gondolkodás",
           "level": "",
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 80019,
@@ -1301,7 +1733,10 @@
           "tags": "kreativitás, történetépítés, gondolkodás",
           "level": "",
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 80020,
@@ -1310,7 +1745,10 @@
           "tags": "kreativitás, történetépítés, gondolkodás",
           "level": "",
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 80021,
@@ -1319,7 +1757,10 @@
           "tags": "kreativitás, történetépítés, gondolkodás",
           "level": "",
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 80022,
@@ -1328,7 +1769,10 @@
           "tags": "kreativitás, történetépítés, gondolkodás",
           "level": "",
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 80023,
@@ -1337,7 +1781,10 @@
           "tags": "kreativitás, történetépítés, gondolkodás",
           "level": "",
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 80024,
@@ -1346,7 +1793,10 @@
           "tags": "kreativitás, történetépítés, gondolkodás",
           "level": "",
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 80025,
@@ -1355,7 +1805,10 @@
           "tags": "kreativitás, történetépítés, gondolkodás",
           "level": "",
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 80026,
@@ -1364,7 +1817,10 @@
           "tags": "kreativitás, történetépítés, gondolkodás",
           "level": "",
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 80027,
@@ -1373,7 +1829,10 @@
           "tags": "kreativitás, történetépítés, gondolkodás",
           "level": "",
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 80028,
@@ -1382,7 +1841,10 @@
           "tags": "kreativitás, történetépítés, gondolkodás",
           "level": "",
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 80029,
@@ -1391,7 +1853,10 @@
           "tags": "kreativitás, történetépítés, gondolkodás",
           "level": "",
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 80030,
@@ -1400,7 +1865,10 @@
           "tags": "kreativitás, történetépítés, gondolkodás",
           "level": "",
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 80031,
@@ -1409,7 +1877,10 @@
           "tags": "kreativitás, történetépítés, gondolkodás",
           "level": "",
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 80032,
@@ -1418,7 +1889,10 @@
           "tags": "kreativitás, történetépítés, gondolkodás",
           "level": "",
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 80033,
@@ -1427,7 +1901,10 @@
           "tags": "kreativitás, történetépítés, gondolkodás",
           "level": "",
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 80034,
@@ -1436,7 +1913,10 @@
           "tags": "kreativitás, történetépítés, gondolkodás",
           "level": "",
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 80035,
@@ -1445,7 +1925,10 @@
           "tags": "kreativitás, történetépítés, gondolkodás",
           "level": "",
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 80036,
@@ -1454,7 +1937,10 @@
           "tags": "kreativitás, történetépítés, gondolkodás",
           "level": "",
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 80037,
@@ -1463,7 +1949,10 @@
           "tags": "kreativitás, történetépítés, gondolkodás",
           "level": "",
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 80038,
@@ -1472,7 +1961,10 @@
           "tags": "kreativitás, történetépítés, gondolkodás",
           "level": "",
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 80039,
@@ -1481,7 +1973,10 @@
           "tags": "kreativitás, történetépítés, gondolkodás",
           "level": "",
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 80040,
@@ -1490,7 +1985,10 @@
           "tags": "kreativitás, történetépítés, gondolkodás",
           "level": "",
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 80041,
@@ -1499,7 +1997,10 @@
           "tags": "kreativitás, történetépítés, gondolkodás",
           "level": "",
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 80042,
@@ -1508,7 +2009,10 @@
           "tags": "kreativitás, történetépítés, gondolkodás",
           "level": "",
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 80043,
@@ -1517,7 +2021,10 @@
           "tags": "kreativitás, történetépítés, gondolkodás",
           "level": "",
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 80044,
@@ -1526,7 +2033,10 @@
           "tags": "kreativitás, történetépítés, gondolkodás",
           "level": "",
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 80045,
@@ -1535,7 +2045,10 @@
           "tags": "kreativitás, történetépítés, gondolkodás",
           "level": "",
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 80046,
@@ -1544,7 +2057,10 @@
           "tags": "kreativitás, történetépítés, gondolkodás",
           "level": "",
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 80047,
@@ -1553,7 +2069,10 @@
           "tags": "kreativitás, történetépítés, gondolkodás",
           "level": "",
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 80048,
@@ -1562,7 +2081,10 @@
           "tags": "kreativitás, történetépítés, gondolkodás",
           "level": "",
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 80049,
@@ -1571,7 +2093,10 @@
           "tags": "kreativitás, történetépítés, gondolkodás",
           "level": "",
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 80050,
@@ -1580,7 +2105,10 @@
           "tags": "kreativitás, történetépítés, gondolkodás",
           "level": "",
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         }
       ]
     },
@@ -1590,6 +2118,9 @@
       "niceText": "Célelérő Beszélgető-kártyák",
       "descLink": "https://ele-kartyak.blogspot.com/2025/01/celelero-beszelgetokartyak.html",
       "tags": "motiváció, célelérés, beszélgetőkártya, szülő-gyerek",
+      "deckBack": "https://blogger.googleusercontent.com/img/a/AVvXsEjmGEqNZ33Q38Qsrj7N8N7yMWz9pgzzRY1UJXEQCd7r-pWBy10AJMTMIBm4rMYAMaDyLDQpn75bz_aPylHcM68IdfhHCS67AqjCn0xWHU_yEcxTqC3fMAzc3JZmhyd5RUqpIdXPLT_b4A_O76xjfzE8NpxgIR_TZX52h4hXtkgxN0JqcC65zznChuq6MoKg",
+      "demo": 1,
+      "trial": 1,
       "cards": [
         {
           "internalID": 100001,
@@ -1598,7 +2129,10 @@
           "tags": "motiváció, beszélgetőkártya, célelérés, szülő-gyerek",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 1,
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 100002,
@@ -1607,7 +2141,10 @@
           "tags": "motiváció, beszélgetőkártya, célelérés, szülő-gyerek",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 100003,
@@ -1616,7 +2153,10 @@
           "tags": "motiváció, beszélgetőkártya, célelérés, szülő-gyerek",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 100004,
@@ -1625,7 +2165,10 @@
           "tags": "motiváció, beszélgetőkártya, célelérés, szülő-gyerek",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 100005,
@@ -1634,7 +2177,10 @@
           "tags": "motiváció, beszélgetőkártya, célelérés, szülő-gyerek",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 100006,
@@ -1643,7 +2189,10 @@
           "tags": "motiváció, beszélgetőkártya, célelérés, szülő-gyerek",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 100007,
@@ -1652,7 +2201,10 @@
           "tags": "motiváció, beszélgetőkártya, célelérés, szülő-gyerek",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 100008,
@@ -1661,7 +2213,10 @@
           "tags": "motiváció, beszélgetőkártya, célelérés, szülő-gyerek",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 100009,
@@ -1670,7 +2225,10 @@
           "tags": "motiváció, beszélgetőkártya, célelérés, szülő-gyerek",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 100010,
@@ -1679,7 +2237,10 @@
           "tags": "motiváció, beszélgetőkártya, célelérés, szülő-gyerek",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 100011,
@@ -1688,7 +2249,10 @@
           "tags": "motiváció, beszélgetőkártya, célelérés, szülő-gyerek",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 100012,
@@ -1697,7 +2261,10 @@
           "tags": "motiváció, beszélgetőkártya, célelérés, szülő-gyerek",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 100013,
@@ -1706,7 +2273,10 @@
           "tags": "motiváció, beszélgetőkártya, célelérés, szülő-gyerek",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 100014,
@@ -1715,7 +2285,10 @@
           "tags": "motiváció, beszélgetőkártya, célelérés, szülő-gyerek",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 100015,
@@ -1724,7 +2297,10 @@
           "tags": "motiváció, beszélgetőkártya, célelérés, szülő-gyerek",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 100016,
@@ -1733,7 +2309,10 @@
           "tags": "motiváció, beszélgetőkártya, célelérés, szülő-gyerek",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 100017,
@@ -1742,7 +2321,10 @@
           "tags": "motiváció, beszélgetőkártya, célelérés, szülő-gyerek",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 100018,
@@ -1751,7 +2333,10 @@
           "tags": "motiváció, beszélgetőkártya, célelérés, szülő-gyerek",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 100019,
@@ -1760,7 +2345,10 @@
           "tags": "motiváció, beszélgetőkártya, célelérés, szülő-gyerek",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 100020,
@@ -1769,7 +2357,10 @@
           "tags": "motiváció, beszélgetőkártya, célelérés, szülő-gyerek",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": "",
+          "cardDesc": ""
         }
       ]
     },
@@ -1779,6 +2370,9 @@
       "niceText": "Tükörkártyák ~ Gyermek önismeret",
       "descLink": "https://ele-kartyak.blogspot.com/2026/02/tukorkartyak-gyermek-onreflexio-leiras.html",
       "tags": "önismeret, önreflexió, figyelem, beszélgetőkártya",
+      "deckBack": "https://blogger.googleusercontent.com/img/a/AVvXsEiAM6phx2YPXbGjV4F8zogfn1TRn-bSNMTbE9tmME-uSSpS8zi3Tbu0ytjD4SLoDjioAbAc-1Fee-cryZEUsT_vZhrQM9mNNvdr7VhaVdSV1c8z9li79pwC9vQSFpdTUVJMhOy5cKJnM57lQIHUH_rr7PifaZZ-6WPJHi0shZ2ue3c9cTHKioi9kwUR9Jwn",
+      "demo": 1,
+      "trial": 1,
       "cards": [
         {
           "internalID": 120001,
@@ -1787,7 +2381,10 @@
           "tags": "érzéskártya, önismeret, önreflexió",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": "",
+          "cardDesc": 0
         },
         {
           "internalID": 120002,
@@ -1796,7 +2393,10 @@
           "tags": "érzéskártya, önismeret, önreflexió",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": "",
+          "cardDesc": 0
         },
         {
           "internalID": 120003,
@@ -1805,7 +2405,10 @@
           "tags": "érzéskártya, önismeret, önreflexió",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": "",
+          "cardDesc": 0
         },
         {
           "internalID": 120004,
@@ -1814,7 +2417,10 @@
           "tags": "érzéskártya, önismeret, önreflexió",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": "",
+          "cardDesc": 0
         },
         {
           "internalID": 120005,
@@ -1823,7 +2429,10 @@
           "tags": "érzéskártya, önismeret, önreflexió",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": "",
+          "cardDesc": 0
         },
         {
           "internalID": 120006,
@@ -1832,7 +2441,10 @@
           "tags": "érzéskártya, önismeret, önreflexió",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": "",
+          "cardDesc": 0
         },
         {
           "internalID": 120007,
@@ -1841,7 +2453,10 @@
           "tags": "érzéskártya, önismeret, önreflexió",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": "",
+          "cardDesc": 0
         },
         {
           "internalID": 120008,
@@ -1850,7 +2465,10 @@
           "tags": "érzéskártya, önismeret, önreflexió",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": "",
+          "cardDesc": 0
         },
         {
           "internalID": 120009,
@@ -1859,7 +2477,10 @@
           "tags": "érzéskártya, önismeret, önreflexió",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": "",
+          "cardDesc": 0
         },
         {
           "internalID": 120010,
@@ -1868,7 +2489,10 @@
           "tags": "érzéskártya, önismeret, önreflexió",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": "",
+          "cardDesc": 0
         },
         {
           "internalID": 120011,
@@ -1877,7 +2501,10 @@
           "tags": "érzéskártya, önismeret, önreflexió",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": "",
+          "cardDesc": 0
         },
         {
           "internalID": 120012,
@@ -1886,7 +2513,10 @@
           "tags": "érzéskártya, önismeret, önreflexió",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": "",
+          "cardDesc": 0
         },
         {
           "internalID": 120013,
@@ -1895,7 +2525,10 @@
           "tags": "érzéskártya, önismeret, önreflexió",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": "",
+          "cardDesc": 0
         },
         {
           "internalID": 120014,
@@ -1904,7 +2537,10 @@
           "tags": "érzéskártya, önismeret, önreflexió",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": "",
+          "cardDesc": 0
         },
         {
           "internalID": 120015,
@@ -1913,7 +2549,10 @@
           "tags": "érzéskártya, önismeret, önreflexió",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": "",
+          "cardDesc": 0
         },
         {
           "internalID": 120016,
@@ -1922,7 +2561,10 @@
           "tags": "érzéskártya, önismeret, önreflexió",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": "",
+          "cardDesc": 0
         },
         {
           "internalID": 120017,
@@ -1931,7 +2573,10 @@
           "tags": "érzéskártya, önismeret, önreflexió",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": "",
+          "cardDesc": 0
         },
         {
           "internalID": 120018,
@@ -1940,7 +2585,10 @@
           "tags": "érzéskártya, önismeret, önreflexió",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": "",
+          "cardDesc": 0
         },
         {
           "internalID": 120019,
@@ -1949,7 +2597,10 @@
           "tags": "érzéskártya, önismeret, önreflexió",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": "",
+          "cardDesc": 0
         },
         {
           "internalID": 120020,
@@ -1958,7 +2609,10 @@
           "tags": "érzéskártya, önismeret, önreflexió",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": "",
+          "cardDesc": 0
         }
       ]
     },
@@ -1968,6 +2622,9 @@
       "niceText": "Fókuszkártyák ~ Játékos koncentráció",
       "descLink": "",
       "tags": "figyelem, koncentráció, meditáció, stresszleküzdés",
+      "deckBack": "https://blogger.googleusercontent.com/img/a/AVvXsEjtxg_H4WN1opktxSqOP2GLgSvInasQoCn-TjwrueCgSCsqLfcLMDQLgkkL5pK11nfbiLrE1quql4rSXLJCY80VFb-nOwULXr1lhpK0-rvp8OzzaibN_YVOTVILQ-q8RRviDT4KiklZRCy3MWA2JOVtL_FL-NLY92hfm3q8UE19FhxM1DNooEgPskhR41w8",
+      "demo": 1,
+      "trial": 1,
       "cards": [
         {
           "internalID": 130001,
@@ -1976,7 +2633,10 @@
           "tags": "figyelem, fókusz, koncentráció, meditáció, stresszleküzdés",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 130002,
@@ -1985,7 +2645,10 @@
           "tags": "figyelem, fókusz, koncentráció, meditáció, stresszleküzdés",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 130003,
@@ -1994,7 +2657,10 @@
           "tags": "figyelem, fókusz, koncentráció, meditáció, stresszleküzdés",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 130004,
@@ -2003,7 +2669,10 @@
           "tags": "figyelem, fókusz, koncentráció, ",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 130005,
@@ -2012,7 +2681,10 @@
           "tags": "figyelem, fókusz, koncentráció,",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 130006,
@@ -2021,7 +2693,10 @@
           "tags": "figyelem, fókusz, koncentráció, ",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 130007,
@@ -2030,7 +2705,10 @@
           "tags": "figyelem, fókusz, koncentráció, ",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 130008,
@@ -2039,7 +2717,10 @@
           "tags": "figyelem, fókusz, koncentráció, ",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 130009,
@@ -2048,7 +2729,10 @@
           "tags": "figyelem, fókusz, koncentráció, ",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 130010,
@@ -2057,7 +2741,10 @@
           "tags": "figyelem, fókusz, koncentráció, ",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 130011,
@@ -2066,7 +2753,10 @@
           "tags": "figyelem, fókusz, koncentráció, ",
           "level": 3,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 130012,
@@ -2075,7 +2765,10 @@
           "tags": "figyelem, fókusz, koncentráció, ",
           "level": 3,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 130013,
@@ -2084,7 +2777,10 @@
           "tags": "figyelem, fókusz, koncentráció, ",
           "level": 3,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 130014,
@@ -2093,7 +2789,10 @@
           "tags": "figyelem, fókusz, koncentráció, ",
           "level": 3,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 130015,
@@ -2102,7 +2801,10 @@
           "tags": "figyelem, fókusz, koncentráció, ",
           "level": 3,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         }
       ]
     },
@@ -2112,6 +2814,9 @@
       "niceText": "Meditációs Minicsomag",
       "descLink": "",
       "tags": "figyelem, koncentráció, meditáció, stresszleküzdés",
+      "deckBack": "https://blogger.googleusercontent.com/img/a/AVvXsEg_2_rtXGDBucFXADlnwaChBr_b1FwYcLmZfPCOaAA6md3BpIlMojWRvUW4bnvHGCzDvQq2hEIpo9qfmi24oH6WZ2TMGY2tpm2PdJNL1fR8fpzziI3OF0P9qlB-kMRdePxheZ7R2ToqJdZFKMI6R0yb2lDA23aWQP7EPHAVItqGQYndI6-K-cDFoDAq9ap1",
+      "demo": 1,
+      "trial": 1,
       "cards": [
         {
           "internalID": 140001,
@@ -2120,7 +2825,10 @@
           "tags": "figyelem, koncentráció, meditáció, stresszleküzdés",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 140002,
@@ -2129,7 +2837,10 @@
           "tags": "figyelem, koncentráció, meditáció, stresszleküzdés",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 140003,
@@ -2138,7 +2849,10 @@
           "tags": "figyelem, koncentráció, meditáció, stresszleküzdés",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 140004,
@@ -2147,7 +2861,10 @@
           "tags": "figyelem, koncentráció, meditáció, stresszleküzdés",
           "level": 3,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 140005,
@@ -2156,7 +2873,10 @@
           "tags": "figyelem, koncentráció, meditáció, stresszleküzdés",
           "level": 3,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         }
       ]
     },
@@ -2166,6 +2886,9 @@
       "niceText": "Kézzel-lábbal ~ Agyserkentő mozgásvideók ",
       "descLink": "",
       "tags": "figyelem, koncentráció, ráhangolódás, agyfélteke, agytorna",
+      "deckBack": "https://blogger.googleusercontent.com/img/a/AVvXsEj1OD5to4sfxV904MpJJYtozFzSnZ4MD9qOpZ7YJcexfQ4YeJaALzLwwt-wd5uyYSWd-9kkaoGunFMatdHJLx4Dv4mGPhfgDGNrGzVtxbnS3dOtdwO0EtZAqRynm3gJY-H5zsvq5-55HmliSENQK2-QXoDvLFRC0EtdZN0GvklCGt9zGRrUsqcu_o4uf9LZ",
+      "demo": 1,
+      "trial": 1,
       "cards": [
         {
           "internalID": 150001,
@@ -2174,7 +2897,10 @@
           "tags": "agyfélteke, kéztorna, mozgásvideo, agytorna, ráhangolódás",
           "level": 2,
           "mediaID": "otq18JtL0yc",
-          "mediaTitle": "Kő-papír-olló"
+          "mediaTitle": "Kő-papír-olló",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 150002,
@@ -2183,7 +2909,10 @@
           "tags": "agyfélteke, kéztorna, mozgásvideo, agytorna, ráhangolódás",
           "level": 2,
           "mediaID": "Fz8yZPmG7ew",
-          "mediaTitle": "Muti kéztorna"
+          "mediaTitle": "Muti kéztorna",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 150003,
@@ -2192,7 +2921,10 @@
           "tags": "agyfélteke, kéztorna, mozgásvideo, agytorna, ráhangolódás",
           "level": 3,
           "mediaID": "gAJ_r5s1Yzc",
-          "mediaTitle": "Muti számok"
+          "mediaTitle": "Muti számok",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 150004,
@@ -2201,7 +2933,10 @@
           "tags": "agyfélteke, kéztorna, mozgásvideo, agytorna, ráhangolódás",
           "level": 1,
           "mediaID": "K_gLddeMUkQ",
-          "mediaTitle": "Ujjtorna 1"
+          "mediaTitle": "Ujjtorna 1",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 150005,
@@ -2210,7 +2945,10 @@
           "tags": "agyfélteke, kéztorna, mozgásvideo, agytorna, ráhangolódás",
           "level": 1,
           "mediaID": "lJPvhg6h5Rw",
-          "mediaTitle": "Ujjtrona 2"
+          "mediaTitle": "Ujjtrona 2",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 150006,
@@ -2219,7 +2957,10 @@
           "tags": "agyfélteke, kéztorna, mozgásvideo, agytorna, ráhangolódás",
           "level": 2,
           "mediaID": "V9-3d8ntsMs?",
-          "mediaTitle": "Csapd le! játék"
+          "mediaTitle": "Csapd le! játék",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 150007,
@@ -2228,7 +2969,10 @@
           "tags": "agyfélteke, kéztorna, mozgásvideo, agytorna, ráhangolódás",
           "level": 2,
           "mediaID": "FPe0cQAc_Ps",
-          "mediaTitle": "Irányváltás"
+          "mediaTitle": "Irányváltás",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 150008,
@@ -2237,7 +2981,10 @@
           "tags": "agyfélteke, kéztorna, mozgásvideo, agytorna, ráhangolódás",
           "level": 1,
           "mediaID": "u4xmDzOfE_Q",
-          "mediaTitle": "Taps-ritmus"
+          "mediaTitle": "Taps-ritmus",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 150009,
@@ -2246,7 +2993,10 @@
           "tags": "agyfélteke, kéztorna, mozgásvideo, agytorna, ráhangolódás",
           "level": 2,
           "mediaID": "Xg1I7S9kJAc",
-          "mediaTitle": "Visszhangkártya"
+          "mediaTitle": "Visszhangkártya",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 150010,
@@ -2255,7 +3005,10 @@
           "tags": "agyfélteke, kéztorna, mozgásvideo, agytorna, ráhangolódás",
           "level": 3,
           "mediaID": "mn_k31ylNU4",
-          "mediaTitle": "Vissza-ritmus"
+          "mediaTitle": "Vissza-ritmus",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 150011,
@@ -2264,7 +3017,10 @@
           "tags": "agyfélteke, kéztorna, mozgásvideo, agytorna, ráhangolódás",
           "level": 1,
           "mediaID": "CMo8lvDPyO4",
-          "mediaTitle": "Csendes taps"
+          "mediaTitle": "Csendes taps",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 150012,
@@ -2273,7 +3029,10 @@
           "tags": "agyfélteke, kéztorna, mozgásvideo, agytorna, ráhangolódás",
           "level": 3,
           "mediaID": "e1G57crqfXc",
-          "mediaTitle": "Dupla ritmus"
+          "mediaTitle": "Dupla ritmus",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 150013,
@@ -2282,7 +3041,10 @@
           "tags": "agyfélteke, kéztorna, mozgásvideo, agytorna, ráhangolódás",
           "level": 2,
           "mediaID": "1DudKsbXQOY",
-          "mediaTitle": "Ritmus-mozgás"
+          "mediaTitle": "Ritmus-mozgás",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 150014,
@@ -2291,7 +3053,10 @@
           "tags": "agyfélteke, kéztorna, mozgásvideo, agytorna, ráhangolódás",
           "level": 1,
           "mediaID": "vopW6GDpdek",
-          "mediaTitle": "Fagyasztó játék"
+          "mediaTitle": "Fagyasztó játék",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 150015,
@@ -2300,7 +3065,10 @@
           "tags": "agyfélteke, kéztorna, mozgásvideo, agytorna, ráhangolódás",
           "level": 1,
           "mediaID": "y78FMD9PdBk",
-          "mediaTitle": "Kéztorna levegőben"
+          "mediaTitle": "Kéztorna levegőben",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 150016,
@@ -2309,7 +3077,10 @@
           "tags": "agyfélteke, kéztorna, mozgásvideo, agytorna, ráhangolódás",
           "level": 1,
           "mediaID": "B2sIT-8FDT0",
-          "mediaTitle": "Keresztbe-torna"
+          "mediaTitle": "Keresztbe-torna",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 150017,
@@ -2318,7 +3089,10 @@
           "tags": "agyfélteke, kéztorna, mozgásvideo, agytorna, ráhangolódás",
           "level": 3,
           "mediaID": "IvgXEmA2mxQ",
-          "mediaTitle": "Orr-fül-áll-homlok"
+          "mediaTitle": "Orr-fül-áll-homlok",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 150018,
@@ -2327,7 +3101,10 @@
           "tags": "agyfélteke, kéztorna, mozgásvideo, agytorna, ráhangolódás",
           "level": 2,
           "mediaID": "rHC3YBah9Dc",
-          "mediaTitle": "Pocaksimi"
+          "mediaTitle": "Pocaksimi",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         }
       ]
     },
@@ -2337,6 +3114,9 @@
       "niceText": "Bevillanó ~ Asszociációs játék képekkel",
       "descLink": "https://ele-kartyak.blogspot.com/2026/03/bevillano-asszicoacios-jatek.html",
       "tags": "asszociáció, gondolkodás, játék, agytorna, koncentráció",
+      "deckBack": "https://blogger.googleusercontent.com/img/a/AVvXsEiyDgfCA4_Pn5UQBUOKFp-1X50wdHRZGRStg-D0sM7qFQTommCHIjRNF6jx1s7j5-92S0yf5mAHX6RULKBij-9khhRdi-k33kI6mCxbpAYfCwJhhRyvcoTFMHXEYxYMYdICyi7QwuXH-6_Dz8t9LBRO7jRn_qxdWtIyB5Nw-pvnCs6vRABne0IUxj4Ststy",
+      "demo": 1,
+      "trial": 1,
       "cards": [
         {
           "internalID": 160001,
@@ -2345,7 +3125,10 @@
           "tags": "asszociáció, gondolkodás, játék, agytorna, koncentráció",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 1,
+          "trial": 1,
+          "cardDesc": 0
         },
         {
           "internalID": 160002,
@@ -2354,7 +3137,10 @@
           "tags": "asszociáció, gondolkodás, játék, agytorna, koncentráció",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 1,
+          "cardDesc": 0
         },
         {
           "internalID": 160003,
@@ -2363,7 +3149,10 @@
           "tags": "asszociáció, gondolkodás, játék, agytorna, koncentráció",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 1,
+          "cardDesc": 0
         },
         {
           "internalID": 160004,
@@ -2372,7 +3161,10 @@
           "tags": "asszociáció, gondolkodás, játék, agytorna, koncentráció",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 160005,
@@ -2381,7 +3173,10 @@
           "tags": "asszociáció, gondolkodás, játék, agytorna, koncentráció",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 160006,
@@ -2390,7 +3185,10 @@
           "tags": "asszociáció, gondolkodás, játék, agytorna, koncentráció",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 160007,
@@ -2399,7 +3197,10 @@
           "tags": "asszociáció, gondolkodás, játék, agytorna, koncentráció",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 160008,
@@ -2408,7 +3209,10 @@
           "tags": "asszociáció, gondolkodás, játék, agytorna, koncentráció",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 160009,
@@ -2417,7 +3221,10 @@
           "tags": "asszociáció, gondolkodás, játék, agytorna, koncentráció",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 160010,
@@ -2426,7 +3233,10 @@
           "tags": "asszociáció, gondolkodás, játék, agytorna, koncentráció",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 160011,
@@ -2435,7 +3245,10 @@
           "tags": "asszociáció, gondolkodás, játék, agytorna, koncentráció",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 160012,
@@ -2444,7 +3257,10 @@
           "tags": "asszociáció, gondolkodás, játék, agytorna, koncentráció",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 160013,
@@ -2453,7 +3269,10 @@
           "tags": "asszociáció, gondolkodás, játék, agytorna, koncentráció",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 160014,
@@ -2462,7 +3281,10 @@
           "tags": "asszociáció, gondolkodás, játék, agytorna, koncentráció",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 160015,
@@ -2471,7 +3293,10 @@
           "tags": "asszociáció, gondolkodás, játék, agytorna, koncentráció",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 160016,
@@ -2480,7 +3305,10 @@
           "tags": "asszociáció, gondolkodás, játék, agytorna, koncentráció",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 160017,
@@ -2489,7 +3317,10 @@
           "tags": "asszociáció, gondolkodás, játék, agytorna, koncentráció",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 160018,
@@ -2498,7 +3329,10 @@
           "tags": "asszociáció, gondolkodás, játék, agytorna, koncentráció",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 160019,
@@ -2507,7 +3341,10 @@
           "tags": "asszociáció, gondolkodás, játék, agytorna, koncentráció",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 160020,
@@ -2516,7 +3353,10 @@
           "tags": "asszociáció, gondolkodás, játék, agytorna, koncentráció",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 160021,
@@ -2525,7 +3365,10 @@
           "tags": "asszociáció, gondolkodás, játék, agytorna, koncentráció",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 160022,
@@ -2534,7 +3377,10 @@
           "tags": "asszociáció, gondolkodás, játék, agytorna, koncentráció",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 160023,
@@ -2543,7 +3389,10 @@
           "tags": "asszociáció, gondolkodás, játék, agytorna, koncentráció",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 160024,
@@ -2552,7 +3401,10 @@
           "tags": "asszociáció, gondolkodás, játék, agytorna, koncentráció",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 160025,
@@ -2561,7 +3413,10 @@
           "tags": "asszociáció, gondolkodás, játék, agytorna, koncentráció",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 160026,
@@ -2570,7 +3425,10 @@
           "tags": "asszociáció, gondolkodás, játék, agytorna, koncentráció",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 160027,
@@ -2579,7 +3437,10 @@
           "tags": "asszociáció, gondolkodás, játék, agytorna, koncentráció",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 160028,
@@ -2588,7 +3449,10 @@
           "tags": "asszociáció, gondolkodás, játék, agytorna, koncentráció",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 160029,
@@ -2597,7 +3461,10 @@
           "tags": "asszociáció, gondolkodás, játék, agytorna, koncentráció",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 160030,
@@ -2606,7 +3473,10 @@
           "tags": "asszociáció, gondolkodás, játék, agytorna, koncentráció",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 160031,
@@ -2615,7 +3485,10 @@
           "tags": "asszociáció, gondolkodás, játék, agytorna, koncentráció",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 160032,
@@ -2624,7 +3497,10 @@
           "tags": "asszociáció, gondolkodás, játék, agytorna, koncentráció",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 160033,
@@ -2633,7 +3509,10 @@
           "tags": "asszociáció, gondolkodás, játék, agytorna, koncentráció",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 160034,
@@ -2642,7 +3521,10 @@
           "tags": "asszociáció, gondolkodás, játék, agytorna, koncentráció",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 160035,
@@ -2651,7 +3533,10 @@
           "tags": "asszociáció, gondolkodás, játék, agytorna, koncentráció",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 160036,
@@ -2660,7 +3545,10 @@
           "tags": "asszociáció, gondolkodás, játék, agytorna, koncentráció",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 160037,
@@ -2669,7 +3557,10 @@
           "tags": "asszociáció, gondolkodás, játék, agytorna, koncentráció",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 160038,
@@ -2678,7 +3569,10 @@
           "tags": "asszociáció, gondolkodás, játék, agytorna, koncentráció",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 160039,
@@ -2687,7 +3581,10 @@
           "tags": "asszociáció, gondolkodás, játék, agytorna, koncentráció",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 160040,
@@ -2696,7 +3593,10 @@
           "tags": "asszociáció, gondolkodás, játék, agytorna, koncentráció",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 160041,
@@ -2705,7 +3605,10 @@
           "tags": "asszociáció, gondolkodás, játék, agytorna, koncentráció",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 160042,
@@ -2714,7 +3617,10 @@
           "tags": "asszociáció, gondolkodás, játék, agytorna, koncentráció",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 160043,
@@ -2723,7 +3629,10 @@
           "tags": "asszociáció, gondolkodás, játék, agytorna, koncentráció",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 160044,
@@ -2732,7 +3641,10 @@
           "tags": "asszociáció, gondolkodás, játék, agytorna, koncentráció",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 160045,
@@ -2741,7 +3653,10 @@
           "tags": "asszociáció, gondolkodás, játék, agytorna, koncentráció",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 160046,
@@ -2750,7 +3665,10 @@
           "tags": "asszociáció, gondolkodás, játék, agytorna, koncentráció",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 160047,
@@ -2759,7 +3677,10 @@
           "tags": "asszociáció, gondolkodás, játék, agytorna, koncentráció",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 160048,
@@ -2768,7 +3689,10 @@
           "tags": "asszociáció, gondolkodás, játék, agytorna, koncentráció",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 160049,
@@ -2777,7 +3701,10 @@
           "tags": "asszociáció, gondolkodás, játék, agytorna, koncentráció",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 160050,
@@ -2786,7 +3713,10 @@
           "tags": "asszociáció, gondolkodás, játék, agytorna, koncentráció",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         }
       ]
     },
@@ -2796,114 +3726,177 @@
       "niceText": "Elengedem ~ Feszültségoldó trükkök - 10 hetes program",
       "descLink": "https://ele-kartyak.blogspot.com/2026/02/elengedem-feszultsegoldo-kartyacsomag.html",
       "tags": "szorongásoldás, stresszkezelés, dühkezelés, lélektan, tipp, trükk",
+      "deckBack": "https://blogger.googleusercontent.com/img/a/AVvXsEivq_IUZJdFlcafVi3yXmX799NOipqq7mWQZGpKbKjwLOF9oZRmLQq6Ctmed196HUZQSVr_Pz4GwGwAzWqR79LEgHUxbu480ISiJGtdr-KvjunhI_zyMsQR_CBtva89RtzgNqR6AS4OANQ7xqw-e9o6K7RtmhuaCzIJ3RGDJLxyi2pz6foVviy9pykFKp71",
+      "demo": 1,
+      "trial": 1,
       "cards": [
         {
-          "internalID": 1925012,
+          "0": 0,
+          "internalID": 1100014,
+          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEilLhVXbT4dJ8zleTFa7cy9ZFRcX__CFWepzCfsEfOzZygY2TXw-kdknF93UnPxv0B1fo-SkvqW7cS8GW-Z3qkFjexjHpqVNGFNx_kZT6aO809aIjgeQYPwDPpEQC0LzAMInMKBCI3jGbHtdcbuFnnX8OXluZaUPb2YVtJtWhbqB40GKh7a7wdZ2TQlTOG1",
+          "title": "Padlóprés",
+          "tags": "stressz, feszültség, szorongás, erőkifejtés",
+          "level": 2,
+          "mediaID": "",
+          "mediaTitle": "",
+          "demo": 0,
+          "cardDesc": 1
+        },
+        {
+          "0": 0,
+          "internalID": 1100013,
+          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEjq6QT3PPQE5eTzivqqEZY6mcD2Gw0IXFe7UN4yJHcsofCQ_0wLoN2M0kE8ajnebpPISjV43hJkw34t5h0IUqnd7SNVzoUKUZZVgp0hhVNNznKQ2dBjztwCTbHY5dIN675cHArguQz1w_1OvtUKkLu7pJuzorSA9y1GlQL0JoAbLxDo9qX6WtF3ivNFFrkq",
+          "title": "Mini-szkander",
+          "tags": "stressz, feszültség, szorongás, erőkifejtés",
+          "level": 2,
+          "mediaID": "",
+          "mediaTitle": "",
+          "demo": 0,
+          "cardDesc": 1
+        },
+        {
+          "0": 0,
+          "internalID": 1100012,
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEjP53WQOrTndze2_Uhr8zthTyShhQUIFR7LGzWYO_t799k4ZugGT3RhTqUail-HdepD-8G8QO-GX8I3bAaRBWk5Xz_pyTL3MEFg9EXQRvWE8a1dZQgpBCEX4AFvhnh8lGMDHI_I6sRZiPqXrCddipAvoJNBGCzuVkWbI9MmlnW9QnauaJqe7XKmzg-Wqju2",
           "title": "Düh-szörny",
           "tags": "stressz, feszültség, szorongás, kreatív, érzelem, önismeret",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "cardDesc": 1
         },
         {
-          "internalID": 1430011,
+          "0": 0,
+          "internalID": 1100011,
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEg8FMIiMY7m1vMDW1Wbn0a0F3b7Z5IL_tyIy7Z3jgXXs3aJjb-N8nkLabzwcM2FXeBamAaxCtd9SajEekZOYG-CqMpLwSIbm3CA5VO3g9gVSrArJbYpHRmjZR-0qJUiR8N3khJNtc6_SoXpyNTlCOxlHWF5FpyxvP9XRyg31c7K3TEBrUbyXb-bqjkp9i_I",
           "title": "Póz-rajz",
           "tags": "stressz, feszültség, szorongás, kreatív, érzelem, önismeret",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "cardDesc": 1
         },
         {
+          "0": 0,
           "internalID": 1100010,
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEiTRshxNGdloFJqM1Fj7DLDxiVZWHmMYKj5lGPbsHxsNjiqkcUgM9M_Ihks96nZE4YJFpfugbDn-wwwb_OSElzynffIhEH7mfBSDe4LZRlcN28_r97kSmCq0Q7C_tMr73jwM8sUM26ihOILOZstuVgJaB5bVN8f6nG7sGIgGVTZ53A6afvsbkgWUY2zgw34",
           "title": "Érzés-időjárás",
           "tags": "stressz, feszültség, szorongásoldás, koncentráció",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "cardDesc": 1
         },
         {
+          "0": 0,
           "internalID": 110009,
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEg6m8BY8uXhztXFVi3SE2ej246-L9eM3Y5p5sbITUgVho_Zqa2SYq-OrFOOp0vSw2rlt2bfVY5_UY51yd6QCP6d4jOwtBBJTzFfWWkYFzsXMRD_lYecJAJ-TzjQfum2itXa4q3Vc7qaHYT5JI8MIuNLqOn_WQQvK68w9SYnE4Kt2JgmzteJBBLXb6v-gix-",
           "title": "5-4-3-2-1",
           "tags": "stressz, feszültség, szorongásoldás, koncentráció",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "cardDesc": 1
         },
         {
+          "0": 0,
           "internalID": 110008,
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEh2ZRoPHAc05SBPijY_RuYhFV7zH8MMNcBNzUAkn9eMIcMwGxM110CE5HkZvJTDDB-eyovZMSz9E8AQD41ulDosoHBFSpcsCpcg1T6V9DRpD-sRpklBDbjghYqOJML74T2B6nXXIEJXljwfMPpH9WdSEQMBmqaLD_47tHtCNTwZgu_3eafwS6PuaajpkRe1",
           "title": "Nyuig-póz",
           "tags": "stressz, feszültség, szorongás, mozgás, koncentráció",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "cardDesc": 1
         },
         {
+          "0": 0,
           "internalID": 110007,
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEjS4MONZX4kpZSlybFsjyPMTn084-yfZqiUJ1hU6YrYEYIl4XppKtmWsNf-ofPKSRakvauIHHO5dei1Qt2DKtFFI-RMsT7p_mdq07kXu2b_LKfDEyEglIxETYCmKZ2Cxm9O3YMF8GEgdj5COcZelWp0A54GmkHiswfGbxr65WN_azprEsHw13igYfj-WfNo",
           "title": "Lassított mozi",
           "tags": "stressz, feszültség, szorongás, mozgás, figyelemfejlesztés, koncentráció",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "cardDesc": 1
         },
         {
+          "0": 0,
           "internalID": 110006,
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgOfNuY62yIQgxSDdcQVQNLunB642GlQ35x20YFtDMXX3rvhkzBye7_gy4WDMSkE_FZddAZFDPp0ig1mkdfX0Pyx97ZzVtYeTpIQ4c6I7140eT7_H16Sfnm_571LIOt13-qhxkJIWvYQHQv_PA-nW5tEQHzWjY806JSyrY7PgAvAzQZ84sCFqITJGdrH-vs",
           "title": "Stressztánc",
           "tags": "stressz, feszültség, szorongás, mozgás",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "cardDesc": 1
         },
         {
+          "0": 1,
           "internalID": 110005,
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEi2dfD_l3TlNhFjsegB2WD99m9woX5Mywwc2dRnCI9Q2GixPn65YjhQ1RzMmXqq3xULbOJNkk0v3ni0KvSmT6GTg3rQ6dEteMZCHNst3GBxjXw7rppGA2rksor5FacgxFt0DGD5d_DDeHYElb-H5plYlLOYyJ2ic4Od-QpC3yQw9NJhZeBi7XzgqTqXH_qJ",
           "title": "Rongybaba",
           "tags": "stressz, feszültség, szorongás, mozgás",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "cardDesc": 1
         },
         {
+          "0": 0,
           "internalID": 110004,
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEjIVkJLEL088aeyNPaqdXp8Kr1-6iObNb2CffKQHOSXc7ngOOnTMl3hnOuAoaj_e-lVlyT80d03K-D3u2F7Zw7HHzWsJbndBlNRLTPgd9p4MaEMN2Ezy8u40GJtLPG49jAphwGspjn4ZqtJhrEmA131OhSLyBuUGEu0EmK_TEVpXMJVlcxHqrIauPRpYvSm",
           "title": "Robotpóz",
           "tags": "stressz, feszültség, szorongás, erőkifejtés",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "cardDesc": 1
         },
         {
+          "0": 1,
           "internalID": 110003,
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEgrWiBmIVNkx_N61EzM_6PHHHMLJ7ltSJas8J7_WZLM-P2rzmJiXBvL95ymPZxzPI6uJUX68AlE-0XZPBU3JH10KoeEMEO0DY-rim1H_g9nmVuxLNALQpg4Ilo_ZDbtWzxKrFI3zheaBRUS16WRiT6egSCVitdIwMFlMITKJqZ-b87ZaIDGIN480xSZJ-5O",
           "title": "Falnyomás",
           "tags": "stressz, feszültség, szorongás, erőkifejtés",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "cardDesc": 1
         },
         {
+          "0": 0,
           "internalID": 110002,
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEjEY4qQsJ5VgGiH_OBRcTaYVS1dPae1Ti6H0eaBBhkA0rER812PPY8c65GnY4x64j5IauAOga51pmWTYzQTGXlsF0nnZGPe7_x39pxMVjNriN-WuHkyrdMUAe6AOmQiI4HKmO_aHbY00d26a8-s5n8xv1V2ya8OXvCaPhLcrjU-rGu3HDin-DBVluGuQAZ6",
           "title": "Átformáló",
           "tags": "stressz, feszültség, szorongás, kreatív",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "cardDesc": 1
         },
         {
+          "0": 1,
           "internalID": 110001,
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEidZkXJElkZzpoIiaCcSif8wjIIhdgR6W4SuQgwZznVG56i1TDhmaFHfQGF-JTpZyoPqkUxGUW8rWMMWhPDSO6djGgv5-h22Inll-LD_wO2_eHlzugxSQ2P9UwpBL4ya1SRFiB9kpdC6y2r4MVr8uq5LgRkwZfH6fW3p-Rk-xO-aR3zznUZPW0TKN3NK0-I",
           "title": "Színes érzések",
           "tags": "stressz, feszültség, szorongás, kreatív, érzelem, önismeret",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 1,
+          "cardDesc": 1
         }
       ]
     }
@@ -2924,7 +3917,10 @@
           "tags": "mozgás, figyelem, koncentráció",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 70009,
@@ -2935,7 +3931,10 @@
           "tags": "agytorna, agyfélteke",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": "",
+          "cardDesc": 0
         },
         {
           "internalID": 70010,
@@ -2946,7 +3945,10 @@
           "tags": "agytorna, agyfélteke",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": "",
+          "cardDesc": 0
         },
         {
           "internalID": 130001,
@@ -2957,7 +3959,10 @@
           "tags": "figyelem, fókusz, koncentráció, meditáció, stresszleküzdés",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 150018,
@@ -2968,7 +3973,10 @@
           "tags": "agyfélteke, kéztorna, mozgásvideo, agytorna, ráhangolódás",
           "level": 2,
           "mediaID": "rHC3YBah9Dc",
-          "mediaTitle": "Pocaksimi"
+          "mediaTitle": "Pocaksimi",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 50002,
@@ -2979,7 +3987,10 @@
           "tags": "agytorna, szóbeli memória, szókincs, figyelem, nyár, emlékezet",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 1,
+          "cardDesc": 0
         },
         {
           "internalID": 40018,
@@ -2990,7 +4001,10 @@
           "tags": "mozgás, figyelem, koncentráció, agyfélteke, kézmozgás",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 70003,
@@ -3001,7 +4015,10 @@
           "tags": "agytorna, agyfélteke",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": "",
+          "cardDesc": 0
         },
         {
           "internalID": 150015,
@@ -3012,7 +4029,10 @@
           "tags": "agyfélteke, kéztorna, mozgásvideo, agytorna, ráhangolódás",
           "level": 1,
           "mediaID": "y78FMD9PdBk",
-          "mediaTitle": "Kéztorna levegőben"
+          "mediaTitle": "Kéztorna levegőben",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 70016,
@@ -3023,7 +4043,10 @@
           "tags": "agytorna, agyfélteke",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": "",
+          "cardDesc": 0
         },
         {
           "internalID": 30009,
@@ -3034,7 +4057,10 @@
           "tags": "légzésgyakorlat, stresszoldás",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 40003,
@@ -3045,7 +4071,10 @@
           "tags": "mozgás, figyelem, koncentráció",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 40016,
@@ -3056,7 +4085,10 @@
           "tags": "mozgás, figyelem, koncentráció, agyfélteke, kézmozgás",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 40011,
@@ -3067,7 +4099,10 @@
           "tags": "mozgás, figyelem, koncentráció",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 150004,
@@ -3078,7 +4113,10 @@
           "tags": "agyfélteke, kéztorna, mozgásvideo, agytorna, ráhangolódás",
           "level": 1,
           "mediaID": "K_gLddeMUkQ",
-          "mediaTitle": "Ujjtorna 1"
+          "mediaTitle": "Ujjtorna 1",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 150008,
@@ -3089,7 +4127,10 @@
           "tags": "agyfélteke, kéztorna, mozgásvideo, agytorna, ráhangolódás",
           "level": 1,
           "mediaID": "u4xmDzOfE_Q",
-          "mediaTitle": "Taps-ritmus"
+          "mediaTitle": "Taps-ritmus",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 50003,
@@ -3100,7 +4141,10 @@
           "tags": "szóbeli memória, szókincs, figyelem, emlékezet, tavasz",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 1,
+          "cardDesc": 0
         },
         {
           "internalID": 30001,
@@ -3111,7 +4155,10 @@
           "tags": "légzésgyakorlat, stresszoldás",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 40001,
@@ -3122,7 +4169,10 @@
           "tags": "mozgás, figyelem, koncentráció",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 70011,
@@ -3133,7 +4183,10 @@
           "tags": "agytorna, agyfélteke",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": "",
+          "cardDesc": 0
         },
         {
           "internalID": 70004,
@@ -3144,7 +4197,10 @@
           "tags": "agytorna, agyfélteke",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": "",
+          "cardDesc": 0
         },
         {
           "internalID": 130003,
@@ -3155,7 +4211,10 @@
           "tags": "figyelem, fókusz, koncentráció, meditáció, stresszleküzdés",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 40015,
@@ -3166,7 +4225,10 @@
           "tags": "mozgás, figyelem, koncentráció",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 20001,
@@ -3177,7 +4239,10 @@
           "tags": "agytorna, nyelvi gondolkodás, mondatalkotás, játék",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 150002,
@@ -3188,7 +4253,10 @@
           "tags": "agyfélteke, kéztorna, mozgásvideo, agytorna, ráhangolódás",
           "level": 2,
           "mediaID": "Fz8yZPmG7ew",
-          "mediaTitle": "Muti kéztorna"
+          "mediaTitle": "Muti kéztorna",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 70014,
@@ -3199,7 +4267,10 @@
           "tags": "agytorna, agyfélteke",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": "",
+          "cardDesc": 0
         },
         {
           "internalID": 40019,
@@ -3210,7 +4281,10 @@
           "tags": "mozgás, figyelem, koncentráció, agyfélteke, kézmozgás",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 30004,
@@ -3221,7 +4295,10 @@
           "tags": "légzésgyakorlat, stresszoldás",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 40004,
@@ -3232,7 +4309,10 @@
           "tags": "mozgás, figyelem, koncentráció",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 40010,
@@ -3243,7 +4323,10 @@
           "tags": "mozgás, figyelem, koncentráció",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 140001,
@@ -3254,7 +4337,10 @@
           "tags": "figyelem, koncentráció, meditáció, stresszleküzdés",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 130002,
@@ -3265,7 +4351,10 @@
           "tags": "figyelem, fókusz, koncentráció, meditáció, stresszleküzdés",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 120005,
@@ -3276,7 +4365,10 @@
           "tags": "érzéskártya, önismeret, önreflexió",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": "",
+          "cardDesc": 0
         },
         {
           "internalID": 50001,
@@ -3287,7 +4379,10 @@
           "tags": "szóbeli memória, szókincs, figyelem, emlékezet",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 1,
+          "trial": 1,
+          "cardDesc": 0
         },
         {
           "internalID": 130008,
@@ -3298,7 +4393,10 @@
           "tags": "figyelem, fókusz, koncentráció, ",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 40012,
@@ -3309,7 +4407,10 @@
           "tags": "mozgás, figyelem, koncentráció, stresszleküzdés",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 30002,
@@ -3320,7 +4421,10 @@
           "tags": "légzésgyakorlat, stresszoldás",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 150013,
@@ -3331,7 +4435,10 @@
           "tags": "agyfélteke, kéztorna, mozgásvideo, agytorna, ráhangolódás",
           "level": 2,
           "mediaID": "1DudKsbXQOY",
-          "mediaTitle": "Ritmus-mozgás"
+          "mediaTitle": "Ritmus-mozgás",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 150006,
@@ -3342,7 +4449,10 @@
           "tags": "agyfélteke, kéztorna, mozgásvideo, agytorna, ráhangolódás",
           "level": 2,
           "mediaID": "V9-3d8ntsMs?",
-          "mediaTitle": "Csapd le! játék"
+          "mediaTitle": "Csapd le! játék",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 60001,
@@ -3353,7 +4463,10 @@
           "tags": "játék, mozgás, stresszlevezetés",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 30008,
@@ -3364,7 +4477,10 @@
           "tags": "légzésgyakorlat, stresszoldás",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 40002,
@@ -3375,7 +4491,10 @@
           "tags": "mozgás, figyelem, koncentráció",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 40021,
@@ -3386,7 +4505,10 @@
           "tags": "mozgás, figyelem, koncentráció, agyfélteke, kézmozgás",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 60005,
@@ -3397,7 +4519,10 @@
           "tags": "játék, baráttal, kreatív, mozgás",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 40005,
@@ -3408,7 +4533,10 @@
           "tags": "mozgás, figyelem, koncentráció",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 120009,
@@ -3419,7 +4547,10 @@
           "tags": "érzéskártya, önismeret, önreflexió",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": "",
+          "cardDesc": 0
         },
         {
           "internalID": 70006,
@@ -3430,7 +4561,10 @@
           "tags": "agytorna, agyfélteke",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": "",
+          "cardDesc": 0
         },
         {
           "internalID": 70007,
@@ -3441,7 +4575,10 @@
           "tags": "agytorna, agyfélteke",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": "",
+          "cardDesc": 0
         },
         {
           "internalID": 130004,
@@ -3452,7 +4589,10 @@
           "tags": "figyelem, fókusz, koncentráció, ",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 70002,
@@ -3463,7 +4603,10 @@
           "tags": "agytorna, agyfélteke",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": "",
+          "cardDesc": 0
         },
         {
           "internalID": 40017,
@@ -3474,7 +4617,10 @@
           "tags": "mozgás, figyelem, koncentráció, agyfélteke, kézmozgás",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 70008,
@@ -3485,7 +4631,10 @@
           "tags": "agytorna, agyfélteke",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": "",
+          "cardDesc": 0
         },
         {
           "internalID": 150009,
@@ -3496,7 +4645,10 @@
           "tags": "agyfélteke, kéztorna, mozgásvideo, agytorna, ráhangolódás",
           "level": 2,
           "mediaID": "Xg1I7S9kJAc",
-          "mediaTitle": "Visszhangkártya"
+          "mediaTitle": "Visszhangkártya",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 70020,
@@ -3507,7 +4659,10 @@
           "tags": "agytorna, agyfélteke",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": "",
+          "cardDesc": 0
         },
         {
           "internalID": 130012,
@@ -3518,7 +4673,10 @@
           "tags": "figyelem, fókusz, koncentráció, ",
           "level": 3,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 30006,
@@ -3529,7 +4687,10 @@
           "tags": "légzésgyakorlat, stresszoldás",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 150010,
@@ -3540,7 +4701,10 @@
           "tags": "agyfélteke, kéztorna, mozgásvideo, agytorna, ráhangolódás",
           "level": 3,
           "mediaID": "mn_k31ylNU4",
-          "mediaTitle": "Vissza-ritmus"
+          "mediaTitle": "Vissza-ritmus",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 70012,
@@ -3551,7 +4715,10 @@
           "tags": "agytorna, agyfélteke",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": "",
+          "cardDesc": 0
         },
         {
           "internalID": 40016,
@@ -3562,7 +4729,10 @@
           "tags": "mozgás, figyelem, koncentráció, agyfélteke, kézmozgás",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 130006,
@@ -3573,7 +4743,10 @@
           "tags": "figyelem, fókusz, koncentráció, ",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 150017,
@@ -3584,7 +4757,10 @@
           "tags": "agyfélteke, kéztorna, mozgásvideo, agytorna, ráhangolódás",
           "level": 3,
           "mediaID": "IvgXEmA2mxQ",
-          "mediaTitle": "Orr-fül-áll-homlok"
+          "mediaTitle": "Orr-fül-áll-homlok",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 20008,
@@ -3595,7 +4771,10 @@
           "tags": "gondolkodás, kreativitás, agytorna",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 60002,
@@ -3606,7 +4785,10 @@
           "tags": "játék, hangulat, baráttal",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 30003,
@@ -3617,7 +4799,10 @@
           "tags": "légzésgyakorlat, stresszoldás",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 120004,
@@ -3628,7 +4813,10 @@
           "tags": "érzéskártya, önismeret, önreflexió",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": "",
+          "cardDesc": 0
         },
         {
           "internalID": 40007,
@@ -3639,7 +4827,10 @@
           "tags": "mozgás, figyelem, koncentráció",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 70005,
@@ -3650,7 +4841,10 @@
           "tags": "agytorna, agyfélteke",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": "",
+          "cardDesc": 0
         },
         {
           "internalID": 150005,
@@ -3661,7 +4855,10 @@
           "tags": "agyfélteke, kéztorna, mozgásvideo, agytorna, ráhangolódás",
           "level": 1,
           "mediaID": "lJPvhg6h5Rw",
-          "mediaTitle": "Ujjtrona 2"
+          "mediaTitle": "Ujjtrona 2",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 130005,
@@ -3672,7 +4869,10 @@
           "tags": "figyelem, fókusz, koncentráció,",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 130009,
@@ -3683,7 +4883,10 @@
           "tags": "figyelem, fókusz, koncentráció, ",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 40019,
@@ -3694,7 +4897,10 @@
           "tags": "mozgás, figyelem, koncentráció, agyfélteke, kézmozgás",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 150007,
@@ -3705,7 +4911,10 @@
           "tags": "agyfélteke, kéztorna, mozgásvideo, agytorna, ráhangolódás",
           "level": 2,
           "mediaID": "FPe0cQAc_Ps",
-          "mediaTitle": "Irányváltás"
+          "mediaTitle": "Irányváltás",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 70013,
@@ -3716,7 +4925,10 @@
           "tags": "agytorna, agyfélteke",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": "",
+          "cardDesc": 0
         },
         {
           "internalID": 70001,
@@ -3727,7 +4939,10 @@
           "tags": "agytorna, agyfélteke",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 1,
+          "trial": "",
+          "cardDesc": 0
         },
         {
           "internalID": 20002,
@@ -3738,7 +4953,10 @@
           "tags": "agytorna, nyelvi gondolkodás, szóalkotás, játék",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 30005,
@@ -3749,7 +4967,10 @@
           "tags": "légzésgyakorlat, stresszoldás",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 40004,
@@ -3760,7 +4981,10 @@
           "tags": "mozgás, figyelem, koncentráció",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 40009,
@@ -3771,7 +4995,10 @@
           "tags": "mozgás, figyelem, koncentráció",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 30012,
@@ -3782,7 +5009,10 @@
           "tags": "légzésgyakorlat, stresszoldás, figyelem, koncentráció",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 130010,
@@ -3793,7 +5023,10 @@
           "tags": "figyelem, fókusz, koncentráció, ",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 130007,
@@ -3804,7 +5037,10 @@
           "tags": "figyelem, fókusz, koncentráció, ",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 120002,
@@ -3815,7 +5051,10 @@
           "tags": "érzéskártya, önismeret, önreflexió",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": "",
+          "cardDesc": 0
         },
         {
           "internalID": 140003,
@@ -3826,7 +5065,10 @@
           "tags": "figyelem, koncentráció, meditáció, stresszleküzdés",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 40012,
@@ -3837,7 +5079,10 @@
           "tags": "mozgás, figyelem, koncentráció, stresszleküzdés",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 60009,
@@ -3848,7 +5093,10 @@
           "tags": "játék, hangulat, mozgás, stresszlevezetés",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 150001,
@@ -3859,7 +5107,10 @@
           "tags": "agyfélteke, kéztorna, mozgásvideo, agytorna, ráhangolódás",
           "level": 2,
           "mediaID": "otq18JtL0yc",
-          "mediaTitle": "Kő-papír-olló"
+          "mediaTitle": "Kő-papír-olló",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 30007,
@@ -3870,7 +5121,10 @@
           "tags": "légzésgyakorlat, stresszoldás",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 40020,
@@ -3881,7 +5135,10 @@
           "tags": "mozgás, figyelem, koncentráció, agyfélteke, kézmozgás",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 60008,
@@ -3892,7 +5149,10 @@
           "tags": "játék, hangular, kommunikció",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 20012,
@@ -3903,7 +5163,10 @@
           "tags": "gondolkodás, kreativitás, agytorna, koncentráció, figyelem",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 30013,
@@ -3914,7 +5177,10 @@
           "tags": "légzésgyakorlat, stresszoldás, figyelem, koncentráció",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 40001,
@@ -3925,7 +5191,10 @@
           "tags": "mozgás, figyelem, koncentráció",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 70018,
@@ -3936,7 +5205,10 @@
           "tags": "agytorna, agyfélteke",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": "",
+          "cardDesc": 0
         },
         {
           "internalID": 70001,
@@ -3947,7 +5219,10 @@
           "tags": "agytorna, agyfélteke",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 1,
+          "trial": "",
+          "cardDesc": 0
         },
         {
           "internalID": 70014,
@@ -3958,7 +5233,10 @@
           "tags": "agytorna, agyfélteke",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": "",
+          "cardDesc": 0
         },
         {
           "internalID": 70003,
@@ -3969,7 +5247,10 @@
           "tags": "agytorna, agyfélteke",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": "",
+          "cardDesc": 0
         },
         {
           "internalID": 130011,
@@ -3980,7 +5261,10 @@
           "tags": "figyelem, fókusz, koncentráció, ",
           "level": 3,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 20007,
@@ -3991,7 +5275,10 @@
           "tags": "gondolkodás, kreativitás, agytorna",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 40013,
@@ -4002,7 +5289,10 @@
           "tags": "mozgás, figyelem, koncentráció",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 150003,
@@ -4013,7 +5303,10 @@
           "tags": "agyfélteke, kéztorna, mozgásvideo, agytorna, ráhangolódás",
           "level": 3,
           "mediaID": "gAJ_r5s1Yzc",
-          "mediaTitle": "Muti számok"
+          "mediaTitle": "Muti számok",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 20009,
@@ -4024,7 +5317,10 @@
           "tags": "gondolkodás, kreativitás, agytorna",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 130004,
@@ -4035,7 +5331,10 @@
           "tags": "figyelem, fókusz, koncentráció, ",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 20005,
@@ -4046,7 +5345,10 @@
           "tags": "gondolkodás, logika, algebra",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 120007,
@@ -4057,7 +5359,10 @@
           "tags": "érzéskártya, önismeret, önreflexió",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": "",
+          "cardDesc": 0
         },
         {
           "internalID": 120008,
@@ -4068,7 +5373,10 @@
           "tags": "érzéskártya, önismeret, önreflexió",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": "",
+          "cardDesc": 0
         },
         {
           "internalID": 40008,
@@ -4079,7 +5387,10 @@
           "tags": "mozgás, figyelem, koncentráció",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 150012,
@@ -4090,7 +5401,10 @@
           "tags": "agyfélteke, kéztorna, mozgásvideo, agytorna, ráhangolódás",
           "level": 3,
           "mediaID": "e1G57crqfXc",
-          "mediaTitle": "Dupla ritmus"
+          "mediaTitle": "Dupla ritmus",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 70019,
@@ -4101,7 +5415,10 @@
           "tags": "agytorna, agyfélteke",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": "",
+          "cardDesc": 0
         },
         {
           "internalID": 40019,
@@ -4112,7 +5429,10 @@
           "tags": "mozgás, figyelem, koncentráció, agyfélteke, kézmozgás",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 60003,
@@ -4123,7 +5443,10 @@
           "tags": "játék, mozgás, kreatív, hangulat, stresszlevezetés",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 130015,
@@ -4134,7 +5457,10 @@
           "tags": "figyelem, fókusz, koncentráció, ",
           "level": 3,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 150014,
@@ -4145,7 +5471,10 @@
           "tags": "agyfélteke, kéztorna, mozgásvideo, agytorna, ráhangolódás",
           "level": 1,
           "mediaID": "vopW6GDpdek",
-          "mediaTitle": "Fagyasztó játék"
+          "mediaTitle": "Fagyasztó játék",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 60006,
@@ -4156,7 +5485,10 @@
           "tags": "játék, kommunikáció, hangulat",
           "level": 3,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 60013,
@@ -4167,7 +5499,10 @@
           "tags": "játék, hangulat, stresszlevezetés, meditációs, légzőgyakorlat",
           "level": 3,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 40007,
@@ -4178,7 +5513,10 @@
           "tags": "mozgás, figyelem, koncentráció",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 150016,
@@ -4189,7 +5527,10 @@
           "tags": "agyfélteke, kéztorna, mozgásvideo, agytorna, ráhangolódás",
           "level": 1,
           "mediaID": "B2sIT-8FDT0",
-          "mediaTitle": "Keresztbe-torna"
+          "mediaTitle": "Keresztbe-torna",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 150003,
@@ -4200,7 +5541,10 @@
           "tags": "agyfélteke, kéztorna, mozgásvideo, agytorna, ráhangolódás",
           "level": 3,
           "mediaID": "gAJ_r5s1Yzc",
-          "mediaTitle": "Muti számok"
+          "mediaTitle": "Muti számok",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 70005,
@@ -4211,7 +5555,10 @@
           "tags": "agytorna, agyfélteke",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": "",
+          "cardDesc": 0
         },
         {
           "internalID": 40017,
@@ -4222,7 +5569,10 @@
           "tags": "mozgás, figyelem, koncentráció, agyfélteke, kézmozgás",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 20011,
@@ -4233,7 +5583,10 @@
           "tags": "gondolkodás, kreativitás, agytorna",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 70017,
@@ -4244,7 +5597,10 @@
           "tags": "agytorna, agyfélteke",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": "",
+          "cardDesc": 0
         },
         {
           "internalID": 40019,
@@ -4255,7 +5611,10 @@
           "tags": "mozgás, figyelem, koncentráció, agyfélteke, kézmozgás",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 20004,
@@ -4266,7 +5625,10 @@
           "tags": "agytorna, memória, gondolkodás",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 130013,
@@ -4277,7 +5639,10 @@
           "tags": "figyelem, fókusz, koncentráció, ",
           "level": 3,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 140004,
@@ -4288,7 +5653,10 @@
           "tags": "figyelem, koncentráció, meditáció, stresszleküzdés",
           "level": 3,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 30011,
@@ -4299,7 +5667,10 @@
           "tags": "légzésgyakorlat, stresszoldás",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 30001,
@@ -4310,7 +5681,10 @@
           "tags": "légzésgyakorlat, stresszoldás",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 130005,
@@ -4321,7 +5695,10 @@
           "tags": "figyelem, fókusz, koncentráció,",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 150011,
@@ -4332,7 +5709,10 @@
           "tags": "agyfélteke, kéztorna, mozgásvideo, agytorna, ráhangolódás",
           "level": 1,
           "mediaID": "CMo8lvDPyO4",
-          "mediaTitle": "Csendes taps"
+          "mediaTitle": "Csendes taps",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 30014,
@@ -4343,7 +5723,10 @@
           "tags": "légzésgyakorlat, stresszoldás, figyelem, koncentráció",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 140002,
@@ -4354,7 +5737,10 @@
           "tags": "figyelem, koncentráció, meditáció, stresszleküzdés",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": 0,
+          "cardDesc": 0
         },
         {
           "internalID": 120001,
@@ -4365,7 +5751,10 @@
           "tags": "érzéskártya, önismeret, önreflexió",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": "",
+          "cardDesc": 0
         },
         {
           "internalID": 120019,
@@ -4376,7 +5765,10 @@
           "tags": "érzéskártya, önismeret, önreflexió",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": "",
+          "cardDesc": 0
         },
         {
           "internalID": 120020,
@@ -4387,7 +5779,10 @@
           "tags": "érzéskártya, önismeret, önreflexió",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": "",
+          "cardDesc": 0
         },
         {
           "internalID": 40006,
@@ -4398,7 +5793,10 @@
           "tags": "mozgás, figyelem, koncentráció",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 30010,
@@ -4409,7 +5807,10 @@
           "tags": "légzésgyakorlat, stresszoldás",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 150013,
@@ -4420,7 +5821,10 @@
           "tags": "agyfélteke, kéztorna, mozgásvideo, agytorna, ráhangolódás",
           "level": 2,
           "mediaID": "1DudKsbXQOY",
-          "mediaTitle": "Ritmus-mozgás"
+          "mediaTitle": "Ritmus-mozgás",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 40014,
@@ -4431,7 +5835,10 @@
           "tags": "mozgás, figyelem, koncentráció",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 30008,
@@ -4442,7 +5849,10 @@
           "tags": "légzésgyakorlat, stresszoldás",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 60011,
@@ -4453,7 +5863,10 @@
           "tags": "játék, hangulat, nyelvi készségek",
           "level": 3,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 150017,
@@ -4464,7 +5877,10 @@
           "tags": "agyfélteke, kéztorna, mozgásvideo, agytorna, ráhangolódás",
           "level": 3,
           "mediaID": "IvgXEmA2mxQ",
-          "mediaTitle": "Orr-fül-áll-homlok"
+          "mediaTitle": "Orr-fül-áll-homlok",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 130014,
@@ -4475,7 +5891,10 @@
           "tags": "figyelem, fókusz, koncentráció, ",
           "level": 3,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 60004,
@@ -4486,7 +5905,10 @@
           "tags": "játék, kreatív, rajz, hangulat, önreflexió",
           "level": 2,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         },
         {
           "internalID": 120003,
@@ -4497,7 +5919,10 @@
           "tags": "érzéskártya, önismeret, önreflexió",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": 0,
+          "trial": "",
+          "cardDesc": 0
         },
         {
           "internalID": 40022,
@@ -4508,7 +5933,10 @@
           "tags": "mozgás, figyelem, koncentráció, agyfélteke, kézmozgás",
           "level": 1,
           "mediaID": "",
-          "mediaTitle": ""
+          "mediaTitle": "",
+          "demo": "",
+          "trial": "",
+          "cardDesc": ""
         }
       ]
     }
