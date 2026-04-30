@@ -3732,6 +3732,30 @@
       "cards": [
         {
           "0": 0,
+          "internalID": 110006,
+          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEh4Yqoy-UoFmMdrwqSF661thyKE25Ku1LmYLSZLQzXIRqYmL6VP409qiwnB0h9YZT88JqbnNlQNMHbwhQuQxYJk4dNgzn2-JK34M0kZYCTnVU80CXkqpsoZa36yIkG3494lzZh65_P0ROQdetjXqiTr_9wDzXRxFyrmvVFW8zyZt3rInZbUOOGcnE5Ole8Z",
+          "title": "Rezegtetés",
+          "tags": "stressz, feszültség, szorongás, mozgás",
+          "level": 2,
+          "mediaID": "",
+          "mediaTitle": "",
+          "demo": 0,
+          "cardDesc": 1
+        },
+        {
+          "0": 0,
+          "internalID": 110005,
+          "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEjZwQwmyru2AJhSCz-JdN-CjXfIMQ4TcKS0CEpkCtmDufkkGkgNAVorczkPiXEBbjaWW1jVFa5n8-kaAN3dJK5DkKbNNYmDasgGNIdREDTHieG1oyGGpow0CZLvPW9C_jZ1lFgEY5BRfCThFwwjBjr2GkOpNNm7ZKXF2k70gAwDVPqLCYQyhmv0cu-tFL7A",
+          "title": "Düh-futár",
+          "tags": "stressz, feszültség, szorongás, mozgás",
+          "level": 2,
+          "mediaID": "",
+          "mediaTitle": "",
+          "demo": 0,
+          "cardDesc": 1
+        },
+        {
+          "0": 0,
           "internalID": 1100014,
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEilLhVXbT4dJ8zleTFa7cy9ZFRcX__CFWepzCfsEfOzZygY2TXw-kdknF93UnPxv0B1fo-SkvqW7cS8GW-Z3qkFjexjHpqVNGFNx_kZT6aO809aIjgeQYPwDPpEQC0LzAMInMKBCI3jGbHtdcbuFnnX8OXluZaUPb2YVtJtWhbqB40GKh7a7wdZ2TQlTOG1",
           "title": "Padlóprés",
@@ -3791,7 +3815,7 @@
           "cardDesc": 1
         },
         {
-          "0": 0,
+          "0": 1,
           "internalID": 110009,
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEg6m8BY8uXhztXFVi3SE2ej246-L9eM3Y5p5sbITUgVho_Zqa2SYq-OrFOOp0vSw2rlt2bfVY5_UY51yd6QCP6d4jOwtBBJTzFfWWkYFzsXMRD_lYecJAJ-TzjQfum2itXa4q3Vc7qaHYT5JI8MIuNLqOn_WQQvK68w9SYnE4Kt2JgmzteJBBLXb6v-gix-",
           "title": "5-4-3-2-1",
@@ -3806,7 +3830,7 @@
           "0": 0,
           "internalID": 110008,
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEh2ZRoPHAc05SBPijY_RuYhFV7zH8MMNcBNzUAkn9eMIcMwGxM110CE5HkZvJTDDB-eyovZMSz9E8AQD41ulDosoHBFSpcsCpcg1T6V9DRpD-sRpklBDbjghYqOJML74T2B6nXXIEJXljwfMPpH9WdSEQMBmqaLD_47tHtCNTwZgu_3eafwS6PuaajpkRe1",
-          "title": "Nyuig-póz",
+          "title": "Nyugi-póz",
           "tags": "stressz, feszültség, szorongás, mozgás, koncentráció",
           "level": 2,
           "mediaID": "",
@@ -3875,7 +3899,7 @@
           "cardDesc": 1
         },
         {
-          "0": 0,
+          "0": 1,
           "internalID": 110002,
           "imageUrl": "https://blogger.googleusercontent.com/img/a/AVvXsEjEY4qQsJ5VgGiH_OBRcTaYVS1dPae1Ti6H0eaBBhkA0rER812PPY8c65GnY4x64j5IauAOga51pmWTYzQTGXlsF0nnZGPe7_x39pxMVjNriN-WuHkyrdMUAe6AOmQiI4HKmO_aHbY00d26a8-s5n8xv1V2ya8OXvCaPhLcrjU-rGu3HDin-DBVluGuQAZ6",
           "title": "Átformáló",
